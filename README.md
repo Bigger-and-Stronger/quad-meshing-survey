@@ -387,7 +387,8 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 19 July 2021, TOG (SIGGRAPH 2021)
 <td>
 
-- [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459941)
+- [[Paper]](https://dl.acm.org/doi/10.1145/3450626.3459941)
+- [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459941)
 - [[Project Page]](https://www.quadmesh.cloud/)
 - [[Code]](https://github.com/nicopietroni/quadwild)
 <!-- ---------------------------------------------------------------------- -->
@@ -561,6 +562,21 @@ Hans-Christian Ebke, Marcel Campen, [David Bommes](https://www.graphics.rwth-aac
 <tr>
 <td>
 
+![Pattern-Based-Quadrangulation-for-N-Sided-Patches](.pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png)
+<td>
+
+**Pattern-Based Quadrangulation for N-Sided Patches**
+
+Kenshi Takayama, Daniele Panozzo, Olga Sorkine-Hornung
+
+23 August 2014, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.12443)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 ![QEx-robust-quad-mesh-extraction](.pic/QEx-robust-quad-mesh-extraction.png)
 <td>
 
@@ -572,6 +588,22 @@ Hans-Christian Ebke, [David Bommes](https://www.graphics.rwth-aachen.de/person/6
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2508363.2508372)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Animation-Aware-Quadrangulation](.pic/Animation-Aware-Quadrangulation.png)
+<td>
+
+**Animation-Aware Quadrangulation**
+
+Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Hornung
+
+19 August 2013, CGF (SGP 13)
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12183)
+- [[Project Page]](https://igl.ethz.ch/projects/animation-aware-quadrangulation/)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
