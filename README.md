@@ -12,6 +12,8 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 # :page_with_curl: Papers
 
+## Quad Meshing
+
 <table> 
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -547,6 +549,21 @@ Nicolas Kowalski, Franck Ledoux, Pascal Frey
 <tr>
 <td>
 
+![Data-Driven-Interactive-Quadrangulation](.pic/Data-Driven-Interactive-Quadrangulation.png)
+<td>
+
+**Data-Driven Interactive Quadrangulation**
+
+Giorgio Marcias, [Kenshi Takayama](https://kenshi84.github.io/), Nico Pietroni, Daniele Panozzo, Olga Sorkine-Hornung, Enrico Puppo, Paolo Cignoni
+
+27 July 2015, TOG (SIGGRAPH North America 2015)
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2766964)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 ![Level-of-detail-quad-meshing](.pic/Level-of-detail-quad-meshing.png)
 <td>
 
@@ -558,21 +575,6 @@ Hans-Christian Ebke, Marcel Campen, [David Bommes](https://www.graphics.rwth-aac
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2661229.2661240)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-![Pattern-Based-Quadrangulation-for-N-Sided-Patches](.pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png)
-<td>
-
-**Pattern-Based Quadrangulation for N-Sided Patches**
-
-Kenshi Takayama, Daniele Panozzo, Olga Sorkine-Hornung
-
-23 August 2014, CGF
-<td>
-
-- [[Paper]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.12443)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -619,6 +621,25 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2461912.2462014)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Sketch-based-generation-and-editing-of-quad-meshes](.pic/Sketch-based-generation-and-editing-of-quad-meshes.png)
+<td>
+
+**Sketch-based generation and editing of quad meshes**
+
+[Kenshi Takayama](https://kenshi84.github.io/), Daniele Panozzo, Alexander Sorkine-Hornung, Olga Sorkine-Hornung
+
+21 July 2013, TOG (SIGGRAPH North America 2013)
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2461912.2461955)
+- [[Project Page]](https://igl.ethz.ch/projects/sketch-retopo/)
+- [[Code]](http://igl.ethz.ch/projects/sketch-retopo/sketch-retopo-license.html)
+- [[Slides]](https://kenshi84.github.io/sketch-retopo/sketch-retopo.pptx)
+- [[Video]](https://youtu.be/-OTl_TtAm1o)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -770,6 +791,61 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0207(19990330)44:9%3C1317::AID-NME532%3E3.0.CO;2-N)
+<!-- ---------------------------------------------------------------------- -->
+</table>
+
+## N-sided Patch
+
+<table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Pattern-Based-Quadrangulation-for-N-Sided-Patches](.pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png)
+<td>
+
+**Pattern-Based Quadrangulation for N-Sided Patches**
+
+[Kenshi Takayama](https://kenshi84.github.io/), Daniele Panozzo, Olga Sorkine-Hornung
+
+23 August 2014, CGF (SGP 14)
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.12443)
+- [[Project Page]](https://igl.ethz.ch/projects/patch-quad/)
+- [[Code]](https://kenshi84.github.io/patch-quad/patch-quad.zip)
+- [[Slides]](https://kenshi84.github.io/patch-quad/patch-quad.pptx)
+- [[Video]](https://www.youtube.com/watch?v=qtvPb7ZeIp4)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Robust-and-Controllable-Quadrangulation-of-Triangular-and-Rectangular-Regions](.pic/Robust-and-Controllable-Quadrangulation-of-Triangular-and-Rectangular-Regions.png)
+<td>
+
+**Robust and Controllable Quadrangulation of Triangular and Rectangular Regions**
+
+[Kenshi Takayama](https://kenshi84.github.io/), Daniele Panozzo, Alexander Sorkine-Hornung, Olga Sorkine-Hornung
+
+2013, Technical Report
+<td>
+
+- [[Paper]](https://www.research-collection.ethz.ch/handle/20.500.11850/67168)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Filling-N-Sided-Regions-by-Quad-Meshes-for-Subdivision-Surfaces](.pic/Filling-N-Sided-Regions-by-Quad-Meshes-for-Subdivision-Surfaces.png)
+<td>
+
+**Filling N-Sided Regions by Quad Meshes for Subdivision Surfaces**
+
+A. Nasri, M. Sabin, Z. Yasseen
+
+16 September 2009, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01417.x)
 <!-- ---------------------------------------------------------------------- -->
 </table>
 
