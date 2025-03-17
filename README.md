@@ -14,6 +14,10 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 ## Quad Meshing
 
+I categorize these methods by adding `emojis` according to the classification provided by **"Quad-Mesh Generation and Processing: A Survey"**. The `emojis` are as follows:
+
+:small_red_triangle: Tri-to-quad conversion
+
 <table> 
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -659,6 +663,21 @@ Marcel Campen, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Le
 <tr>
 <td>
 
+![Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm](.pic/Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm.png)
+<td>
+
+**Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm** :small_red_triangle:
+
+J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
+
+06 February 2012, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.3279)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 ![Quad-Meshing](.pic/Quad-Meshing.png)
 <td>
 
@@ -685,6 +704,37 @@ Marcel Campen, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Le
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2011.01868.x)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![SQuad-Compact-Representation-for-Triangle-Meshes](.pic/SQuad-Compact-Representation-for-Triangle-Meshes.png)
+
+<td>
+
+**SQuad: Compact Representation for Triangle Meshes** :small_red_triangle:
+
+Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
+
+28 April 2011, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2011.01866.x)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Feature-aligned-T-meshes](.pic/Feature-aligned-T-meshes.png)
+<td>
+
+**Feature-aligned T-meshes**
+
+Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
+
+26 July 2010, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1778765.1778854)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -731,6 +781,21 @@ Joel Daniels, Cláudio T. Silva, Jason Shepherd, Elaine Cohen
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/1409060.1409101)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![An-incremental-approach-to-feature-aligned-quad-dominant-remeshing](.pic/An-incremental-approach-to-feature-aligned-quad-dominant-remeshing.png)
+<td>
+
+**An incremental approach to feature aligned quad dominant remeshing**
+
+Yu-Kun Lai, Leif Kobbelt, Shi-Min Hu
+
+02 June 2008, SPM
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1364901.1364921)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
