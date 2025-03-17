@@ -655,7 +655,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 
 Marcel Campen, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Leif Kobbelt
 
-01 July 2012
+01 July 2012, TOG
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2185520.2185606)
@@ -770,6 +770,21 @@ Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
 <tr>
 <td>
 
+![Mixed-integer-quadrangulation](.pic/Mixed-integer-quadrangulation.png)
+<td>
+
+**Mixed-integer quadrangulation**
+
+David Bommes, Henrik Zimmer, Leif Kobbelt
+
+27 July 2009, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1531326.1531383)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 ![Quadrilateral-mesh-simplification](.pic/Quadrilateral-mesh-simplification.png)
 <td>
 
@@ -788,7 +803,7 @@ Joel Daniels, Cláudio T. Silva, Jason Shepherd, Elaine Cohen
 ![An-incremental-approach-to-feature-aligned-quad-dominant-remeshing](.pic/An-incremental-approach-to-feature-aligned-quad-dominant-remeshing.png)
 <td>
 
-**An incremental approach to feature aligned quad dominant remeshing**
+**An incremental approach to feature aligned quad dominant remeshing** :small_red_triangle:
 
 Yu-Kun Lai, Leif Kobbelt, Shi-Min Hu
 
@@ -796,6 +811,21 @@ Yu-Kun Lai, Leif Kobbelt, Shi-Min Hu
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/1364901.1364921)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![QuadCover-Surface-Parameterization-using-Branched-Coverings](.pic/QuadCover-Surface-Parameterization-using-Branched-Coverings.png)
+<td>
+
+**QuadCover - Surface Parameterization using Branched Coverings**
+
+Felix Kälberer, Matthias Nieser, Konrad Polthier
+
+12 October 2007, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01060.x)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
