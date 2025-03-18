@@ -319,6 +319,8 @@ Martin Heistermann, Jethro Warnett, [David Bommes](https://www.graphics.rwth-aac
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/10.1145/3592437)
+- [[Project]](https://www.algohex.eu/publications/bimdf-quantization/)
+- [[Code]](https://github.com/cgg-bern/quadwild-bimdf)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -564,6 +566,9 @@ Giorgio Marcias, [Kenshi Takayama](https://kenshi84.github.io/), Nico Pietroni, 
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2766964)
+- [[Project Page]](https://vcg.isti.cnr.it/publication/2015/MTPPSPC15/)
+- [[Code]](http://igl.ethz.ch/projects/sketch-retopo/sketch-retopo-license.html)
+- [[Video]](https://youtu.be/H8K5CyQB_kc)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -594,6 +599,7 @@ Hans-Christian Ebke, [David Bommes](https://www.graphics.rwth-aachen.de/person/6
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2508363.2508372)
+- [[Code]](https://github.com/hcebke/libQEx)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -781,6 +787,8 @@ David Bommes, Henrik Zimmer, Leif Kobbelt
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/1531326.1531383)
+- [[Implementation (libigl)]](https://github.com/libigl/libigl/tree/main)
+- [[Tutorial]](https://libigl.github.io/tutorial/)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
