@@ -99,7 +99,7 @@ November 2024, CAD
 
 **Capacitive Touch Sensing on General 3D Surfaces**
 
-Gianpaolo Palma, Narges Pourjafarian, Jürgen Steimle, [Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/)
+Gianpaolo Palma, Narges Pourjafarian, Jürgen Steimle, [Paolo Cignoni]
 
 19 July 2024, TOG
 <td>
@@ -131,7 +131,7 @@ Alexander Gao, Maurice Chu, Mubbasir Kapadia, Ming C. Lin, Hsueh-Ti Derek Liu
 
 **High-quality quad-mesh generation for self-intersecting parametric surfaces**
 
-Haolei Nan, Gang Xu, Haiyan Wu, Renshu Gu, Jinlan Xu, Yang Liu
+Haolei Nan, Gang Xu, Haiyan Wu, Renshu Gu, Jinlan Xu, [Yang Liu]
 
 03 July 2024, Preprint
 <td>
@@ -191,7 +191,7 @@ Claire Roche, Jérôme Breil, Thierry Hocquellet, Franck Ledoux
 
 **Bending-Reinforced Grid Shells for Free-form Architectural Surfaces**
 
-Francesco Laccone, [Nico Pietroni](https://www.nicopietroni.com/), [Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/), Luigi Malomo
+Francesco Laccone, [Nico Pietroni], [Paolo Cignoni], Luigi Malomo
 
 March 2024, CAD
 <td>
@@ -237,7 +237,7 @@ Yoann Coudert
 
 **Optimal Surface Quadrilateral Mesh Generation**
 
-Zhou Zhao, Siyu Fang, Na Lei, Yuanpeng Liu, Yiming Zhu, Chander Sadasivan, Apostolos Tassiopoulos, Shikui Chen, Xianfeng Gu
+Zhou Zhao, Siyu Fang, [Na Lei], Yuanpeng Liu, Yiming Zhu, Chander Sadasivan, Apostolos Tassiopoulos, Shikui Chen, [Xianfeng Gu]
 
 2024, Proceedings of the 2024 International Meshing Roundtable (IMR)
 <td>
@@ -267,7 +267,7 @@ Maximilian Frühauf, Hayko Riemenschneider, Markus Gross, Christopher Schroers
 
 **Quad Mesh Quantization Without a T-Mesh**
 
-Yoann Coudert-Osmont, David Desobry, Martin Heistermann, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Nicolas Ray, Dmitry Sokolov
+Yoann Coudert-Osmont, David Desobry, Martin Heistermann, [David Bommes], Nicolas Ray, Dmitry Sokolov
 
 17 September 2023, CGF
 <td>
@@ -282,7 +282,7 @@ Yoann Coudert-Osmont, David Desobry, Martin Heistermann, [David Bommes](https://
 
 **Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization**
 
-Martin Heistermann, Jethro Warnett, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/)
+Martin Heistermann, Jethro Warnett, [David Bommes]
 
 26 July 2023, TOG
 <td>
@@ -315,7 +315,7 @@ May 2023, CGF (Special Section on STAG 2022)
 
 **What's the Situation With Intelligent Mesh Generation: A Survey and Perspectives**
 
-Na Lei, Zezeng Li, Zebin Xu, Ying Li, Xianfeng Gu
+[Na Lei], Zezeng Li, Zebin Xu, Ying Li, [Xianfeng Gu]
 
 01 June 2023, TVCG
 <td>
@@ -345,7 +345,7 @@ Christos Georgiadis, Maxence Reberol, Jean-François Remacle
 
 **Closed-form Quadrangulation of n-Sided Patches**
 
-[Marco Tarini](https://tarini.di.unimi.it/)
+[Marco Tarini]
 
 October 2022, Computers & Graphics
 <td>
@@ -377,7 +377,7 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 
 **Reliable feature-line driven quad-remeshing**
 
-[Nico Pietroni](https://www.nicopietroni.com/), [Stefano Nuvoli](https://github.com/stefanonuvoli), Thomas Alderighi, [Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/), [Marco Tarini](https://tarini.di.unimi.it/)
+[Nico Pietroni], [Stefano Nuvoli], Thomas Alderighi, [Paolo Cignoni], [Marco Tarini]
 
 19 July 2021, TOG (SIGGRAPH 2021)
 <td>
@@ -395,7 +395,7 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 
 **Quasi-structured quadrilateral meshing in Gmsh -- a robust pipeline for complex CAD models**
 
-[Maxence Reberol](https://mxncr.github.io), Christos Georgiadis, Jean-François Remacle
+[Maxence Reberol], Christos Georgiadis, Jean-François Remacle
 
 08 Mar 2021, arXiv
 <td>
@@ -426,7 +426,7 @@ Kaoji Xu, Muhammad Naeem Akram, Guoning Chen
 
 **Cost Minimizing Local Anisotropic Quad Mesh Refinement**
 
-Max Lyon, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), and Leif Kobbelt
+[Max Lyon], [David Bommes], and [Leif Kobbelt]
 
 12 August 2020, CGF
 <td>
@@ -442,7 +442,7 @@ Max Lyon, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), and Lei
 
 **QuadMixer: layout preserving blending of quadrilateral meshes**
 
-[Stefano Nuvoli](https://github.com/stefanonuvoli), Alex Hernandez, Claudio Esperança, [Riccardo Scateni](https://web.unica.it/unica/page/it/riccardo_scateni), [Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/), [Nico Pietroni](https://profiles.uts.edu.au/Nico.Pietroni)
+[Stefano Nuvoli], Alex Hernandez, Claudio Esperança, [Riccardo Scateni], [Paolo Cignoni], [Nico Pietroni]
 
 08 November 2019, TOG (SIGGRAPH Asia 2019)
 <td>
@@ -458,7 +458,7 @@ Max Lyon, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), and Lei
 
 **Parametrization quantization with free boundaries for trimmed quad meshing**
 
-[Max Lyon](https://www.graphics.rwth-aachen.de/person/99/), [Marcel Campen](https://graphics.cs.uos.de/), [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), [Leif Kobbelt](https://www.graphics.rwth-aachen.de/person/3/)
+[Max Lyon], [Marcel Campen], [David Bommes], [Leif Kobbelt]
 
 12 July 2019, TOG (SIGGRAPH 2019)
 <td>
@@ -488,7 +488,7 @@ Julia Docampo-Sanchez, Robert Haimes
 
 **Generalized motorcycle graphs for imperfect quad-dominant meshes**
 
-[Nico Schertler](https://nschertler.github.io/), [Daniele Panozzo](https://cims.nyu.edu/gcl/daniele.html), Stefan Gumhold, [Marco Tarini](https://tarini.di.unimi.it/)
+[Nico Schertler], [Daniele Panozzo], Stefan Gumhold, [Marco Tarini]
 
 30 July 2018, TOG
 <td>
@@ -519,7 +519,7 @@ April 2017, CAD
 
 **Interactively controlled quad remeshing of high resolution 3D models**
 
-[Hans-Christian Ebke](https://www.graphics.rwth-aachen.de/person/10/), [Patrick Schmidt](https://patr-schm.github.io/), [Marcel Campen](https://graphics.cs.uos.de/), [Leif Kobbelt](https://www.graphics.rwth-aachen.de/person/3/)
+[Hans-Christian Ebke], [Patrick Schmidt], [Marcel Campen], [Leif Kobbelt]
 
 05 December 2016, TOG
 <td>
@@ -549,7 +549,7 @@ Nicolas Kowalski, Franck Ledoux, Pascal Frey
 
 **Instant field-aligned meshes**
 
-Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung
+Wenzel Jakob, [Marco Tarini], [Daniele Panozzo], [Olga Sorkine-Hornung]
 
 02 November 2015, TOG (SIGGRAPH ASIA 2015, Outstanding Software Award at SGP 2020)
 <td>
@@ -566,7 +566,7 @@ Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung
 
 **Data-Driven Interactive Quadrangulation**
 
-Giorgio Marcias, [Kenshi Takayama](https://kenshi84.github.io/), Nico Pietroni, Daniele Panozzo, Olga Sorkine-Hornung, Enrico Puppo, Paolo Cignoni
+Giorgio Marcias, [Kenshi Takayama], [Nico Pietroni], [Daniele Panozzo], [Olga Sorkine-Hornung], [Enrico Puppo], [Paolo Cignoni]
 
 27 July 2015, TOG (SIGGRAPH North America 2015)
 <td>
@@ -584,7 +584,7 @@ Giorgio Marcias, [Kenshi Takayama](https://kenshi84.github.io/), Nico Pietroni, 
 
 **Level-of-detail quad meshing**
 
-Hans-Christian Ebke, Marcel Campen, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Leif Kobbelt
+[Hans-Christian Ebke], [Marcel Campen], [David Bommes], [Leif Kobbelt]
 
 19 November 2014, TOG
 <td>
@@ -599,7 +599,7 @@ Hans-Christian Ebke, Marcel Campen, [David Bommes](https://www.graphics.rwth-aac
 
 **QEx: robust quad mesh extraction**
 
-Hans-Christian Ebke, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Marcel Campen, Leif Kobbelt
+[Hans-Christian Ebke], [David Bommes], [Marcel Campen], [Leif Kobbelt]
 
 01 November 2013, TOG
 <td>
@@ -615,7 +615,7 @@ Hans-Christian Ebke, [David Bommes](https://www.graphics.rwth-aachen.de/person/6
 
 **Animation-Aware Quadrangulation**
 
-Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Hornung
+Giorgio Marcias, [Nico Pietroni], [Daniele Panozzo], [Enrico Puppo], [Olga Sorkine-Hornung]
 
 19 August 2013, CGF (SGP 13)
 <td>
@@ -631,7 +631,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 
 **Integer-grid maps for reliable quad meshing**
 
-[David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Marcel Campen, Hans-Christian Ebke, Pierre Alliez, Leif Kobbelt
+[David Bommes], [Marcel Campen], [Hans-Christian Ebke], Pierre Alliez, [Leif Kobbelt]
 
 21 July 2013, TOG
 <td>
@@ -647,7 +647,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 
 **Sketch-based generation and editing of quad meshes**
 
-[Kenshi Takayama](https://kenshi84.github.io/), Daniele Panozzo, Alexander Sorkine-Hornung, Olga Sorkine-Hornung
+[Kenshi Takayama], [Daniele Panozzo], [Alexander Sorkine-Hornung], [Olga Sorkine-Hornung]
 
 21 July 2013, TOG (SIGGRAPH North America 2013)
 <td>
@@ -666,7 +666,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 
 **Dual loops meshing: quality quad layouts on manifolds**
 
-Marcel Campen, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Leif Kobbelt
+[Marcel Campen], [David Bommes], [Leif Kobbelt]
 
 01 July 2012, TOG
 <td>
@@ -697,7 +697,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 
 **Quad-Mesh Generation and Processing: A Survey**
 
-[David Bommes](https://www.graphics.rwth-aachen.de/person/6/), [Bruno Lévy](https://brunolevy.github.io/), [Nico Pietroni](https://www.nicopietroni.com/), [Enrico Puppo](https://person.dibris.unige.it/puppo-enrico/), [Claudio Silva](https://engineering.nyu.edu/faculty/claudio-silva), [Marco Tarini](https://tarini.di.unimi.it/), [Denis Zorin](https://cims.nyu.edu/gcl/denis.html)
+[David Bommes], [Bruno Lévy], [Nico Pietroni], [Enrico Puppo], [Claudio Silva], [Marco Tarini], [Denis Zorin]
 
 01 January 2012, CGF (Eurographics 2012-State of the Art Reports)
 <td>
@@ -712,7 +712,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 
 **Global Structure Optimization of Quadrilateral Meshes**
 
-[David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Timm Lempfer, Leif Kobbelt
+[David Bommes], Timm Lempfer, [Leif Kobbelt]
 
 28 April 2011
 <td>
@@ -743,7 +743,7 @@ Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
 
 **Feature-aligned T-meshes**
 
-Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
+Ashish Myles, [Nico Pietroni], Denis Kovacs, [Denis Zorin]
 
 26 July 2010, TOG
 <td>
@@ -758,7 +758,7 @@ Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
 
 **Lp Centroidal Voronoi Tessellation and its applications**
 
-[Bruno Lévy](https://brunolevy.github.io/), [Yang Liu](https://xueyuhanlang.github.io/)
+[Bruno Lévy], [Yang Liu]
 
 26 July 2010, TOG
 <td>
@@ -774,7 +774,7 @@ Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
 
 **Practical quad mesh simplification**
 
-[Marco Tarini](https://tarini.di.unimi.it/), [Nico Pietroni](https://www.nicopietroni.com/), [Paolo Cignoni](https://vcg.isti.cnr.it/~cignoni/), Daniele Panozzo, Enrico Puppo
+[Marco Tarini], [Nico Pietroni], [Paolo Cignoni], [Daniele Panozzo], [Enrico Puppo]
 
 07 June 2010, CGF
 <td>
@@ -789,7 +789,7 @@ Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
 
 **Mixed-integer quadrangulation**
 
-David Bommes, Henrik Zimmer, Leif Kobbelt
+[David Bommes], Henrik Zimmer, [Leif Kobbelt]
 
 27 July 2009, TOG
 <td>
@@ -822,7 +822,7 @@ Joel Daniels, Cláudio T. Silva, Jason Shepherd, Elaine Cohen
 
 **An incremental approach to feature aligned quad dominant remeshing**
 
-Yu-Kun Lai, Leif Kobbelt, Shi-Min Hu
+Yu-Kun Lai, [Leif Kobbelt], [Shi-Min Hu]
 
 02 June 2008, SPM
 <td>
@@ -852,7 +852,7 @@ Felix Kälberer, Matthias Nieser, Konrad Polthier
 
 **A Robust Two-Step Procedure for Quad-Dominant Remeshing**
 
-Martin Marinov, Leif Kobbelt
+[Martin Marinov], [Leif Kobbelt]
 
 07 December 2006, CGF
 <td>
@@ -913,12 +913,12 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <tr>
 <td>
 
-<img title="image" src=".pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png" width="300">
+<img title="image" src=".pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png" width="213">
 <td>
 
 **Pattern-Based Quadrangulation for N-Sided Patches**
 
-[Kenshi Takayama](https://kenshi84.github.io/), Daniele Panozzo, Olga Sorkine-Hornung
+[Kenshi Takayama], [Daniele Panozzo], [Olga Sorkine-Hornung]
 
 23 August 2014, CGF (SGP 14)
 <td>
@@ -932,12 +932,12 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <tr>
 <td>
 
-<img title="image" src=".pic/Robust-and-Controllable-Quadrangulation-of-Triangular-and-Rectangular-Regions.png" width="300">
+<img title="image" src=".pic/Robust-and-Controllable-Quadrangulation-of-Triangular-and-Rectangular-Regions.png" width="213">
 <td>
 
 **Robust and Controllable Quadrangulation of Triangular and Rectangular Regions**
 
-[Kenshi Takayama](https://kenshi84.github.io/), Daniele Panozzo, Alexander Sorkine-Hornung, Olga Sorkine-Hornung
+[Kenshi Takayama], [Daniele Panozzo], [Alexander Sorkine-Hornung], [Olga Sorkine-Hornung]
 
 2013, Technical Report
 <td>
@@ -947,7 +947,7 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <tr>
 <td>
 
-<img title="image" src=".pic/Filling-N-Sided-Regions-by-Quad-Meshes-for-Subdivision-Surfaces.png" width="300">
+<img title="image" src=".pic/Filling-N-Sided-Regions-by-Quad-Meshes-for-Subdivision-Surfaces.png" width="213">
 <td>
 
 **Filling N-Sided Regions by Quad Meshes for Subdivision Surfaces**
@@ -969,3 +969,30 @@ A. Nasri, M. Sabin, Z. Yasseen
 - RatRace [[Code]](https://github.com/daniel-zint/RatRace)
 
 # :floppy_disk: Softwares
+
+[Alexander Sorkine-Hornung]: https://www.sornlex.com/
+[Bruno Lévy]: https://brunolevy.github.io/
+[Claudio Silva]: https://engineering.nyu.edu/faculty/claudio-silva
+[Daniele Panozzo]: https://cims.nyu.edu/gcl/daniele.html
+[David Bommes]: https://www.graphics.rwth-aachen.de/person/6/
+[Denis Zorin]: https://cims.nyu.edu/gcl/denis.html
+[Enrico Puppo]: https://person.dibris.unige.it/puppo-enrico/
+[Hans-Christian Ebke]: https://www.graphics.rwth-aachen.de/person/10/
+[Kenshi Takayama]: https://kenshi84.github.io/
+[Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
+[Marcel Campen]: https://graphics.cs.uos.de/
+[Marco Tarini]: https://tarini.di.unimi.it/
+[Martin Marinov]: https://www.graphics.rwth-aachen.de/person/43/
+[Max Lyon]: https://www.graphics.rwth-aachen.de/person/99/
+[Maxence Reberol]: https://mxncr.github.io
+[Na Lei]: http://conformalgeometry.org/~lei/
+[Nico Pietroni]: https://www.nicopietroni.com/
+[Nico Schertler]: https://nschertler.github.io/
+[Olga Sorkine-Hornung]: https://igl.ethz.ch/people/sorkine/
+[Paolo Cignoni]: https://vcg.isti.cnr.it/~cignoni/
+[Patrick Schmidt]: https://patr-schm.github.io/
+[Riccardo Scateni]: https://web.unica.it/unica/page/it/riccardo_scateni
+[Shi-Min Hu]: https://cg.cs.tsinghua.edu.cn/shimin.htm
+[Stefano Nuvoli]: https://github.com/stefanonuvoli
+[Xianfeng Gu]: https://www3.cs.stonybrook.edu/~gu/
+[Yang Liu]: https://xueyuhanlang.github.io/
