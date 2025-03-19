@@ -19,7 +19,7 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 <tr>
 <td>
 
-![Robust-motorcycle-graph-construction-and-simplification-for-semi-structured-quad-mesh-generation](.pic/Robust-motorcycle-graph-construction-and-simplification-for-semi-structured-quad-mesh-generation.png)
+<img title="image" src=".pic/Robust-motorcycle-graph-construction-and-simplification-for-semi-structured-quad-mesh-generation.png" width="600">
 <td>
 
 **Robust motorcycle graph construction and simplification for semi-structured quad mesh generation**
@@ -34,7 +34,7 @@ April 2025, Computers & Graphics
 <tr>
 <td>
 
-![RFF-meshing-a-parallel-and-anisotropic-quad-dominant-mesh-generation-framework-based-on-Riemann-frame-field](.pic/RFF-meshing-a-parallel-and-anisotropic-quad-dominant-mesh-generation-framework-based-on-Riemann-frame-field.png)
+<img title="image" src=".pic/RFF-meshing-a-parallel-and-anisotropic-quad-dominant-mesh-generation-framework-based-on-Riemann-frame-field.png" width="600">
 <td>
 
 **RFF-meshing: a parallel and anisotropic quad-dominant mesh generation framework based on Riemann frame field**
@@ -49,7 +49,7 @@ Long Qi, Jingying Qiu, Gang Xu, Yang Liu, Jiamin Xu, Renshu Gu, Fengshun Lu, Yuf
 <tr>
 <td>
 
-![Enhanced-block-structured-quadrilateral-mesh-generation-integrating-cross-field-and-distance-field-for-optimal-domain-decomposition](.pic/Enhanced-block-structured-quadrilateral-mesh-generation-integrating-cross-field-and-distance-field-for-optimal-domain-decomposition.png)
+<img title="image" src=".pic/Enhanced-block-structured-quadrilateral-mesh-generation-integrating-cross-field-and-distance-field-for-optimal-domain-decomposition.png" width="600">
 <td>
 
 **Enhanced block-structured quadrilateral mesh generation: integrating cross-field and distance field for optimal domain decomposition**
@@ -64,7 +64,7 @@ Yuanxing Lv, Beiyan Jia, Yuxiang Yan, Cecil G. Armstrong, Trevor T. Robinson, Li
 <tr>
 <td>
 
-![Quad-mesh-mechanisms](.pic/Quad-mesh-mechanisms.png)
+<img title="image" src=".pic/Quad-mesh-mechanisms.png" width="600">
 <td>
 
 **Quad mesh mechanisms**
@@ -79,7 +79,7 @@ Caigui Jiang, Dmitry Lyakhov, Florian Rist, Helmut Pottmann, Johannes Wallner
 <tr>
 <td>
 
-![Similarity-driven-topology-finding-of-surface-patterns-for-structural-design](.pic/Similarity-driven-topology-finding-of-surface-patterns-for-structural-design.png)
+<img title="image" src=".pic/Similarity-driven-topology-finding-of-surface-patterns-for-structural-design.png" width="600">
 <td>
 
 **Similarity-driven topology finding of surface patterns for structural design**
@@ -89,12 +89,12 @@ R. Oval, R. Mesnil, T. Van Mele, O. Baverel, P. Block
 November 2024, CAD
 <td>
 
-- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448524000782)
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448526540782)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
 
-![Capacitive-Touch-Sensing-on-General-3D-Surfaces](.pic/Capacitive-Touch-Sensing-on-General-3D-Surfaces.png)
+<img title="image" src=".pic/Capacitive-Touch-Sensing-on-General-3D-Surfaces.png" width="600">
 <td>
 
 **Capacitive Touch Sensing on General 3D Surfaces**
@@ -109,7 +109,7 @@ Gianpaolo Palma, Narges Pourjafarian, Jürgen Steimle, [Paolo Cignoni](https://v
 <tr>
 <td>
 
-![An-Intrinsic-Vector-Heat-Network](.pic/An-Intrinsic-Vector-Heat-Network.png)
+<img title="image" src=".pic/An-Intrinsic-Vector-Heat-Network.png" width="600">
 <td>
 
 **An Intrinsic Vector Heat Network**
@@ -126,7 +126,7 @@ Alexander Gao, Maurice Chu, Mubbasir Kapadia, Ming C. Lin, Hsueh-Ti Derek Liu
 <tr>
 <td>
 
-![High-quality-quad-mesh-generation-for-self-intersecting-parametric-surfaces](.pic/High-quality-quad-mesh-generation-for-self-intersecting-parametric-surfaces.png)
+<img title="image" src=".pic/High-quality-quad-mesh-generation-for-self-intersecting-parametric-surfaces.png" width="600">
 <td>
 
 **High-quality quad-mesh generation for self-intersecting parametric surfaces**
@@ -141,7 +141,7 @@ Haolei Nan, Gang Xu, Haiyan Wu, Renshu Gu, Jinlan Xu, Yang Liu
 <tr>
 <td>
 
-![Feature-preserving-quadrilateral-mesh-Boolean-operation-with-cross-field-guided-layout-blending](.pic/Feature-preserving-quadrilateral-mesh-Boolean-operation-with-cross-field-guided-layout-blending.png)
+<img title="image" src=".pic/Feature-preserving-quadrilateral-mesh-Boolean-operation-with-cross-field-guided-layout-blending.png" width="600">
 <td>
 
 **Feature-preserving quadrilateral mesh Boolean operation with cross-field guided layout blending**
@@ -151,12 +151,12 @@ Weiwei Zheng, Haiyan Wu, Gang Xu, Ran Ling, Renshu Gu
 June 2024, CAGD
 <td>
 
-- [[Paper]](https://www.sciencedirect.com/science/article/pii/S016783962400058X)
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S016783962654058X)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
 
-![Quadrilateral-surface-mesh-generation-with-improved-quality-by-combination-of-triangles](.pic/Quadrilateral-surface-mesh-generation-with-improved-quality-by-combination-of-triangles.png)
+<img title="image" src=".pic/Quadrilateral-surface-mesh-generation-with-improved-quality-by-combination-of-triangles.png" width="600">
 <td>
 
 **Quadrilateral surface mesh generation with improved quality by combination of triangles**
@@ -171,7 +171,7 @@ Jingchen Gao, Zhoufang Xiao, Chenhao Xu, Shuwei Shen, Gang Xu
 <tr>
 <td>
 
-![Block-Structured-Quad-Meshing-for-Supersonic-Flow-Simulations](.pic/Block-Structured-Quad-Meshing-for-Supersonic-Flow-Simulations.png)
+<img title="image" src=".pic/Block-Structured-Quad-Meshing-for-Supersonic-Flow-Simulations.png" width="600">
 <td>
 
 **Block-Structured Quad Meshing for Supersonic Flow Simulations**
@@ -186,7 +186,7 @@ Claire Roche, Jérôme Breil, Thierry Hocquellet, Franck Ledoux
 <tr>
 <td>
 
-![Bending-Reinforced-Grid-Shells-for-Free-form-Architectural-Surfaces](.pic/Bending-Reinforced-Grid-Shells-for-Free-form-Architectural-Surfaces.png)
+<img title="image" src=".pic/Bending-Reinforced-Grid-Shells-for-Free-form-Architectural-Surfaces.png" width="600">
 <td>
 
 **Bending-Reinforced Grid Shells for Free-form Architectural Surfaces**
@@ -202,7 +202,7 @@ March 2024, CAD
 <tr>
 <td>
 
-![Adaptive-Spline-Surface-Fitting-With-Arbitrary-Topological-Control-Mesh](.pic/Adaptive-Spline-Surface-Fitting-With-Arbitrary-Topological-Control-Mesh.png)
+<img title="image" src=".pic/Adaptive-Spline-Surface-Fitting-With-Arbitrary-Topological-Control-Mesh.png" width="600">
 <td>
 
 **Adaptive Spline Surface Fitting With Arbitrary Topological Control Mesh**
@@ -217,7 +217,7 @@ Yi-Bo Kou, Yi-Fei Feng, Li-Yong Shen, Xin Li, Chun-Ming Yuan
 <tr>
 <td>
 
-![Champs-de-repères-2-5D-pour-la-génération-de-maillages-hexaédriques](.pic/Champs-de-repères-2-5D-pour-la-génération-de-maillages-hexaédriques.png)
+<img title="image" src=".pic/Champs-de-repères-2-5D-pour-la-génération-de-maillages-hexaédriques.png" width="600">
 <td>
 
 **Champs de repères 2,5D pour la génération de maillages hexaédriques**
@@ -232,7 +232,7 @@ Yoann Coudert
 <tr>
 <td>
 
-![Optimal-Surface-Quadrilateral-Mesh-Generation](.pic/Optimal-Surface-Quadrilateral-Mesh-Generation.png)
+<img title="image" src=".pic/Optimal-Surface-Quadrilateral-Mesh-Generation.png" width="600">
 <td>
 
 **Optimal Surface Quadrilateral Mesh Generation**
@@ -242,12 +242,12 @@ Zhou Zhao, Siyu Fang, Na Lei, Yuanpeng Liu, Yiming Zhu, Chander Sadasivan, Apost
 2024, Proceedings of the 2024 International Meshing Roundtable (IMR)
 <td>
 
-- [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611978001.2)
+- [[Paper]](https://epubs.siam.org/doi/abs/10.1137/1.9781611976541.2)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
 
-![QUADify-Extracting-Meshes-with-Pixel-level-Details-and-Materials-from-Images](.pic/QUADify-Extracting-Meshes-with-Pixel-level-Details-and-Materials-from-Images.png)
+<img title="image" src=".pic/QUADify-Extracting-Meshes-with-Pixel-level-Details-and-Materials-from-Images.png" width="600">
 <td>
 
 **QUADify: Extracting Meshes with Pixel-level Details and Materials from Images**
@@ -262,7 +262,7 @@ Maximilian Frühauf, Hayko Riemenschneider, Markus Gross, Christopher Schroers
 <tr>
 <td>
 
-![Quad-Mesh-Quantization-Without-a-T-Mesh](.pic/Quad-Mesh-Quantization-Without-a-T-Mesh.png)
+<img title="image" src=".pic/Quad-Mesh-Quantization-Without-a-T-Mesh.png" width="600">
 <td>
 
 **Quad Mesh Quantization Without a T-Mesh**
@@ -277,7 +277,7 @@ Yoann Coudert-Osmont, David Desobry, Martin Heistermann, [David Bommes](https://
 <tr>
 <td>
 
-![Min-Deviation-Flow-in-Bi-directed-Graphs-for-T-Mesh-Quantization](.pic/Min-Deviation-Flow-in-Bi-directed-Graphs-for-T-Mesh-Quantization.png)
+<img title="image" src=".pic/Min-Deviation-Flow-in-Bi-directed-Graphs-for-T-Mesh-Quantization.png" width="600">
 <td>
 
 **Min-Deviation-Flow in Bi-directed Graphs for T-Mesh Quantization**
@@ -294,7 +294,7 @@ Martin Heistermann, Jethro Warnett, [David Bommes](https://www.graphics.rwth-aac
 <tr>
 <td>
 
-![Towards-a-robust-and-portable-pipeline-for-quad-meshing-Topological-initialization-of-injective-integer-grid-maps](.pic/Towards-a-robust-and-portable-pipeline-for-quad-meshing-Topological-initialization-of-injective-integer-grid-maps.png)
+<img title="image" src=".pic/Towards-a-robust-and-portable-pipeline-for-quad-meshing-Topological-initialization-of-injective-integer-grid-maps.png" width="600">
 <td>
 
 **Towards a robust and portable pipeline for quad meshing: Topological initialization of injective integer grid maps**
@@ -310,7 +310,7 @@ May 2023, CGF (Special Section on STAG 2022)
 <tr>
 <td>
 
-![What-s-the-Situation-With-Intelligent-Mesh-Generation-A-Survey-and-Perspectives](.pic/What-s-the-Situation-With-Intelligent-Mesh-Generation-A-Survey-and-Perspectives.png)
+<img title="image" src=".pic/What-s-the-Situation-With-Intelligent-Mesh-Generation-A-Survey-and-Perspectives.png" width="600">
 <td>
 
 **What's the Situation With Intelligent Mesh Generation: A Survey and Perspectives**
@@ -325,7 +325,7 @@ Na Lei, Zezeng Li, Zebin Xu, Ying Li, Xianfeng Gu
 <tr>
 <td>
 
-![Indirect-all-quadrilateral-meshing-based-on-bipartite-topological-labeling](.pic/Indirect-all-quadrilateral-meshing-based-on-bipartite-topological-labeling.png)
+<img title="image" src=".pic/Indirect-all-quadrilateral-meshing-based-on-bipartite-topological-labeling.png" width="600">
 <td>
 
 **Indirect all-quadrilateral meshing based on bipartite topological labeling**
@@ -340,7 +340,7 @@ Christos Georgiadis, Maxence Reberol, Jean-François Remacle
 <tr>
 <td>
 
-![Closed-form-Quadrangulation-of-n-Sided-Patches](.pic/Closed-form-Quadrangulation-of-n-Sided-Patches.png)
+<img title="image" src=".pic/Closed-form-Quadrangulation-of-n-Sided-Patches.png" width="600">
 <td>
 
 **Closed-form Quadrangulation of n-Sided Patches**
@@ -350,12 +350,12 @@ Christos Georgiadis, Maxence Reberol, Jean-François Remacle
 October 2022, Computers & Graphics
 <td>
 
-- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097849322001170)
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097849326541170)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
 
-![Face-Extrusion-Quad-Meshes](.pic/Face-Extrusion-Quad-Meshes.png)
+<img title="image" src=".pic/Face-Extrusion-Quad-Meshes.png" width="600">
 <td>
 
 **Face Extrusion Quad Meshes**
@@ -372,7 +372,7 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 <tr>
 <td>
 
-![Reliable-feature-line-driven-quad-remeshing](.pic/Reliable-feature-line-driven-quad-remeshing.png)
+<img title="image" src=".pic/Reliable-feature-line-driven-quad-remeshing.png" width="600">
 <td>
 
 **Reliable feature-line driven quad-remeshing**
@@ -390,7 +390,7 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 <tr>
 <td>
 
-![Quasi-structured-quadrilateral-meshing-in-Gmsh-a-robust-pipeline-for-complex-CAD-models](.pic/Quasi-structured-quadrilateral-meshing-in-Gmsh-a-robust-pipeline-for-complex-CAD-models.png)
+<img title="image" src=".pic/Quasi-structured-quadrilateral-meshing-in-Gmsh-a-robust-pipeline-for-complex-CAD-models.png" width="600">
 <td>
 
 **Quasi-structured quadrilateral meshing in Gmsh -- a robust pipeline for complex CAD models**
@@ -406,7 +406,7 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 <tr>
 <td>
 
-![Semi-global-Quad-Mesh-Structure-Simplification-via-Separatrix-Operations](.pic/Semi-global-Quad-Mesh-Structure-Simplification-via-Separatrix-Operations.png)
+<img title="image" src=".pic/Semi-global-Quad-Mesh-Structure-Simplification-via-Separatrix-Operations.png" width="600">
 <td>
 
 **Semi-global Quad Mesh Structure Simplification via Separatrix Operations**
@@ -421,7 +421,7 @@ Kaoji Xu, Muhammad Naeem Akram, Guoning Chen
 <tr>
 <td>
 
-![Cost-Minimizing-Local-Anisotropic-Quad-Mesh-Refinement](.pic/Cost-Minimizing-Local-Anisotropic-Quad-Mesh-Refinement.png)
+<img title="image" src=".pic/Cost-Minimizing-Local-Anisotropic-Quad-Mesh-Refinement.png" width="600">
 <td>
 
 **Cost Minimizing Local Anisotropic Quad Mesh Refinement**
@@ -437,7 +437,7 @@ Max Lyon, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), and Lei
 <tr>
 <td>
 
-![QuadMixer-layout-preserving-blending-of-quadrilateral-meshes](.pic/QuadMixer-layout-preserving-blending-of-quadrilateral-meshes.png)
+<img title="image" src=".pic/QuadMixer-layout-preserving-blending-of-quadrilateral-meshes.png" width="600">
 <td>
 
 **QuadMixer: layout preserving blending of quadrilateral meshes**
@@ -453,7 +453,7 @@ Max Lyon, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), and Lei
 <tr>
 <td>
 
-![Parametrization-quantization-with-free-boundaries-for-trimmed-quad-meshing](.pic/Parametrization-quantization-with-free-boundaries-for-trimmed-quad-meshing.png)
+<img title="image" src=".pic/Parametrization-quantization-with-free-boundaries-for-trimmed-quad-meshing.png" width="600">
 <td>
 
 **Parametrization quantization with free boundaries for trimmed quad meshing**
@@ -468,7 +468,7 @@ Max Lyon, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), and Lei
 <tr>
 <td>
 
-![Towards-fully-regular-quad-mesh-generation](.pic/Towards-fully-regular-quad-mesh-generation.png)
+<img title="image" src=".pic/Towards-fully-regular-quad-mesh-generation.png" width="600">
 <td>
 
 **Towards fully regular quad mesh generation**
@@ -483,7 +483,7 @@ Julia Docampo-Sanchez, Robert Haimes
 <tr>
 <td>
 
-![Generalized-motorcycle-graphs-for-imperfect-quad-dominant-meshes](.pic/Generalized-motorcycle-graphs-for-imperfect-quad-dominant-meshes.png)
+<img title="image" src=".pic/Generalized-motorcycle-graphs-for-imperfect-quad-dominant-meshes.png" width="600">
 <td>
 
 **Generalized motorcycle graphs for imperfect quad-dominant meshes**
@@ -499,7 +499,7 @@ Julia Docampo-Sanchez, Robert Haimes
 <tr>
 <td>
 
-![All-quad-meshing-without-cleanup](.pic/All-quad-meshing-without-cleanup.png)
+<img title="image" src=".pic/All-quad-meshing-without-cleanup.png" width="600">
 <td>
 
 **All-quad meshing without cleanup**
@@ -514,7 +514,7 @@ April 2017, CAD
 <tr>
 <td>
 
-![Interactively-controlled-quad-remeshing-of-high-resolution-3D-models](.pic/Interactively-controlled-quad-remeshing-of-high-resolution-3D-models.png)
+<img title="image" src=".pic/Interactively-controlled-quad-remeshing-of-high-resolution-3D-models.png" width="600">
 <td>
 
 **Interactively controlled quad remeshing of high resolution 3D models**
@@ -529,7 +529,7 @@ April 2017, CAD
 <tr>
 <td>
 
-![A-PDE-Based-Approach-to-Multidomain-Partitioning-and-Quadrilateral-Meshing](.pic/A-PDE-Based-Approach-to-Multidomain-Partitioning-and-Quadrilateral-Meshing.png)
+<img title="image" src=".pic/A-PDE-Based-Approach-to-Multidomain-Partitioning-and-Quadrilateral-Meshing.png" width="600">
 <td>
 
 **A PDE Based Approach to Multidomain Partitioning and Quadrilateral Meshing**
@@ -544,7 +544,7 @@ Nicolas Kowalski, Franck Ledoux, Pascal Frey
 <tr>
 <td>
 
-![Instant-field-aligned-meshes](.pic/Instant-field-aligned-meshes.png)
+<img title="image" src=".pic/Instant-field-aligned-meshes.png" width="600">
 <td>
 
 **Instant field-aligned meshes**
@@ -561,7 +561,7 @@ Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung
 <tr>
 <td>
 
-![Data-Driven-Interactive-Quadrangulation](.pic/Data-Driven-Interactive-Quadrangulation.png)
+<img title="image" src=".pic/Data-Driven-Interactive-Quadrangulation.png" width="600">
 <td>
 
 **Data-Driven Interactive Quadrangulation**
@@ -579,7 +579,7 @@ Giorgio Marcias, [Kenshi Takayama](https://kenshi84.github.io/), Nico Pietroni, 
 <tr>
 <td>
 
-![Level-of-detail-quad-meshing](.pic/Level-of-detail-quad-meshing.png)
+<img title="image" src=".pic/Level-of-detail-quad-meshing.png" width="600">
 <td>
 
 **Level-of-detail quad meshing**
@@ -594,7 +594,7 @@ Hans-Christian Ebke, Marcel Campen, [David Bommes](https://www.graphics.rwth-aac
 <tr>
 <td>
 
-![QEx-robust-quad-mesh-extraction](.pic/QEx-robust-quad-mesh-extraction.png)
+<img title="image" src=".pic/QEx-robust-quad-mesh-extraction.png" width="600">
 <td>
 
 **QEx: robust quad mesh extraction**
@@ -610,7 +610,7 @@ Hans-Christian Ebke, [David Bommes](https://www.graphics.rwth-aachen.de/person/6
 <tr>
 <td>
 
-![Animation-Aware-Quadrangulation](.pic/Animation-Aware-Quadrangulation.png)
+<img title="image" src=".pic/Animation-Aware-Quadrangulation.png" width="600">
 <td>
 
 **Animation-Aware Quadrangulation**
@@ -626,7 +626,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 <tr>
 <td>
 
-![Integer-grid-maps-for-reliable-quad-meshing](.pic/Integer-grid-maps-for-reliable-quad-meshing.png)
+<img title="image" src=".pic/Integer-grid-maps-for-reliable-quad-meshing.png" width="600">
 <td>
 
 **Integer-grid maps for reliable quad meshing**
@@ -642,7 +642,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 <tr>
 <td>
 
-![Sketch-based-generation-and-editing-of-quad-meshes](.pic/Sketch-based-generation-and-editing-of-quad-meshes.png)
+<img title="image" src=".pic/Sketch-based-generation-and-editing-of-quad-meshes.png" width="600">
 <td>
 
 **Sketch-based generation and editing of quad meshes**
@@ -661,7 +661,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 <tr>
 <td>
 
-![Dual-loops-meshing-quality-quad-layouts-on-manifolds](.pic/Dual-loops-meshing-quality-quad-layouts-on-manifolds.png)
+<img title="image" src=".pic/Dual-loops-meshing-quality-quad-layouts-on-manifolds.png" width="600">
 <td>
 
 **Dual loops meshing: quality quad layouts on manifolds**
@@ -676,7 +676,7 @@ Marcel Campen, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Le
 <tr>
 <td>
 
-![Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm](.pic/Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm.png)
+<img title="image" src=".pic/Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm.png" width="600">
 <td>
 
 **Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm**
@@ -692,7 +692,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <tr>
 <td>
 
-![Quad-Meshing](.pic/Quad-Meshing.png)
+<img title="image" src=".pic/Quad-Meshing.png" width="600">
 <td>
 
 **Quad-Mesh Generation and Processing: A Survey**
@@ -707,7 +707,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <tr>
 <td>
 
-![Global-Structure-Optimization-of-Quadrilateral-Meshes](.pic/Global-Structure-Optimization-of-Quadrilateral-Meshes.png)
+<img title="image" src=".pic/Global-Structure-Optimization-of-Quadrilateral-Meshes.png" width="600">
 <td>
 
 **Global Structure Optimization of Quadrilateral Meshes**
@@ -723,8 +723,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <tr>
 <td>
 
-![SQuad-Compact-Representation-for-Triangle-Meshes](.pic/SQuad-Compact-Representation-for-Triangle-Meshes.png)
-
+<img title="image" src=".pic/SQuad-Compact-Representation-for-Triangle-Meshes.png" width="600">
 <td>
 
 **SQuad: Compact Representation for Triangle Meshes**
@@ -739,7 +738,7 @@ Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
 <tr>
 <td>
 
-![Feature-aligned-T-meshes](.pic/Feature-aligned-T-meshes.png)
+<img title="image" src=".pic/Feature-aligned-T-meshes.png" width="600">
 <td>
 
 **Feature-aligned T-meshes**
@@ -754,7 +753,7 @@ Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
 <tr>
 <td>
 
-![Lp-Centroidal-Voronoi-Tessellation-and-its-applications](.pic/Lp-Centroidal-Voronoi-Tessellation-and-its-applications.png)
+<img title="image" src=".pic/Lp-Centroidal-Voronoi-Tessellation-and-its-applications.png" width="600">
 <td>
 
 **Lp Centroidal Voronoi Tessellation and its applications**
@@ -770,7 +769,7 @@ Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
 <tr>
 <td>
 
-![Practical-quad-mesh-simplification](.pic/Practical-quad-mesh-simplification.png)
+<img title="image" src=".pic/Practical-quad-mesh-simplification.png" width="600">
 <td>
 
 **Practical quad mesh simplification**
@@ -785,7 +784,7 @@ Ashish Myles, Nico Pietroni, Denis Kovacs, Denis Zorin
 <tr>
 <td>
 
-![Mixed-integer-quadrangulation](.pic/Mixed-integer-quadrangulation.png)
+<img title="image" src=".pic/Mixed-integer-quadrangulation.png" width="600">
 <td>
 
 **Mixed-integer quadrangulation**
@@ -803,7 +802,7 @@ David Bommes, Henrik Zimmer, Leif Kobbelt
 <tr>
 <td>
 
-![Quadrilateral-mesh-simplification](.pic/Quadrilateral-mesh-simplification.png)
+<img title="image" src=".pic/Quadrilateral-mesh-simplification.png" width="600">
 <td>
 
 **Quadrilateral mesh simplification**
@@ -818,7 +817,7 @@ Joel Daniels, Cláudio T. Silva, Jason Shepherd, Elaine Cohen
 <tr>
 <td>
 
-![An-incremental-approach-to-feature-aligned-quad-dominant-remeshing](.pic/An-incremental-approach-to-feature-aligned-quad-dominant-remeshing.png)
+<img title="image" src=".pic/An-incremental-approach-to-feature-aligned-quad-dominant-remeshing.png" width="600">
 <td>
 
 **An incremental approach to feature aligned quad dominant remeshing**
@@ -833,7 +832,7 @@ Yu-Kun Lai, Leif Kobbelt, Shi-Min Hu
 <tr>
 <td>
 
-![QuadCover-Surface-Parameterization-using-Branched-Coverings](.pic/QuadCover-Surface-Parameterization-using-Branched-Coverings.png)
+<img title="image" src=".pic/QuadCover-Surface-Parameterization-using-Branched-Coverings.png" width="600">
 <td>
 
 **QuadCover - Surface Parameterization using Branched Coverings**
@@ -843,12 +842,12 @@ Felix Kälberer, Matthias Nieser, Konrad Polthier
 12 October 2007, CGF
 <td>
 
-- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2007.01060.x)
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.6547.01060.x)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
 
-![A-Robust-Two-Step-Procedure-for-Quad-Dominant-Remeshing](.pic/A-Robust-Two-Step-Procedure-for-Quad-Dominant-Remeshing.png)
+<img title="image" src=".pic/A-Robust-Two-Step-Procedure-for-Quad-Dominant-Remeshing.png" width="600">
 <td>
 
 **A Robust Two-Step Procedure for Quad-Dominant Remeshing**
@@ -863,7 +862,7 @@ Martin Marinov, Leif Kobbelt
 <tr>
 <td>
 
-![Adaptive-and-quality-quadrilateral-hexahedral-meshing-from-volumetric-data](.pic/Adaptive-and-quality-quadrilateral-hexahedral-meshing-from-volumetric-data.png)
+<img title="image" src=".pic/Adaptive-and-quality-quadrilateral-hexahedral-meshing-from-volumetric-data.png" width="600">
 <td>
 
 **Adaptive and quality quadrilateral/hexahedral meshing from volumetric data**
@@ -878,7 +877,7 @@ Yongjie Zhang, Chandrajit Bajaj
 <tr>
 <td>
 
-![Quadrilateral-Meshing-with-Directionality-Control-through-the-Packing-of-Square-Cells](.pic/Quadrilateral-Meshing-with-Directionality-Control-through-the-Packing-of-Square-Cells.png)
+<img title="image" src=".pic/Quadrilateral-Meshing-with-Directionality-Control-through-the-Packing-of-Square-Cells.png" width="600">
 <td>
 
 **Quadrilateral Meshing with Directionality Control through the Packing of Square Cells**
@@ -893,7 +892,7 @@ May 2000
 <tr>
 <td>
 
-![Q-Morph-an-indirect-approach-to-advancing-front-quad-meshing](.pic/Q-Morph-an-indirect-approach-to-advancing-front-quad-meshing.png)
+<img title="image" src=".pic/Q-Morph-an-indirect-approach-to-advancing-front-quad-meshing.png" width="600">
 <td>
 
 **Q-Morph: an indirect approach to advancing front quad meshing**
@@ -914,7 +913,7 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <tr>
 <td>
 
-<img title="image" src=".pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png" width="200"/>
+<img title="image" src=".pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png" width="300">
 <td>
 
 **Pattern-Based Quadrangulation for N-Sided Patches**
@@ -933,7 +932,7 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <tr>
 <td>
 
-![Robust-and-Controllable-Quadrangulation-of-Triangular-and-Rectangular-Regions](.pic/Robust-and-Controllable-Quadrangulation-of-Triangular-and-Rectangular-Regions.png)
+<img title="image" src=".pic/Robust-and-Controllable-Quadrangulation-of-Triangular-and-Rectangular-Regions.png" width="300">
 <td>
 
 **Robust and Controllable Quadrangulation of Triangular and Rectangular Regions**
@@ -948,7 +947,7 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <tr>
 <td>
 
-![Filling-N-Sided-Regions-by-Quad-Meshes-for-Subdivision-Surfaces](.pic/Filling-N-Sided-Regions-by-Quad-Meshes-for-Subdivision-Surfaces.png)
+<img title="image" src=".pic/Filling-N-Sided-Regions-by-Quad-Meshes-for-Subdivision-Surfaces.png" width="300">
 <td>
 
 **Filling N-Sided Regions by Quad Meshes for Subdivision Surfaces**
