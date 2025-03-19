@@ -14,10 +14,6 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 ## Quad Meshing
 
-I categorize these methods by adding `emojis` according to the classification provided by **"Quad-Mesh Generation and Processing: A Survey"**. The `emojis` are as follows:
-
-:small_red_triangle: Tri-to-quad conversion
-
 <table> 
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -98,36 +94,6 @@ November 2024, CAD
 <tr>
 <td>
 
-![Anisotropy-and-Cross-Fields](.pic/Anisotropy-and-Cross-Fields.png)
-<td>
-
-**Anisotropy and Cross Fields**
-
-Lance Simons, Amenta Nina
-
-05 August 2024, CGF
-<td>
-
-- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15132)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-![Integer-Sheet-Pump-Quantization-for-Hexahedral-Meshing](.pic/Integer-Sheet-Pump-Quantization-for-Hexahedral-Meshing.png)
-<td>
-
-**Integer-Sheet-Pump Quantization for Hexahedral Meshing**
-
-H. Brückler, D. Bommes, M. Campen
-
-31 July 2024, CGF
-<td>
-
-- [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.15131)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
 ![Capacitive-Touch-Sensing-on-General-3D-Surfaces](.pic/Capacitive-Touch-Sensing-on-General-3D-Surfaces.png)
 <td>
 
@@ -150,10 +116,12 @@ Gianpaolo Palma, Narges Pourjafarian, Jürgen Steimle, [Paolo Cignoni](https://v
 
 Alexander Gao, Maurice Chu, Mubbasir Kapadia, Ming C. Lin, Hsueh-Ti Derek Liu
 
-18 July 2024, arXiv
+18 July 2024, ICML
 <td>
 
 - [[Paper]](https://arxiv.org/abs/2406.09648)
+- [[Project Page]](https://www.alexandergao.com/vector-heat-network/)
+- [[Code]](https://github.com/gaoalexander/vector-heat-net/)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -229,6 +197,7 @@ March 2024, CAD
 <td>
 
 - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0010448523002026)
+- [[Dataset]](https://zenodo.org/records/10391043)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -240,7 +209,7 @@ March 2024, CAD
 
 Yi-Bo Kou, Yi-Fei Feng, Li-Yong Shen, Xin Li, Chun-Ming Yuan
 
-02 February 2024, TVCG
+02 February 2024, TVCG (CVM 2025)
 <td>
 
 - [[Paper]](https://ieeexplore.ieee.org/abstract/document/10418985)
@@ -336,6 +305,7 @@ May 2023, CGF (Special Section on STAG 2022)
 <td>
 
 - [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097849323000341)
+- [[Code]](https://github.com/mlivesu/topological_IGM/tree/master)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -351,6 +321,21 @@ Na Lei, Zezeng Li, Zebin Xu, Ying Li, Xianfeng Gu
 <td>
 
 - [[Paper]](https://ieeexplore.ieee.org/abstract/document/10141677)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+![Indirect-all-quadrilateral-meshing-based-on-bipartite-topological-labeling](.pic/Indirect-all-quadrilateral-meshing-based-on-bipartite-topological-labeling.png)
+<td>
+
+**Indirect all-quadrilateral meshing based on bipartite topological labeling**
+
+Christos Georgiadis, Maxence Reberol, Jean-François Remacle
+
+07 October 2022, Engineering with Computers
+<td>
+
+- [[Paper]](https://link.springer.com/article/10.1007/s00366-022-01740-4)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -381,6 +366,8 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3528233.3530754)
+- [[Project Page]](https://www.dgp.toronto.edu/projects/feq/)
+- 
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -408,12 +395,13 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 
 **Quasi-structured quadrilateral meshing in Gmsh -- a robust pipeline for complex CAD models**
 
-Maxence Reberol, Christos Georgiadis, Jean-François Remacle
+[Maxence Reberol](https://mxncr.github.io), Christos Georgiadis, Jean-François Remacle
 
 08 Mar 2021, arXiv
 <td>
 
 - [[Paper]](https://arxiv.org/abs/2103.04652)
+- [[Available in Gmsh 4.8.1+]](https://mxncr.github.io)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -444,6 +432,7 @@ Max Lyon, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), and Lei
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14076)
+- [[Video]](https://www.graphics.rwth-aachen.de/publication/03311/)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -555,6 +544,23 @@ Nicolas Kowalski, Franck Ledoux, Pascal Frey
 <tr>
 <td>
 
+![Instant-field-aligned-meshes](.pic/Instant-field-aligned-meshes.png)
+<td>
+
+**Instant field-aligned meshes**
+
+Wenzel Jakob, Marco Tarini, Daniele Panozzo, Olga Sorkine-Hornung
+
+02 November 2015, TOG (SIGGRAPH ASIA 2015, Outstanding Software Award at SGP 2020)
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/10.1145/2816795.2818078)
+- [[Project Page]](https://igl.ethz.ch/projects/instant-meshes/)
+- [[Code]](https://github.com/wjakob/instant-meshes)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 ![Data-Driven-Interactive-Quadrangulation](.pic/Data-Driven-Interactive-Quadrangulation.png)
 <td>
 
@@ -599,7 +605,7 @@ Hans-Christian Ebke, [David Bommes](https://www.graphics.rwth-aachen.de/person/6
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2508363.2508372)
-- [[Code]](https://github.com/hcebke/libQEx)
+- [[Code]](https://github.com/hcebke/libQEx):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -631,6 +637,7 @@ Giorgio Marcias, Nico Pietroni, Daniele Panozzo, Enrico Puppo, Olga Sorkine-Horn
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2461912.2462014)
+- [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/IGM_additional_material.zip)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -672,7 +679,7 @@ Marcel Campen, [David Bommes](https://www.graphics.rwth-aachen.de/person/6/), Le
 ![Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm](.pic/Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm.png)
 <td>
 
-**Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm** :small_red_triangle:
+**Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm**
 
 J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 
@@ -680,6 +687,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.3279)
+- [[Code? (combined in RatRace)]](https://github.com/daniel-zint/RatRace)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -710,6 +718,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2011.01868.x)
+- [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/global_structure.zip)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -718,7 +727,7 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 
 <td>
 
-**SQuad: Compact Representation for Triangle Meshes** :small_red_triangle:
+**SQuad: Compact Representation for Triangle Meshes**
 
 Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
 
@@ -787,6 +796,7 @@ David Bommes, Henrik Zimmer, Leif Kobbelt
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/1531326.1531383)
+- [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/miq.zip)
 - [[Implementation (libigl)]](https://github.com/libigl/libigl/tree/main)
 - [[Tutorial]](https://libigl.github.io/tutorial/)
 <!-- ---------------------------------------------------------------------- -->
@@ -811,7 +821,7 @@ Joel Daniels, Cláudio T. Silva, Jason Shepherd, Elaine Cohen
 ![An-incremental-approach-to-feature-aligned-quad-dominant-remeshing](.pic/An-incremental-approach-to-feature-aligned-quad-dominant-remeshing.png)
 <td>
 
-**An incremental approach to feature aligned quad dominant remeshing** :small_red_triangle:
+**An incremental approach to feature aligned quad dominant remeshing**
 
 Yu-Kun Lai, Leif Kobbelt, Shi-Min Hu
 
@@ -904,7 +914,7 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <tr>
 <td>
 
-![Pattern-Based-Quadrangulation-for-N-Sided-Patches](.pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png)
+<img title="image" src=".pic/Pattern-Based-Quadrangulation-for-N-Sided-Patches.png" width="200"/>
 <td>
 
 **Pattern-Based Quadrangulation for N-Sided Patches**
@@ -952,6 +962,11 @@ A. Nasri, M. Sabin, Z. Yasseen
 <!-- ---------------------------------------------------------------------- -->
 </table>
 
-# :hammer: Projects
+# :hammer: Other Projects
+
+- CoMiSo [[Project Page]](https://www.graphics.rwth-aachen.de/software/comiso/)
+- HOHQMesh [[Code]](https://github.com/trixi-framework/HOHQMesh)
+- CGAL (IGM Quad Meshing) [[Doc]](https://cgal.geometryfactory.com/products/Quad_meshing/4.12/Quad_meshing/index.html)
+- RatRace [[Code]](https://github.com/daniel-zint/RatRace)
 
 # :floppy_disk: Softwares
