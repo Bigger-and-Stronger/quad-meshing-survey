@@ -289,7 +289,7 @@ Martin Heistermann, Jethro Warnett, [David Bommes]
 
 - [[Paper]](https://dl.acm.org/doi/10.1145/3592437)
 - [[Project]](https://www.algohex.eu/publications/bimdf-quantization/)
-- [[Code]](https://github.com/cgg-bern/quadwild-bimdf)
+- [[Code]](https://github.com/cgg-bern/quadwild-bimdf):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -385,7 +385,7 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 - [[Paper]](https://dl.acm.org/doi/10.1145/3450626.3459941)
 - [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459941)
 - [[Project Page]](https://www.quadmesh.cloud/)
-- [[Code]](https://github.com/nicopietroni/quadwild)
+- [[Code]](https://github.com/nicopietroni/quadwild):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -495,6 +495,24 @@ Julia Docampo-Sanchez, Robert Haimes
 
 - [[Paper]](https://dl.acm.org/doi/10.1145/3197517.3201389)
 - [[Code]](https://github.com/NSchertler/GeneralizedMotorcycleGraph)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Quadrangulation-through-morse-parameterization-hybridization.png" width="600">
+<td>
+
+**Quadrangulation through morse-parameterization hybridization**
+
+Xianzhong Fang, Hujun Bao, Yiying Tong, Mathieu Desbrun, [Jin Huang]
+
+30 July 2018, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201354)
+- [[EXE]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_binary_Mint19_V20180731.7z)
+- [[Supplementary material]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_dataset_test.pdf)
+- [[Data]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad.zip)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -980,6 +998,7 @@ A. Nasri, M. Sabin, Z. Yasseen
 [Hans-Christian Ebke]: https://www.graphics.rwth-aachen.de/person/10/
 [Kenshi Takayama]: https://kenshi84.github.io/
 [Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
+[Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
 [Marcel Campen]: https://graphics.cs.uos.de/
 [Marco Tarini]: https://tarini.di.unimi.it/
 [Martin Marinov]: https://www.graphics.rwth-aachen.de/person/43/
