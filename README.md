@@ -39,7 +39,7 @@ April 2025, Computers & Graphics
 
 **RFF-meshing: a parallel and anisotropic quad-dominant mesh generation framework based on Riemann frame field**
 
-Long Qi, Jingying Qiu, Gang Xu, Yang Liu, Jiamin Xu, Renshu Gu, Fengshun Lu, Yufei Pang
+Long Qi, Jingying Qiu, [Gang Xu], Yang Liu, Jiamin Xu, Renshu Gu, Fengshun Lu, Yufei Pang
 
 24 December 2024, Engineering with Computers
 <td>
@@ -114,7 +114,7 @@ Gianpaolo Palma, Narges Pourjafarian, Jürgen Steimle, [Paolo Cignoni]
 
 **An Intrinsic Vector Heat Network**
 
-Alexander Gao, Maurice Chu, Mubbasir Kapadia, Ming C. Lin, Hsueh-Ti Derek Liu
+[Alexander Gao], Maurice Chu, Mubbasir Kapadia, [Ming C. Lin], [Hsueh-Ti Derek Liu]
 
 18 July 2024, ICML
 <td>
@@ -131,7 +131,7 @@ Alexander Gao, Maurice Chu, Mubbasir Kapadia, Ming C. Lin, Hsueh-Ti Derek Liu
 
 **High-quality quad-mesh generation for self-intersecting parametric surfaces**
 
-Haolei Nan, Gang Xu, Haiyan Wu, Renshu Gu, Jinlan Xu, [Yang Liu]
+Haolei Nan, [Gang Xu], Haiyan Wu, Renshu Gu, Jinlan Xu, [Yang Liu]
 
 03 July 2024, Preprint
 <td>
@@ -146,7 +146,7 @@ Haolei Nan, Gang Xu, Haiyan Wu, Renshu Gu, Jinlan Xu, [Yang Liu]
 
 **Feature-preserving quadrilateral mesh Boolean operation with cross-field guided layout blending**
 
-Weiwei Zheng, Haiyan Wu, Gang Xu, Ran Ling, Renshu Gu
+Weiwei Zheng, Haiyan Wu, [Gang Xu], Ran Ling, Renshu Gu
 
 June 2024, CAGD
 <td>
@@ -161,7 +161,7 @@ June 2024, CAGD
 
 **Quadrilateral surface mesh generation with improved quality by combination of triangles**
 
-Jingchen Gao, Zhoufang Xiao, Chenhao Xu, Shuwei Shen, Gang Xu
+Jingchen Gao, Zhoufang Xiao, Chenhao Xu, Shuwei Shen, [Gang Xu]
 
 27 May 2024, International Journal for Numerical Methods in Engineering
 <td>
@@ -367,7 +367,6 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3528233.3530754)
 - [[Project Page]](https://www.dgp.toronto.edu/projects/feq/)
-- 
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -483,6 +482,22 @@ Julia Docampo-Sanchez, Robert Haimes
 <tr>
 <td>
 
+<img title="image" src=".pic/QuadriFlow-A-Scalable-and-Robust-Method-for-Quadrangulation.png" width="600">
+<td>
+
+**QuadriFlow: A Scalable and Robust Method for Quadrangulation**
+
+Jingwei Huang, Yichao Zhou, Matthias Niessner, Jonathan Richard Shewchuk, Leonidas J. Guibas
+
+08 August 2018, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13498)
+- [[Code]](https://github.com/hjwdzh/QuadriFlow)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 <img title="image" src=".pic/Generalized-motorcycle-graphs-for-imperfect-quad-dominant-meshes.png" width="600">
 <td>
 
@@ -513,6 +528,22 @@ Xianzhong Fang, Hujun Bao, Yiying Tong, Mathieu Desbrun, [Jin Huang]
 - [[EXE]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_binary_Mint19_V20180731.7z)
 - [[Supplementary material]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_dataset_test.pdf)
 - [[Data]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad.zip)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Quad-Mesh-Generation-via-Field-Aligned-Centroidal-Voronoi-Tessellation.png" width="600">
+<td>
+
+**Quad Mesh Generation via Field-Aligned Centroidal Voronoi Tessellation**
+
+[Xingyi Du], [Dong-Ming Yan], Juntao Ye, Hui Zhang
+
+2018, Journal of Computer-Aided Design & Computer Graphics
+<td>
+
+- [[Paper]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2017.16689)
+- [[Project Page]](https://duxingyi-charles.github.io/publication/quad-mesh-generation-via-field-aligned-centroidal-voronoi-tessellation/)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -880,6 +911,21 @@ Felix Kälberer, Matthias Nieser, Konrad Polthier
 <tr>
 <td>
 
+<img title="image" src=".pic/Spectral-surface-quadrangulation.png" width="600">
+<td>
+
+**Spectral surface quadrangulation**
+
+Shen Dong, Peer-Timo Bremer, Michael Garland, Valerio Pascucci, John C. Hart
+
+01 July 2006
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141993)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 <img title="image" src=".pic/Adaptive-and-quality-quadrilateral-hexahedral-meshing-from-volumetric-data.png" width="600">
 <td>
 
@@ -981,21 +1027,25 @@ A. Nasri, M. Sabin, Z. Yasseen
 
 # :hammer: Other Projects
 
-- CoMiSo [[Project Page]](https://www.graphics.rwth-aachen.de/software/comiso/)
-- HOHQMesh [[Code]](https://github.com/trixi-framework/HOHQMesh)
+- CoMiSo [[Project Page]](https://www.graphics.rwth-aachen.de/software/comiso/):white_check_mark:
+- HOHQMesh [[Code]](https://github.com/trixi-framework/HOHQMesh):white_check_mark:
 - CGAL (IGM Quad Meshing) [[Doc]](https://cgal.geometryfactory.com/products/Quad_meshing/4.12/Quad_meshing/index.html)
 - RatRace [[Code]](https://github.com/daniel-zint/RatRace)
 
 # :floppy_disk: Softwares
 
+[Alexander Gao]: https://www.alexandergao.com/
 [Alexander Sorkine-Hornung]: https://www.sornlex.com/
 [Bruno Lévy]: https://brunolevy.github.io/
 [Claudio Silva]: https://engineering.nyu.edu/faculty/claudio-silva
 [Daniele Panozzo]: https://cims.nyu.edu/gcl/daniele.html
 [David Bommes]: https://www.graphics.rwth-aachen.de/person/6/
 [Denis Zorin]: https://cims.nyu.edu/gcl/denis.html
+[Dong-Ming Yan]: https://people.ucas.ac.cn/~dmyan
 [Enrico Puppo]: https://person.dibris.unige.it/puppo-enrico/
+[Gang Xu]: https://faculty.hdu.edu.cn/jsjxy/xg/main.htm
 [Hans-Christian Ebke]: https://www.graphics.rwth-aachen.de/person/10/
+[Hsueh-Ti Derek Liu]: https://www.dgp.toronto.edu/~hsuehtil/
 [Kenshi Takayama]: https://kenshi84.github.io/
 [Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
 [Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
@@ -1004,6 +1054,7 @@ A. Nasri, M. Sabin, Z. Yasseen
 [Martin Marinov]: https://www.graphics.rwth-aachen.de/person/43/
 [Max Lyon]: https://www.graphics.rwth-aachen.de/person/99/
 [Maxence Reberol]: https://mxncr.github.io
+[Ming C. Lin]: https://www.cs.umd.edu/~lin/
 [Na Lei]: http://conformalgeometry.org/~lei/
 [Nico Pietroni]: https://www.nicopietroni.com/
 [Nico Schertler]: https://nschertler.github.io/
@@ -1014,4 +1065,5 @@ A. Nasri, M. Sabin, Z. Yasseen
 [Shi-Min Hu]: https://cg.cs.tsinghua.edu.cn/shimin.htm
 [Stefano Nuvoli]: https://github.com/stefanonuvoli
 [Xianfeng Gu]: https://www3.cs.stonybrook.edu/~gu/
+[Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
