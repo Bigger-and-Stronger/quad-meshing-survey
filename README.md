@@ -371,6 +371,22 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 <tr>
 <td>
 
+<img title="image" src=".pic/Simpler-Quad-Layouts-using-Relaxed-Singularities.png" width="600">
+<td>
+
+**Simpler Quad Layouts using Relaxed Singularities**
+
+[M. Lyon], [M. Campen], [L. Kobbelt]
+
+23 August 2021, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14365)
+- [[Project Page]](https://www.graphics.rwth-aachen.de/publication/03336/)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 <img title="image" src=".pic/Reliable-feature-line-driven-quad-remeshing.png" width="600">
 <td>
 
@@ -385,6 +401,36 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 - [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459941)
 - [[Project Page]](https://www.quadmesh.cloud/)
 - [[Code]](https://github.com/nicopietroni/quadwild):white_check_mark:
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+<img title="image" src=".pic/A-parallel-dual-marching-cubes-approach-to-quad-only-surface-reconstruction.png" width="600">
+<td>
+
+**A parallel dual marching cubes approach to quad only surface reconstruction**
+
+Roberto Grosso, [Daniel Zint]
+
+06 June 2021, The Visual Computer
+<td>
+
+- [[Paper]](https://link.springer.com/article/10.1007/s00371-021-02139-w)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Quad-Layouts-via-Constrained-T-Mesh-Quantization.png" width="600">
+<td>
+
+**Quad Layouts via Constrained T-Mesh Quantization**
+
+[M. Lyon], [M. Campen], [L. Kobbelt]
+
+04 June 2021, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.142634)
+- [[Project Page]](https://www.graphics.rwth-aachen.de/publication/03330/)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -605,7 +651,22 @@ Wenzel Jakob, [Marco Tarini], [Daniele Panozzo], [Olga Sorkine-Hornung]
 
 - [[Paper]](https://dl.acm.org/doi/10.1145/2816795.2818078)
 - [[Project Page]](https://igl.ethz.ch/projects/instant-meshes/)
-- [[Code]](https://github.com/wjakob/instant-meshes)
+- [[Code]](https://github.com/wjakob/instant-meshes):white_check_mark:
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Quantized-global-parametrization.png" width="600">
+<td>
+
+**Quantized global parametrization**
+
+[Marcel Campen], [David Bommes], [Leif Kobbelt]
+
+02 November 2015, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2816795.2818140)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -1025,12 +1086,48 @@ A. Nasri, M. Sabin, Z. Yasseen
 <!-- ---------------------------------------------------------------------- -->
 </table>
 
+## High-order
+
+<table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Isogeometric-high-order-mesh-generation.png" width="213">
+<td>
+
+**Isogeometric high order mesh generation**
+
+Teseo Schneider, [Daniele Panozzo], Xianlian Zhou
+
+1 December 2021, CMAME
+<td>
+
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0045782521004357)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Generation-of-High-Order-Coarse-Quad-Meshes-on-CAD-Models-via-Integer-Linear-Programming.png" width="213">
+<td>
+
+**Generation of High-Order Coarse Quad Meshes on CAD Models via Integer Linear Programming**
+
+Mattéo Couplet, Maxence Reberol and Jean-François Remacle
+
+28 Jul 2021, AIAA
+<td>
+
+- [[Paper]](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2991)
+</table>
+
 # :hammer: Other Projects
 
+- CGAL (IGM Quad Meshing) [[Doc]](https://cgal.geometryfactory.com/products/Quad_meshing/4.12/Quad_meshing/index.html)
 - CoMiSo [[Project Page]](https://www.graphics.rwth-aachen.de/software/comiso/):white_check_mark:
 - HOHQMesh [[Code]](https://github.com/trixi-framework/HOHQMesh):white_check_mark:
-- CGAL (IGM Quad Meshing) [[Doc]](https://cgal.geometryfactory.com/products/Quad_meshing/4.12/Quad_meshing/index.html)
 - RatRace [[Code]](https://github.com/daniel-zint/RatRace)
+- TinyAD [[Code]](https://github.com/patr-schm/TinyAD)
 
 # :floppy_disk: Softwares
 
@@ -1038,6 +1135,7 @@ A. Nasri, M. Sabin, Z. Yasseen
 [Alexander Sorkine-Hornung]: https://www.sornlex.com/
 [Bruno Lévy]: https://brunolevy.github.io/
 [Claudio Silva]: https://engineering.nyu.edu/faculty/claudio-silva
+[Daniel Zint]: https://daniel-zint.github.io/
 [Daniele Panozzo]: https://cims.nyu.edu/gcl/daniele.html
 [David Bommes]: https://www.graphics.rwth-aachen.de/person/6/
 [Denis Zorin]: https://cims.nyu.edu/gcl/denis.html
@@ -1048,11 +1146,14 @@ A. Nasri, M. Sabin, Z. Yasseen
 [Hsueh-Ti Derek Liu]: https://www.dgp.toronto.edu/~hsuehtil/
 [Kenshi Takayama]: https://kenshi84.github.io/
 [Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
+[L. Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
 [Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
 [Marcel Campen]: https://graphics.cs.uos.de/
+[M. Campen]: https://graphics.cs.uos.de/
 [Marco Tarini]: https://tarini.di.unimi.it/
 [Martin Marinov]: https://www.graphics.rwth-aachen.de/person/43/
 [Max Lyon]: https://www.graphics.rwth-aachen.de/person/99/
+[M. Lyon]: https://www.graphics.rwth-aachen.de/person/99/
 [Maxence Reberol]: https://mxncr.github.io
 [Ming C. Lin]: https://www.cs.umd.edu/~lin/
 [Na Lei]: http://conformalgeometry.org/~lei/
@@ -1067,3 +1168,4 @@ A. Nasri, M. Sabin, Z. Yasseen
 [Xianfeng Gu]: https://www3.cs.stonybrook.edu/~gu/
 [Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
+
