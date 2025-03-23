@@ -340,21 +340,6 @@ Christos Georgiadis, Maxence Reberol, Jean-François Remacle
 <tr>
 <td>
 
-<img title="image" src=".pic/Closed-form-Quadrangulation-of-n-Sided-Patches.png" width="600">
-<td>
-
-**Closed-form Quadrangulation of n-Sided Patches**
-
-[Marco Tarini]
-
-October 2022, Computers & Graphics
-<td>
-
-- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097849326541170)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
 <img title="image" src=".pic/Face-Extrusion-Quad-Meshes.png" width="600">
 <td>
 
@@ -594,6 +579,21 @@ Xianzhong Fang, Hujun Bao, Yiying Tong, Mathieu Desbrun, [Jin Huang]
 <tr>
 <td>
 
+<img title="image" src=".pic/Partitioning-Surfaces-Into-Quadrilateral-Patches-A-Survey.png" width="600">
+<td>
+
+**Partitioning Surfaces Into Quadrilateral Patches: A Survey**
+
+[M. Campen]
+
+04 May 2017, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13153)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 <img title="image" src=".pic/All-quad-meshing-without-cleanup.png" width="600">
 <td>
 
@@ -817,6 +817,21 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <tr>
 <td>
 
+<img title="image" src=".pic/Simple-quad-domains-for-field-aligned-mesh-parametrization.png" width="600">
+<td>
+
+**Simple quad domains for field aligned mesh parametrization**
+
+[Marco Tarini], [Enrico Puppo], [Daniele Panozzo], [Nico Pietroni], [Paolo Cignoni]
+
+12 December 2011, SIGGRAPH Asia
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2024156.2024176)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 <img title="image" src=".pic/Global-Structure-Optimization-of-Quadrilateral-Meshes.png" width="600">
 <td>
 
@@ -1031,9 +1046,28 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <!-- ---------------------------------------------------------------------- -->
 </table>
 
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
 ## N-sided Patch
 
 <table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Closed-form-Quadrangulation-of-n-Sided-Patches.png" width="213">
+<td>
+
+**Closed-form Quadrangulation of n-Sided Patches**
+
+[Marco Tarini]
+
+October 2022, Computers & Graphics
+<td>
+
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0097849322001170)
+- [[Demo]](https://tarini.di.unimi.it/cc-ability.html):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -1085,6 +1119,10 @@ A. Nasri, M. Sabin, Z. Yasseen
 - [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01417.x)
 <!-- ---------------------------------------------------------------------- -->
 </table>
+
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
+<!-- ---------------------------------------------------------------------- -->
 
 ## High-order
 
