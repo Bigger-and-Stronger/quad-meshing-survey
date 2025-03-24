@@ -13,7 +13,272 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 # :page_with_curl: Papers
 
 ## Quad Meshing
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+### Coarse-Layout based
+#### Conforming layouts
+<table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
 
+<img title="image" src=".pic/Optimal-base-complexes-for-quadrilateral-meshes.png" width="600">
+<td>
+
+**Optimal base complexes for quadrilateral meshes**
+
+Faniry H. Razafindrazaka, Konrad Polthier
+
+March–April 2017, CAGD
+<td>
+
+- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167839617300286)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Integer-grid-maps-for-reliable-quad-meshing.png" width="600">
+<td>
+
+**Integer-grid maps for reliable quad meshing**
+
+[David Bommes], [Marcel Campen], [Hans-Christian Ebke], Pierre Alliez, [Leif Kobbelt]
+
+21 July 2013, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2461912.2462014)
+- [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/IGM_additional_material.zip)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Dual-loops-meshing-quality-quad-layouts-on-manifolds.png" width="600">
+<td>
+
+**Dual loops meshing: quality quad layouts on manifolds**
+
+[Marcel Campen], [David Bommes], [Leif Kobbelt]
+
+01 July 2012, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2185520.2185606)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Simple-quad-domains-for-field-aligned-mesh-parametrization.png" width="600">
+<td>
+
+**Simple quad domains for field aligned mesh parametrization**
+
+[Marco Tarini], [Enrico Puppo], [Daniele Panozzo], [Nico Pietroni], [Paolo Cignoni]
+
+12 December 2011, SIGGRAPH Asia
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2024156.2024176)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Global-Structure-Optimization-of-Quadrilateral-Meshes.png" width="600">
+<td>
+
+**Global Structure Optimization of Quadrilateral Meshes**
+
+[David Bommes], Timm Lempfer, [Leif Kobbelt]
+
+28 April 2011, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2011.01868.x)
+- [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/global_structure.zip)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Automatic-Construction-of-Quad-Based-Subdivision-Surfaces-Using-Fitmaps.png" width="600">
+<td>
+
+**Automatic Construction of Quad-Based Subdivision Surfaces Using Fitmaps**
+
+[Daniele Panozzo], [Enrico Puppo], [Marco Tarini], [Nico Pietroni], [Paolo Cignoni]
+
+04 February 2011, TVCG
+<td>
+
+- [[Paper]](https://ieeexplore.ieee.org/abstract/document/5708143)
+</table>
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+
+#### Non-conforming layouts
+<table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Generalized-motorcycle-graphs-for-imperfect-quad-dominant-meshes.png" width="600">
+<td>
+
+**Generalized motorcycle graphs for imperfect quad-dominant meshes**
+
+[Nico Schertler], [Daniele Panozzo], Stefan Gumhold, [Marco Tarini]
+
+30 July 2018, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/10.1145/3197517.3201389)
+- [[Code]](https://github.com/NSchertler/GeneralizedMotorcycleGraph)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Extraction-of-the-Quad-Layout-of-a-Triangle-Mesh-Guided-by-Its-Curve-Skeleton.png" width="600">
+<td>
+
+**Extraction of the Quad Layout of a Triangle Mesh Guided by Its Curve Skeleton**
+
+Francesco Usai, [Marco Livesu], [Enrico Puppo], [Marco Tarini], [Riccardo Scateni]
+
+29 December 2015, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2809785)
+- [[Project Page]](http://pers.ge.imati.cnr.it/livesu/papers/ULPTS15/ULPTS15.html)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Controlled-distortion-constrained-global-parametrization.png" width="600">
+<td>
+
+**Controlled-distortion constrained global parametrization**
+
+Ashish Myles, [Denis Zorin]
+
+21 July 2013, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2461912.2461970)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Robust-field-aligned-global-parametrization.png" width="600">
+<td>
+
+**Robust field-aligned global parametrization**
+
+Ashish Myles, [Nico Pietroni], [Denis Zorin]
+
+27 July 2014, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/10.1145/2601097.2601154)
+- [[Project Page]](https://vcg.isti.cnr.it/publication/2014/MPZ14/)
+</table>
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+
+#### Non-rectangular layouts
+<table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Reliable-feature-line-driven-quad-remeshing.png" width="600">
+<td>
+
+**Reliable feature-line driven quad-remeshing**
+
+[Nico Pietroni], [Stefano Nuvoli], Thomas Alderighi, [Paolo Cignoni], [Marco Tarini]
+
+19 July 2021, TOG (SIGGRAPH 2021)
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/10.1145/3450626.3459941)
+- [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459941)
+- [[Project Page]](https://www.quadmesh.cloud/)
+- [[Code]](https://github.com/nicopietroni/quadwild):white_check_mark:
+</table>
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+
+### Morse-based
+<table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Spectral-Quadrangulation-with-Feature-Curve-Alignment-and-Element-Size-Control.png" width="600">
+<td>
+
+**Spectral Quadrangulation with Feature Curve Alignment and Element Size Control**
+
+Ruotian Ling, [Jin Huang], Bert Jüttler, Feng Sun, [Hujun Bao], [Wenping Wang]
+
+29 December 2014, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2653476)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/A-wave-based-anisotropic-quadrangulation-method.png" width="600">
+<td>
+
+**A wave-based anisotropic quadrangulation method**
+
+Muyang Zhang, [Jin Huang], Xinguo Liu, [Hujun Bao]
+
+26 July 2010, SIGGRAPH
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778855)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Spectral-quadrangulation-with-orientation-and-alignment-control.png" width="600">
+<td>
+
+**Spectral quadrangulation with orientation and alignment control**
+
+[Jin Huang], Muyang Zhang, Jin Ma, Xinguo Liu, [Leif Kobbelt], [Hujun Bao]
+
+01 December 2008, SIGGRAPH Asia
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1457515.1409100)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Spectral-surface-quadrangulation.png" width="600">
+<td>
+
+**Spectral surface quadrangulation**
+
+Shen Dong, Peer-Timo Bremer, Michael Garland, Valerio Pascucci, John C. Hart
+
+01 July 2006
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141993)
+</table>
+
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+### Other techniques
 <table> 
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -299,7 +564,7 @@ Martin Heistermann, Jethro Warnett, [David Bommes]
 
 **Towards a robust and portable pipeline for quad meshing: Topological initialization of injective integer grid maps**
 
-Marco Livesu
+[Marco Livesu]
 
 May 2023, CGF (Special Section on STAG 2022)
 <td>
@@ -383,24 +648,6 @@ Alexander Dielen, Isaak Lim, [Max Lyon], [Leif Kobbelt]
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.14365)
 - [[Project Page]](https://www.graphics.rwth-aachen.de/publication/03336/)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/Reliable-feature-line-driven-quad-remeshing.png" width="600">
-<td>
-
-**Reliable feature-line driven quad-remeshing**
-
-[Nico Pietroni], [Stefano Nuvoli], Thomas Alderighi, [Paolo Cignoni], [Marco Tarini]
-
-19 July 2021, TOG (SIGGRAPH 2021)
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/10.1145/3450626.3459941)
-- [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3450626.3459941)
-- [[Project Page]](https://www.quadmesh.cloud/)
-- [[Code]](https://github.com/nicopietroni/quadwild):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -493,7 +740,7 @@ Kaoji Xu, Muhammad Naeem Akram, Guoning Chen
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/10.1145/3355089.3356542)
-- [[Code]](https://github.com/stefanonuvoli/quadmixer)
+- [[Code]](https://github.com/stefanonuvoli/quadmixer):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -539,23 +786,7 @@ Jingwei Huang, Yichao Zhou, Matthias Niessner, Jonathan Richard Shewchuk, Leonid
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13498)
-- [[Code]](https://github.com/hjwdzh/QuadriFlow)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/Generalized-motorcycle-graphs-for-imperfect-quad-dominant-meshes.png" width="600">
-<td>
-
-**Generalized motorcycle graphs for imperfect quad-dominant meshes**
-
-[Nico Schertler], [Daniele Panozzo], Stefan Gumhold, [Marco Tarini]
-
-30 July 2018, TOG
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/10.1145/3197517.3201389)
-- [[Code]](https://github.com/NSchertler/GeneralizedMotorcycleGraph)
+- [[Code]](https://github.com/hjwdzh/QuadriFlow):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -704,21 +935,6 @@ Giorgio Marcias, [Kenshi Takayama], [Nico Pietroni], [Daniele Panozzo], [Olga So
 <tr>
 <td>
 
-<img title="image" src=".pic/Spectral-Quadrangulation-with-Feature-Curve-Alignment-and-Element-Size-Control.png" width="600">
-<td>
-
-**Spectral Quadrangulation with Feature Curve Alignment and Element Size Control**
-
-Ruotian Ling, [Jin Huang], Bert Jüttler, Feng Sun, [Hujun Bao], [Wenping Wang]
-
-29 December 2014, TOG
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2653476)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
 <img title="image" src=".pic/Level-of-detail-quad-meshing.png" width="600">
 <td>
 
@@ -766,22 +982,6 @@ Giorgio Marcias, [Nico Pietroni], [Daniele Panozzo], [Enrico Puppo], [Olga Sorki
 <tr>
 <td>
 
-<img title="image" src=".pic/Integer-grid-maps-for-reliable-quad-meshing.png" width="600">
-<td>
-
-**Integer-grid maps for reliable quad meshing**
-
-[David Bommes], [Marcel Campen], [Hans-Christian Ebke], Pierre Alliez, [Leif Kobbelt]
-
-21 July 2013, TOG
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2461912.2462014)
-- [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/IGM_additional_material.zip)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
 <img title="image" src=".pic/Sketch-based-generation-and-editing-of-quad-meshes.png" width="600">
 <td>
 
@@ -797,21 +997,6 @@ Giorgio Marcias, [Nico Pietroni], [Daniele Panozzo], [Enrico Puppo], [Olga Sorki
 - [[Code]](http://igl.ethz.ch/projects/sketch-retopo/sketch-retopo-license.html)
 - [[Slides]](https://kenshi84.github.io/sketch-retopo/sketch-retopo.pptx)
 - [[Video]](https://youtu.be/-OTl_TtAm1o)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/Dual-loops-meshing-quality-quad-layouts-on-manifolds.png" width="600">
-<td>
-
-**Dual loops meshing: quality quad layouts on manifolds**
-
-[Marcel Campen], [David Bommes], [Leif Kobbelt]
-
-01 July 2012, TOG
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2185520.2185606)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -847,37 +1032,6 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <tr>
 <td>
 
-<img title="image" src=".pic/Simple-quad-domains-for-field-aligned-mesh-parametrization.png" width="600">
-<td>
-
-**Simple quad domains for field aligned mesh parametrization**
-
-[Marco Tarini], [Enrico Puppo], [Daniele Panozzo], [Nico Pietroni], [Paolo Cignoni]
-
-12 December 2011, SIGGRAPH Asia
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2024156.2024176)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/Global-Structure-Optimization-of-Quadrilateral-Meshes.png" width="600">
-<td>
-
-**Global Structure Optimization of Quadrilateral Meshes**
-
-[David Bommes], Timm Lempfer, [Leif Kobbelt]
-
-28 April 2011
-<td>
-
-- [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2011.01868.x)
-- [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/global_structure.zip)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
 <img title="image" src=".pic/SQuad-Compact-Representation-for-Triangle-Meshes.png" width="600">
 <td>
 
@@ -889,21 +1043,6 @@ Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2011.01866.x)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/A-wave-based-anisotropic-quadrangulation-method.png" width="600">
-<td>
-
-**A wave-based anisotropic quadrangulation method**
-
-Muyang Zhang, [Jin Huang], Xinguo Liu, [Hujun Bao]
-
-26 July 2010, SIGGRAPH
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778855)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -987,21 +1126,6 @@ Joel Daniels, Cláudio T. Silva, Jason Shepherd, Elaine Cohen
 <tr>
 <td>
 
-<img title="image" src=".pic/Spectral-quadrangulation-with-orientation-and-alignment-control.png" width="600">
-<td>
-
-**Spectral quadrangulation with orientation and alignment control**
-
-[Jin Huang], Muyang Zhang, Jin Ma, Xinguo Liu, [Leif Kobbelt], [Hujun Bao]
-
-01 December 2008, SIGGRAPH Asia
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1457515.1409100)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
 <img title="image" src=".pic/An-incremental-approach-to-feature-aligned-quad-dominant-remeshing.png" width="600">
 <td>
 
@@ -1043,21 +1167,6 @@ Felix Kälberer, Matthias Nieser, Konrad Polthier
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2006.00973.x)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/Spectral-surface-quadrangulation.png" width="600">
-<td>
-
-**Spectral surface quadrangulation**
-
-Shen Dong, Peer-Timo Bremer, Michael Garland, Valerio Pascucci, John C. Hart
-
-01 July 2006
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1179352.1141993)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -1106,11 +1215,10 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <!-- ---------------------------------------------------------------------- -->
 </table>
 
-<!-- ---------------------------------------------------------------------- -->
-<!-- ---------------------------------------------------------------------- -->
-<!-- ---------------------------------------------------------------------- -->
-## N-sided Patch
-
+<!-- -------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------- -->
+## N-sided patch
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -1180,44 +1288,12 @@ A. Nasri, M. Sabin, Z. Yasseen
 <!-- ---------------------------------------------------------------------- -->
 </table>
 
-<!-- ---------------------------------------------------------------------- -->
-<!-- ---------------------------------------------------------------------- -->
-<!-- ---------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------- -->
+<!-- -------------------------------------------------------------------------------- -->
 
 ## High-order
-
-<table>
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/Isogeometric-high-order-mesh-generation.png" width="213">
-<td>
-
-**Isogeometric high order mesh generation**
-
-Teseo Schneider, [Daniele Panozzo], Xianlian Zhou
-
-1 December 2021, CMAME
-<td>
-
-- [[Paper]](https://www.sciencedirect.com/science/article/pii/S0045782521004357)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
-<img title="image" src=".pic/Generation-of-High-Order-Coarse-Quad-Meshes-on-CAD-Models-via-Integer-Linear-Programming.png" width="213">
-<td>
-
-**Generation of High-Order Coarse Quad Meshes on CAD Models via Integer Linear Programming**
-
-Mattéo Couplet, Maxence Reberol and Jean-François Remacle
-
-28 Jul 2021, AIAA
-<td>
-
-- [[Paper]](https://arc.aiaa.org/doi/abs/10.2514/6.2021-2991)
-</table>
+You can refer to [high-order-meshing-survey](https://github.com/Bigger-and-Stronger/high-order-meshing-survey).
 
 # :hammer: Other Projects
 
@@ -1249,6 +1325,7 @@ Mattéo Couplet, Maxence Reberol and Jean-François Remacle
 [Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
 [Marcel Campen]: https://graphics.cs.uos.de/
 [M. Campen]: https://graphics.cs.uos.de/
+[Marco Livesu]: http://pers.ge.imati.cnr.it/livesu/
 [Marco Tarini]: https://tarini.di.unimi.it/
 [Martin Marinov]: https://www.graphics.rwth-aachen.de/person/43/
 [Max Lyon]: https://www.graphics.rwth-aachen.de/person/99/
