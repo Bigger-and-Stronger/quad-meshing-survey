@@ -355,6 +355,21 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
+<img title="image" src=".pic/Learning-Direction-Fields-for-Quad-Mesh-Generation.png" width="600">
+<td>
+
+**Learning Direction Fields for Quad Mesh Generation**
+
+Alexander Dielen, Isaak Lim, [Max Lyon], [Leif Kobbelt]
+
+23 August 2021, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14366)
+- [[Project Page]](https://www.graphics.rwth-aachen.de/publication/03337/)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
 
 <img title="image" src=".pic/Simpler-Quad-Layouts-using-Relaxed-Singularities.png" width="600">
 <td>
@@ -550,7 +565,7 @@ Jingwei Huang, Yichao Zhou, Matthias Niessner, Jonathan Richard Shewchuk, Leonid
 
 **Quadrangulation through morse-parameterization hybridization**
 
-Xianzhong Fang, Hujun Bao, Yiying Tong, Mathieu Desbrun, [Jin Huang]
+Xianzhong Fang, [Hujun Bao], Yiying Tong, Mathieu Desbrun, [Jin Huang]
 
 30 July 2018, TOG
 <td>
@@ -685,6 +700,21 @@ Giorgio Marcias, [Kenshi Takayama], [Nico Pietroni], [Daniele Panozzo], [Olga So
 - [[Project Page]](https://vcg.isti.cnr.it/publication/2015/MTPPSPC15/)
 - [[Code]](http://igl.ethz.ch/projects/sketch-retopo/sketch-retopo-license.html)
 - [[Video]](https://youtu.be/H8K5CyQB_kc)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Spectral-Quadrangulation-with-Feature-Curve-Alignment-and-Element-Size-Control.png" width="600">
+<td>
+
+**Spectral Quadrangulation with Feature Curve Alignment and Element Size Control**
+
+Ruotian Ling, [Jin Huang], Bert Jüttler, Feng Sun, [Hujun Bao], [Wenping Wang]
+
+29 December 2014, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/2653476)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -863,6 +893,21 @@ Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
 <tr>
 <td>
 
+<img title="image" src=".pic/A-wave-based-anisotropic-quadrangulation-method.png" width="600">
+<td>
+
+**A wave-based anisotropic quadrangulation method**
+
+Muyang Zhang, [Jin Huang], Xinguo Liu, [Hujun Bao]
+
+26 July 2010, SIGGRAPH
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1833349.1778855)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 <img title="image" src=".pic/Feature-aligned-T-meshes.png" width="600">
 <td>
 
@@ -938,6 +983,21 @@ Joel Daniels, Cláudio T. Silva, Jason Shepherd, Elaine Cohen
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/1409060.1409101)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Spectral-quadrangulation-with-orientation-and-alignment-control.png" width="600">
+<td>
+
+**Spectral quadrangulation with orientation and alignment control**
+
+[Jin Huang], Muyang Zhang, Jin Ma, Xinguo Liu, [Leif Kobbelt], [Hujun Bao]
+
+01 December 2008, SIGGRAPH Asia
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/1457515.1409100)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -1182,6 +1242,7 @@ Mattéo Couplet, Maxence Reberol and Jean-François Remacle
 [Gang Xu]: https://faculty.hdu.edu.cn/jsjxy/xg/main.htm
 [Hans-Christian Ebke]: https://www.graphics.rwth-aachen.de/person/10/
 [Hsueh-Ti Derek Liu]: https://www.dgp.toronto.edu/~hsuehtil/
+[Hujun Bao]: http://www.cad.zju.edu.cn/home/bao/
 [Kenshi Takayama]: https://kenshi84.github.io/
 [Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
 [L. Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
@@ -1203,6 +1264,7 @@ Mattéo Couplet, Maxence Reberol and Jean-François Remacle
 [Riccardo Scateni]: https://web.unica.it/unica/page/it/riccardo_scateni
 [Shi-Min Hu]: https://cg.cs.tsinghua.edu.cn/shimin.htm
 [Stefano Nuvoli]: https://github.com/stefanonuvoli
+[Wenping Wang]: https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html
 [Xianfeng Gu]: https://www3.cs.stonybrook.edu/~gu/
 [Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
