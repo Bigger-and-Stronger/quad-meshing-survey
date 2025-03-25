@@ -16,8 +16,8 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
-### Coarse-Layout based
-#### Conforming layouts
+### Coarse-Layout based methods
+#### Conforming layouts methods
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -116,7 +116,7 @@ March–April 2017, CAGD
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
 
-#### Non-conforming layouts
+#### Non-conforming layouts methods
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -186,7 +186,7 @@ Ashish Myles, [Nico Pietroni], [Denis Zorin]
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
 
-#### Non-rectangular layouts
+#### Non-rectangular layouts methods
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -211,8 +211,30 @@ Ashish Myles, [Nico Pietroni], [Denis Zorin]
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
 
-### Morse-based
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------- -->
+
+### Morse-based methods
 <table>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<img title="image" src=".pic/Quadrangulation-through-morse-parameterization-hybridization.png" width="600">
+<td>
+
+**Quadrangulation through morse-parameterization hybridization**
+
+Xianzhong Fang, [Hujun Bao], Yiying Tong, Mathieu Desbrun, [Jin Huang]
+
+30 July 2018, TOG
+<td>
+
+- [[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201354)
+- [[EXE]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_binary_Mint19_V20180731.7z)
+- [[Supplementary material]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_dataset_test.pdf)
+- [[Data]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad.zip)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -791,24 +813,6 @@ Jingwei Huang, Yichao Zhou, Matthias Niessner, Jonathan Richard Shewchuk, Leonid
 <tr>
 <td>
 
-<img title="image" src=".pic/Quadrangulation-through-morse-parameterization-hybridization.png" width="600">
-<td>
-
-**Quadrangulation through morse-parameterization hybridization**
-
-Xianzhong Fang, [Hujun Bao], Yiying Tong, Mathieu Desbrun, [Jin Huang]
-
-30 July 2018, TOG
-<td>
-
-- [[Paper]](https://dl.acm.org/doi/abs/10.1145/3197517.3201354)
-- [[EXE]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_binary_Mint19_V20180731.7z)
-- [[Supplementary material]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad_dataset_test.pdf)
-- [[Data]](http://www.cad.zju.edu.cn/home/hj/18/hybrid_quad.zip)
-<!-- ---------------------------------------------------------------------- -->
-<tr>
-<td>
-
 <img title="image" src=".pic/Quad-Mesh-Generation-via-Field-Aligned-Centroidal-Voronoi-Tessellation.png" width="600">
 <td>
 
@@ -946,6 +950,22 @@ Giorgio Marcias, [Kenshi Takayama], [Nico Pietroni], [Daniele Panozzo], [Olga So
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2661229.2661240)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
+<td>
+
+**Designing N-PolyVector Fields with Complex Polynomials**
+
+Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
+
+23 August 2014, CGF
+<td>
+
+- [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12426)
+- [[Project Page]](https://igl.ethz.ch/projects/complex-roots/)
+- [[Code]](https://igl.ethz.ch/projects/complex-roots/nPV.zip)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -1106,7 +1126,7 @@ Ashish Myles, [Nico Pietroni], Denis Kovacs, [Denis Zorin]
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/1531326.1531383)
 - [[Additional material]](https://www-sop.inria.fr/members/David.Bommes/publications/miq.zip)
 - [[Implementation (libigl)]](https://github.com/libigl/libigl/tree/main)
-- [[Tutorial]](https://libigl.github.io/tutorial/)
+- [[Tutorial (libigl)]](https://libigl.github.io/tutorial/)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
 <td>
@@ -1307,6 +1327,7 @@ You can refer to [high-order-meshing-survey](https://github.com/Bigger-and-Stron
 
 [Alexander Gao]: https://www.alexandergao.com/
 [Alexander Sorkine-Hornung]: https://www.sornlex.com/
+[Amir Vaxman]: https://avaxman.github.io
 [Bruno Lévy]: https://brunolevy.github.io/
 [Claudio Silva]: https://engineering.nyu.edu/faculty/claudio-silva
 [Daniel Zint]: https://daniel-zint.github.io/
