@@ -226,7 +226,7 @@ Ashish Myles, [Nico Pietroni], [Denis Zorin]
 
 **Quadrangulation through morse-parameterization hybridization**
 
-Xianzhong Fang, [Hujun Bao], Yiying Tong, Mathieu Desbrun, [Jin Huang]
+[Xianzhong Fang], [Hujun Bao], Yiying Tong, Mathieu Desbrun, [Jin Huang]
 
 30 July 2018, TOG
 <td>
@@ -1032,6 +1032,8 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 <td>
 
 - [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.3279)
+- [[Project Page]](https://www.math.uwaterloo.ca/~bico//blossom4/)
+- [[Code]](https://www.math.uwaterloo.ca/~bico//blossom4/match.tar.gz)
 - [[Code? (combined in RatRace)]](https://github.com/daniel-zint/RatRace)
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -1206,6 +1208,21 @@ Yongjie Zhang, Chandrajit Bajaj
 <tr>
 <td>
 
+<img title="image" src=".pic/Direct-anisotropic-quad-dominant-remeshing.png" width="600">
+<td>
+
+**Direct anisotropic quad-dominant remeshing**
+
+M. Marinov, [L. Kobbelt]
+
+01 November 2004, PG
+<td>
+
+- [[Paper]](https://ieeexplore.ieee.org/abstract/document/1348351)
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td>
+
 <img title="image" src=".pic/Quadrilateral-Meshing-with-Directionality-Control-through-the-Packing-of-Square-Cells.png" width="600">
 <td>
 
@@ -1364,6 +1381,7 @@ You can refer to [high-order-meshing-survey](https://github.com/Bigger-and-Stron
 [Stefano Nuvoli]: https://github.com/stefanonuvoli
 [Wenping Wang]: https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html
 [Xianfeng Gu]: https://www3.cs.stonybrook.edu/~gu/
+[Xianzhong Fang]: https://xzfang.top/
 [Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
 
