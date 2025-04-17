@@ -981,6 +981,7 @@ Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
 <td>
 
 - [[Paper]](https://dl.acm.org/doi/abs/10.1145/2508363.2508372)
+- [[Project Page]](https://www.graphics.rwth-aachen.de/publication/03204/)
 - [[Code]](https://github.com/hcebke/libQEx):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr>
