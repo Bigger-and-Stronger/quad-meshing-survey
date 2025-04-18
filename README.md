@@ -226,6 +226,26 @@ Jingchen Gao, Zhoufang Xiao, Chenhao Xu, Shuwei Shen, [Gang Xu]
 
 [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1002/nme.7539)
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Indirect-all-quadrilateral-meshing-based-on-bipartite-topological-labeling.png" width="600"><td>
+
+**Indirect all-quadrilateral meshing based on bipartite topological labeling**
+
+Christos Georgiadis, Maxence Reberol, Jean-François Remacle
+
+07 October 2022, Engineering with Computers
+
+[[doi]](https://link.springer.com/article/10.1007/s00366-022-01740-4) [[pdf]](https://www.researchsquare.com/article/rs-1272019/v1.pdf)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Quasi-structured-quadrilateral-meshing-in-Gmsh-a-robust-pipeline-for-complex-CAD-models.png" width="600"><td>
+
+**Quasi-structured quadrilateral meshing in Gmsh -- a robust pipeline for complex CAD models**
+
+[Maxence Reberol], Christos Georgiadis, Jean-François Remacle
+
+08 Mar 2021, arXiv
+
+[[doi]](https://arxiv.org/abs/2103.04652) [[available in Gmsh 4.8.1+]](https://mxncr.github.io)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Quad-Mesh-Generation-via-Field-Aligned-Centroidal-Voronoi-Tessellation.png" width="600"><td>
 
 **Quad Mesh Generation via Field-Aligned Centroidal Voronoi Tessellation**
@@ -503,16 +523,6 @@ May 2023, CGF (Special Section on STAG 2022)
 
 [[doi]](https://ieeexplore.ieee.org/abstract/document/10141677)
 <!-- ---------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Indirect-all-quadrilateral-meshing-based-on-bipartite-topological-labeling.png" width="600"><td>
-
-**Indirect all-quadrilateral meshing based on bipartite topological labeling**
-
-Christos Georgiadis, Maxence Reberol, Jean-François Remacle
-
-07 October 2022, Engineering with Computers
-
-[[doi]](https://link.springer.com/article/10.1007/s00366-022-01740-4)
-<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Face-Extrusion-Quad-Meshes.png" width="600"><td>
 
 **Face Extrusion Quad Meshes**
@@ -562,16 +572,6 @@ Roberto Grosso, [Daniel Zint]
 04 June 2021, CGF
 
 [[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.142634) [[project]](https://www.graphics.rwth-aachen.de/publication/03330/)
-<!-- ---------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Quasi-structured-quadrilateral-meshing-in-Gmsh-a-robust-pipeline-for-complex-CAD-models.png" width="600"><td>
-
-**Quasi-structured quadrilateral meshing in Gmsh -- a robust pipeline for complex CAD models**
-
-[Maxence Reberol], Christos Georgiadis, Jean-François Remacle
-
-08 Mar 2021, arXiv
-
-[[doi]](https://arxiv.org/abs/2103.04652) [[available in Gmsh 4.8.1+]](https://mxncr.github.io)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Semi-global-Quad-Mesh-Structure-Simplification-via-Separatrix-Operations.png" width="600"><td>
 
