@@ -16,7 +16,7 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-### Coarse-Layout based methods
+### :red_circle: Coarse-Layout based methods
 #### Conforming layouts methods
 <table>
 <!-- ---------------------------------------------------------------------- -->
@@ -152,7 +152,7 @@ Ashish Myles, [Nico Pietroni], [Denis Zorin]
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
 
-### Morse-based methods
+### :red_circle: Morse-based methods
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -213,7 +213,7 @@ Shen Dong, Peer-Timo Bremer, Michael Garland, Valerio Pascucci, John C. Hart
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-### Tri-to-Quad
+### :red_circle: Tri-to-Quad
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Quadrilateral-surface-mesh-generation-with-improved-quality-by-combination-of-triangles.png" width="600"><td>
@@ -244,7 +244,17 @@ Christos Georgiadis, Maxence Reberol, Jean-François Remacle
 
 08 Mar 2021, arXiv
 
-[[doi]](https://arxiv.org/abs/2103.04652) [[available in Gmsh 4.8.1+]](https://mxncr.github.io)
+[[doi]](https://arxiv.org/abs/2103.04652) [[video]](https://www.youtube.com/watch?v=OY6U3EyCq0o) [[available in Gmsh 4.8.1+]](https://mxncr.github.io)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Robust-metric-aligned-quad-dominant-meshing-using-Lp-centroidal-Voronoi-tessellation.png" width="600"><td>
+
+**Robust metric aligned quad-dominant meshing using Lp centroidal Voronoi tessellation**
+
+Dirk Ekelschot, Marco Ceze, Anirban Garai, Scott M. Murman
+
+07 Jan 2018, AIAA
+
+[[doi]](https://doi.org/10.2514/6.2018-1501)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Quad-Mesh-Generation-via-Field-Aligned-Centroidal-Voronoi-Tessellation.png" width="600"><td>
 
@@ -256,6 +266,26 @@ Christos Georgiadis, Maxence Reberol, Jean-François Remacle
 
 [[doi]](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2017.16689) [[project]](https://duxingyi-charles.github.io/publication/quad-mesh-generation-via-field-aligned-centroidal-voronoi-tessellation/)
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/QMCF-QMorph-Cross-Field-driven-Quad-dominant-Meshing-Algorithm.png" width="600"><td>
+
+**QMCF: QMorph Cross Field-driven Quad-dominant Meshing Algorithm**
+
+Bertrand Pellenard, Gunay Orbay, James Chen, Shailendra Sohan, Wa Kwok, Joseph R. Tristano
+
+2014, Procedia Engineering
+
+[[doi]](https://doi.org/10.1016/j.proeng.2014.10.395)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/A-frontal-Delaunay-quad-mesh-generator-using-the-L-norm.png" width="600"><td>
+
+**A frontal Delaunay quad mesh generator using the L ∞ norm**
+
+J.-F. Remacle, F. Henrotte, T. Carrier-Baudouin, E. Béchet, E. Marchandise, C.  Geuzaine, T. Mouton
+
+28 February 2013, IJNME
+
+[[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.4458)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Blossom-Quad-A-non-uniform-quadrilateral-mesh-generator-using-a-minimum-cost-perfect-matching-algorithm.png" width="600"><td>
 
 **Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm**
@@ -266,6 +296,16 @@ J.-F. Remacle, J. Lambrechts, B. Seny, E. Marchandise, A. Johnen, C. Geuzainet
 
 [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.3279) [[project]](https://www.math.uwaterloo.ca/~bico//blossom4/) [[code]](https://www.math.uwaterloo.ca/~bico//blossom4/match.tar.gz) [[code? (combined in RatRace)]](https://github.com/daniel-zint/RatRace)
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Direct-quad-dominant-meshing-of-point-cloud-via-global-parameterization.png" width="600"><td>
+
+**Direct quad-dominant meshing of point cloud via global parameterization**
+
+Er Li, Wujun Che, Xiaopeng Zhang, Yi-Kuan Zhang, Bo Xu
+
+June 2011, Computers & Graphics
+
+[[doi]](https://doi.org/10.1016/j.cag.2011.03.021)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/SQuad-Compact-Representation-for-Triangle-Meshes.png" width="600"><td>
 
 **SQuad: Compact Representation for Triangle Meshes**
@@ -275,6 +315,16 @@ Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
 28 April 2011, CGF
 
 [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2011.01866.x)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Lp-Centroidal-Voronoi-Tessellation-and-its-applications.png" width="600"><td>
+
+**Lp Centroidal Voronoi Tessellation and its applications**
+
+[Bruno Lévy], [Yang Liu]
+
+26 July 2010, TOG
+
+[[doi]](https://dl.acm.org/doi/abs/10.1145/1778765.1778856) [[code]](https://app.box.com/s/vh9mz9eody9xuxj7xtp2f19d8d7gya97):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Practical-quad-mesh-simplification.png" width="600"><td>
 
@@ -290,11 +340,14 @@ Topraj Gurung, Daniel Laney, Peter Lindstrom, Jarek Rossignac
 
 **An incremental approach to feature aligned quad dominant remeshing**
 
+**Feature aligned quad dominant remeshing using iterative local updates**
+
 Yu-Kun Lai, [Leif Kobbelt], [Shi-Min Hu]
 
 02 June 2008, SPM
+February 2010, CAD
 
-[[doi]](https://dl.acm.org/doi/abs/10.1145/1364901.1364921)
+[[doi]](https://dl.acm.org/doi/abs/10.1145/1364901.1364921) [[doi]](https://doi.org/10.1016/j.cad.2009.02.017)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/4–8-Subdivision.png" width="600"><td>
 
@@ -330,7 +383,7 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-### Other techniques
+### :red_circle: Other techniques
 <table> 
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Robust-motorcycle-graph-construction-and-simplification-for-semi-structured-quad-mesh-generation.png" width="600"><td>
@@ -583,6 +636,16 @@ Kaoji Xu, Muhammad Naeem Akram, Guoning Chen
 
 [[doi]](https://dl.acm.org/doi/10.1145/3410700.3425436)
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Low-degree-splines-for-locally-quad-dominant-meshes.png" width="600"><td>
+
+**Low degree splines for locally quad-dominant meshes**
+
+Kȩstutis Karčiauskas, Jörg Peters
+
+November 2020, CAGD
+
+[[doi]](https://doi.org/10.1016/j.cagd.2020.101934)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Cost-Minimizing-Local-Anisotropic-Quad-Mesh-Refinement.png" width="600"><td>
 
 **Cost Minimizing Local Anisotropic Quad Mesh Refinement**
@@ -713,6 +776,16 @@ Giorgio Marcias, [Kenshi Takayama], [Nico Pietroni], [Daniele Panozzo], [Olga So
 
 [[doi]](https://dl.acm.org/doi/abs/10.1145/2661229.2661240)
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Using-the-medial-axis-to-represent-flow-features-for-feature-aligned-unstructured-quad-dominant-mesh-generation.png" width="600"><td>
+
+**Using the medial axis to represent flow features for feature-aligned unstructured quad-dominant mesh generation**
+
+M.J. Harris, N. Qin
+
+10 October 2014, Computers & Fluids
+
+[[doi]](https://doi.org/10.1016/j.compfluid.2014.06.017)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Designing-N-PolyVector-Fields-with-Complex-Polynomials.png" width="600"><td>
 
 **Designing N-PolyVector Fields with Complex Polynomials**
@@ -722,6 +795,16 @@ Olga Diamanti, [Amir Vaxman], [Daniele Panozzo], [Olga Sorkine-Hornung]
 23 August 2014, CGF
 
 [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12426) [[project]](https://igl.ethz.ch/projects/complex-roots/) [[code]](https://igl.ethz.ch/projects/complex-roots/nPV.zip)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/An-effective-quad-dominant-meshing-method-for-unorganized-point-clouds.png" width="600"><td>
+
+**An effective quad-dominant meshing method for unorganized point clouds**
+
+Xufang Pang, Zhan Song, Rynson W.H. Lau
+
+March 2014, Graphical Models
+
+[[doi]](https://doi.org/10.1016/j.gmod.2013.11.004)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/QEx-robust-quad-mesh-extraction.png" width="600"><td>
 
@@ -763,6 +846,26 @@ Giorgio Marcias, [Nico Pietroni], [Daniele Panozzo], [Enrico Puppo], [Olga Sorki
 
 [[doi]](https://dl.acm.org/doi/abs/10.1111/cgf.12014)
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Implicit-Hierarchical-Quad-Dominant-Meshes.png" width="213"><td>
+
+**Implicit Hierarchical Quad-Dominant Meshes**
+
+[Daniele Panozzo], [Enrico Puppo]
+
+02 February 2011, CGF
+
+[[doi]](https://doi.org/10.1111/j.1467-8659.2011.01847.x) [[pdf]](https://cims.nyu.edu/gcl/papers/CGF2011-PanPup.pdf)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Designing-Quad-dominant-Meshes-with-Planar-Faces.png" width="213"><td>
+
+**Designing Quad-dominant Meshes with Planar Faces**
+
+Mirko Zadravec, Alexander Schiftner, Johannes Wallner
+
+21 September 2010, CGF
+
+[[doi]](https://doi.org/10.1111/j.1467-8659.2010.01776.x) [[pdf]](https://www.geometrie.tuwien.ac.at/geom/ig/publications/oldpub/2010/design10/paper_doc/design.pdf)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Feature-aligned-T-meshes.png" width="600"><td>
 
 **Feature-aligned T-meshes**
@@ -772,16 +875,6 @@ Ashish Myles, [Nico Pietroni], Denis Kovacs, [Denis Zorin]
 26 July 2010, TOG
 
 [[doi]](https://dl.acm.org/doi/abs/10.1145/1778765.1778854)
-<!-- ---------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Lp-Centroidal-Voronoi-Tessellation-and-its-applications.png" width="600"><td>
-
-**Lp Centroidal Voronoi Tessellation and its applications**
-
-[Bruno Lévy], [Yang Liu]
-
-26 July 2010, TOG
-
-[[doi]](https://dl.acm.org/doi/abs/10.1145/1778765.1778856) [[code]](https://app.box.com/s/vh9mz9eody9xuxj7xtp2f19d8d7gya97):white_check_mark:
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Mixed-integer-quadrangulation.png" width="600"><td>
 
@@ -821,7 +914,7 @@ Felix Kälberer, Matthias Nieser, Konrad Polthier
 
 07 December 2006, CGF
 
-[[doi]](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-8659.2006.00973.x)
+[[doi]](https://doi.org/10.1111/j.1467-8659.2006.00973.x) [[project]](https://www.graphics.rwth-aachen.de/publication/0379/) [[data]](https://graphics.rwth-aachen.de/media/papers/meshes.zip)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Adaptive-and-quality-quadrilateral-hexahedral-meshing-from-volumetric-data.png" width="600"><td>
 
