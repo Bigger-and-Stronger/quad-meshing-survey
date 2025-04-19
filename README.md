@@ -378,6 +378,26 @@ S. J. Owen, M. L. Staten, S. A. Canann, S. Saigal
 17 March 1999, International Journal for Numerical Methods in Engineering
 
 [[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0207(19990330)44:9%3C1317::AID-NME532%3E3.0.CO;2-N)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Adaptive-triangular–quadrilateral-mesh-generation.png" width="600"><td>
+
+**Adaptive triangular–quadrilateral mesh generation**
+
+Houman Borouchaki, Pascal J. Frey
+
+04 December 1998, IJNME
+
+[[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1097-0207(19980315)41:5%3C915::AID-NME318%3E3.0.CO;2-Y) [[pdf]](https://inria.hal.science/inria-00073738/document)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/A-new-scheme-for-the-generation-of-a-graded-quadrilateral-mesh.png" width="600"><td>
+
+**A new scheme for the generation of a graded quadrilateral mesh**
+
+C.K. Lee, S.H. Lo
+
+3 September 1994, Computers & Structures
+
+[[doi]](https://doi.org/10.1016/0045-7949(94)90070-1)
 </table>
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
@@ -544,7 +564,7 @@ Yoann Coudert-Osmont, David Desobry, Martin Heistermann, [David Bommes], Nicolas
 
 17 September 2023, CGF
 
-[[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14928)
+[[doi]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14928) [[project]](https://www.algohex.eu/publications/quad-mesh-quantization-without-a-t-mesh/)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Min-Deviation-Flow-in-Bi-directed-Graphs-for-T-Mesh-Quantization.png" width="600"><td>
 
@@ -585,6 +605,15 @@ Karran Pandey, J. Andreas Bærentzen, Karan Singh
 24 July 2022, SIGGRAPH 2022
 
 [[doi]](https://dl.acm.org/doi/abs/10.1145/3528233.3530754) [[project]](https://www.dgp.toronto.edu/projects/feq/)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Quad-Meshing-with-Coarse-Layouts-for-Planar-Domains.png" width="600"><td>
+
+**Quad Meshing with Coarse Layouts for Planar Domains**
+
+Chi Zhang, Shuangming Chai, [Ligang Liu], [Xiao-Ming Fu]
+
+November 2021, CAD
+
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Learning-Direction-Fields-for-Quad-Mesh-Generation.png" width="600"><td>
 
@@ -846,7 +875,7 @@ Giorgio Marcias, [Nico Pietroni], [Daniele Panozzo], [Enrico Puppo], [Olga Sorki
 
 [[doi]](https://dl.acm.org/doi/abs/10.1111/cgf.12014)
 <!-- ---------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Implicit-Hierarchical-Quad-Dominant-Meshes.png" width="213"><td>
+<tr><td><img title="image" src=".pic/Implicit-Hierarchical-Quad-Dominant-Meshes.png" width="600"><td>
 
 **Implicit Hierarchical Quad-Dominant Meshes**
 
@@ -856,7 +885,7 @@ Giorgio Marcias, [Nico Pietroni], [Daniele Panozzo], [Enrico Puppo], [Olga Sorki
 
 [[doi]](https://doi.org/10.1111/j.1467-8659.2011.01847.x) [[pdf]](https://cims.nyu.edu/gcl/papers/CGF2011-PanPup.pdf)
 <!-- ---------------------------------------------------------------------- -->
-<tr><td><img title="image" src=".pic/Designing-Quad-dominant-Meshes-with-Planar-Faces.png" width="213"><td>
+<tr><td><img title="image" src=".pic/Designing-Quad-dominant-Meshes-with-Planar-Faces.png" width="600"><td>
 
 **Designing Quad-dominant Meshes with Planar Faces**
 
@@ -935,6 +964,16 @@ M. Marinov, [L. Kobbelt]
 01 November 2004, PG
 
 [[doi]](https://ieeexplore.ieee.org/abstract/document/1348351)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Paving-A-new-approach-to-automated-quadrilateral-mesh-generation.png" width="600"><td>
+
+**Paving: A new approach to automated quadrilateral mesh generation**
+
+Ted D. Blacker, Michael B. Stephenson
+
+September 1991, IJNME
+
+[[doi]](https://doi.org/10.1002/nme.1620320410) [[pdf]](https://www.osti.gov/servlets/purl/7184374)
 <!-- ---------------------------------------------------------------------- -->
 </table>
 
@@ -1020,6 +1059,7 @@ You can refer to [high-order-meshing-survey](https://github.com/Bigger-and-Stron
 [Hujun Bao]: http://www.cad.zju.edu.cn/home/bao/
 [Kenshi Takayama]: https://kenshi84.github.io/
 [Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
+[Ligang Liu]: http://staff.ustc.edu.cn/~lgliu/
 [L. Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
 [Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
 [Marcel Campen]: https://graphics.cs.uos.de/
@@ -1043,6 +1083,7 @@ You can refer to [high-order-meshing-survey](https://github.com/Bigger-and-Stron
 [Wenping Wang]: https://engineering.tamu.edu/cse/profiles/Wang-Wenping.html
 [Xianfeng Gu]: https://www3.cs.stonybrook.edu/~gu/
 [Xianzhong Fang]: https://xzfang.top/
+[Xiao-Ming Fu]: https://ustc-gcl-f.github.io/
 [Xingyi Du]: https://duxingyi-charles.github.io/
 [Yang Liu]: https://xueyuhanlang.github.io/
 
