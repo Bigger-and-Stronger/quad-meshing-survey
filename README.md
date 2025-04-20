@@ -12,11 +12,11 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 # :page_with_curl: Papers
 
-## Quad Meshing
+## :small_orange_diamond: Quad Meshing
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-### :red_circle: Coarse-Layout based methods
+### :small_blue_diamond: Coarse-Layout based methods
 #### Conforming layouts methods
 <table>
 <!-- ---------------------------------------------------------------------- -->
@@ -152,7 +152,7 @@ Ashish Myles, [Nico Pietroni], [Denis Zorin]
 <!-- --------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------- -->
 
-### :red_circle: Morse-based methods
+### :small_blue_diamond: Morse-based methods
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr>
@@ -213,7 +213,7 @@ Shen Dong, Peer-Timo Bremer, Michael Garland, Valerio Pascucci, John C. Hart
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-### :red_circle: Tri-to-Quad
+### :small_blue_diamond: Tri-to-Quad
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Quadrilateral-surface-mesh-generation-with-improved-quality-by-combination-of-triangles.png" width="600"><td>
@@ -403,7 +403,7 @@ C.K. Lee, S.H. Lo
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-### :red_circle: Other techniques
+### :small_blue_diamond: Other techniques
 <table> 
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Robust-motorcycle-graph-construction-and-simplification-for-semi-structured-quad-mesh-generation.png" width="600"><td>
@@ -980,7 +980,7 @@ September 1991, IJNME
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
-## N-sided patch
+## :small_orange_diamond: N-sided patch
 <table>
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Closed-form-Quadrangulation-of-n-Sided-Patches.png" width="213"><td>
@@ -1028,8 +1028,34 @@ A. Nasri, M. Sabin, Z. Yasseen
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+## :small_orange_diamond: Singularity Removal
+<table>
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Q-zip-singularity-editing-primitive-for-quad-meshes.png" width="600"><td>
 
-## High-order
+**Q-zip: singularity editing primitive for quad meshes**
+
+[Leman Feng], Yiying Tong, Mathieu Desbrun
+
+10 December 2021, TOG
+
+[[doi]](https://doi.org/10.1145/3478513.3480523) [[pdf]](https://geometry.caltech.edu/pubs/FTD21.pdf)
+<!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/A-Robust-Combinatorial-Approach-to-Reduce-Singularities-in-Quadrilateral-Meshes.png" width="600"><td>
+
+**A Robust Combinatorial Approach to Reduce Singularities in Quadrilateral Meshes**
+
+Chaman Singh Verma, Krishnan Suresh
+
+2015, Procedia Engineering (IMR24)
+
+[[doi]](https://doi.org/10.1016/j.proeng.2015.10.137) [[pdf]](https://pages.cs.wisc.edu/~csverma/20_IMR24_Verma.pdf)
+</table>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+## :small_orange_diamond: High-order
 You can refer to [high-order-meshing-survey](https://github.com/Bigger-and-Stronger/high-order-meshing-survey).
 
 # :hammer: Other Projects
@@ -1059,6 +1085,7 @@ You can refer to [high-order-meshing-survey](https://github.com/Bigger-and-Stron
 [Hujun Bao]: http://www.cad.zju.edu.cn/home/bao/
 [Kenshi Takayama]: https://kenshi84.github.io/
 [Leif Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
+[Leman Feng]: http://lemanfeng.com/index.php/resume/chinese/
 [Ligang Liu]: http://staff.ustc.edu.cn/~lgliu/
 [L. Kobbelt]: https://www.graphics.rwth-aachen.de/person/3/
 [Jin Huang]: http://www.cad.zju.edu.cn/home/hj/index.xml
