@@ -349,6 +349,16 @@ February 2010, CAD
 
 [[doi]](https://dl.acm.org/doi/abs/10.1145/1364901.1364921) [[doi]](https://doi.org/10.1016/j.cad.2009.02.017)
 <!-- ---------------------------------------------------------------------- -->
+<tr><td><img title="image" src=".pic/Quad-Dominant-Mesh-Adaptation-Using-Specialized-Simplicial-Optimization.png" width="600"><td>
+
+**Quad-Dominant Mesh Adaptation Using Specialized Simplicial Optimization**
+
+Ko-Foa Tchon, Ricardo Camarero
+
+2006, Proceedings of the 15th International Meshing Roundtable
+
+[[doi]](https://link.springer.com/chapter/10.1007/978-3-540-34958-7_2) [[pdf]](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=439d9a857d99fc6b9e507348b9c35716d6eedc9f)
+<!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/4–8-Subdivision.png" width="600"><td>
 
 **4–8 Subdivision**
