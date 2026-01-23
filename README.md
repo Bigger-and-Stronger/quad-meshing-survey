@@ -27,7 +27,7 @@ The emoji :white_check_mark: after the `[code]` indicates that this code has bee
 
 2025, SIGGRAPH
 
-[[project]](http://staff.ustc.edu.cn/~fuxm/projects/FSCQ/FSCQ.html)
+[[project]](http://staff.ustc.edu.cn/~fuxm/projects/FSCQ/FSCQ.html) [[bin]](https://github.com/AnderLiang/Field-Smoothness-Controlled-Quadrangulation)
 <!-- ---------------------------------------------------------------------- -->
 <tr><td><img title="image" src=".pic/Robust-motorcycle-graph-construction-and-simplification-for-semi-structured-quad-mesh-generation.png" width="600"><td>
 
