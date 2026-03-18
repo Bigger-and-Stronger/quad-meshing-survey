@@ -2057,7 +2057,7 @@
     {
         "filename": "2018 - Robust metric aligned quad-dominant meshing using Lp centroidal Voronoi tessellation.md",
         "properties": {
-            "bibtex": "@inbook{Dirk,\r\nauthor = {Dirk Ekelschot and Marco Ceze and Anirban Garai and Scott M. Murman},\r\ntitle = {Robust metric aligned quad-dominant meshing using Lp centroidal Voronoi tessellation},\r\nbooktitle = {2018  AIAA Aerospace Sciences Meeting},\nyear = {2018}\r\nchapter = {},\r\npages = {},\r\ndoi = {10.2514/6.2018-1501},\r\nURL = {https://arc.aiaa.org/doi/abs/10.2514/6.2018-1501},\r\neprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2018-1501}\r\n}",
+            "bibtex": "@inbook{doi:10.2514/6.2018-1501,\r\nauthor = {Dirk Ekelschot and Marco Ceze and Anirban Garai and Scott M. Murman},\r\ntitle = {Robust metric aligned quad-dominant meshing using Lp centroidal Voronoi tessellation},\r\nbooktitle = {2018  AIAA Aerospace Sciences Meeting},\nyear = {2018},\r\nchapter = {},\r\npages = {},\r\ndoi = {10.2514/6.2018-1501},\r\nURL = {https://arc.aiaa.org/doi/abs/10.2514/6.2018-1501},\r\neprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2018-1501}\r\n}",
             "code": "",
             "data": "",
             "project": "",
@@ -2071,7 +2071,14 @@
             ],
             "teaser": "Pasted image 20260318221839.png"
         },
-        "bibtex_parsed": {},
+        "bibtex_parsed": {
+            "title": "Robust metric aligned quad-dominant meshing using Lp centroidal Voronoi tessellation",
+            "author": "Dirk Ekelschot and Marco Ceze and Anirban Garai and Scott M. Murman",
+            "venue": "2018  AIAA Aerospace Sciences Meeting",
+            "doi_url": "https://arc.aiaa.org/doi/abs/10.2514/6.2018-1501",
+            "year": "2018",
+            "month": ""
+        },
         "img_path": ".img/2018 - Robust metric aligned quad-dominant meshing using Lp centroidal Voronoi tessellation_Pasted image 20260318221839.png"
     },
     {
