@@ -1,0 +1,74 @@
+name: Sync Papers and Update Readme
+
+on:
+  workflow_dispatch: # 允许手动触发
+  schedule:
+     - cron: '0 0 * * *'
+
+permissions:
+  contents: write # 必须：允许Action修改并推送代码到当前仓库
+
+jobs:
+  sync-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Current Repo
+        uses: actions/checkout@v4
+
+      - name: Checkout Generate Repo
+        uses: actions/checkout@v4
+        with:
+          repository: Canjia-Huang/auto-survey-generation
+          path: auto-survey-generation
+
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ secrets.PRIVATE_REPO_NAME }}
+          token: ${{ secrets.PAT_TOKEN }}
+          path: database
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+#      - name: List Files
+#        run: |
+#          sudo apt install tree
+#          tree  # 递归列出所有文件
+
+      - name: Install dependencies
+        run: |
+          cd auto-survey-generation/python
+          pip install -r requirements.txt
+
+      - name: Run Extraction Script
+        run: |
+          cd auto-survey-generation/python
+          python parse_papers.py
+
+      # (可选) 将生成的 JSON 作为附件上传，方便单独下载
+      - name: Upload Extracted JSON
+        uses: actions/upload-artifact@v4
+        with:
+          name: extracted-papers-data
+          path: extracted_papers.json
+
+      # 提交变动（包括 .pic/ 和 README.md）到当前 GitHub 仓库
+      - name: Commit and Push changes
+        run: |          
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          git add README.md
+          git add extracted_papers.json
+          git add .img/
+          
+          # 获取当前时间（格式示例: 2023-10-27 10:00:00）
+          # 如果想指定时区，可以使用 TZ="Asia/Shanghai" date
+          CURRENT_TIME=$(TZ="Asia/Shanghai" date '+%Y-%m-%d %H:%M:%S')
+          
+          # 只有存在变动时才 Commit，避免 Action 报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update paper notes at $CURRENT_TIME" && git push)
