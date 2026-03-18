@@ -2,5 +2,5 @@
     "database_repo_papers_dir": "PaperNote/papers",
     "database_repo_img_dir": "PaperNote/_img",
     "filter_tag": "quadrangulate",
-    "readme_header": "# A Survey on Work Related to Quad Mesh\n\nThis repository contains a list of related work on **quad Mesh**. \n\nIt is currently a work in progress and is updated daily via **GitHub Actions**, which syncs with my personal database. And I will continue to maintain and expand this list regularly.\n\n:clap: If you have any suggestions or would like to contribute, please feel free to open an issue or contact me."
+    "readme_header": "# A Survey on Work Related to Quad Mesh\n\nThis repository contains a list of related work on **quad Mesh**. \n\nIt is currently a work in progress and is updated daily via **GitHub Actions**, which syncs with my personal database. And I will continue to maintain and expand this list regularly.\n\n:clap: If you have any suggestions or would like to contribute, or know of any missing literature or information in this survey, please feel free to open an issue or contact me."
 }
