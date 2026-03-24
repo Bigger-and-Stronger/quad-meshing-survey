@@ -2,7 +2,7 @@
 
 This repository contains a list of related work on **quad Mesh**. 
 
-It is currently a work in progress and is updated daily via **GitHub Actions**, which syncs with my personal database. And I will continue to maintain and expand this list regularly.
+It is currently a work in progress and is updated daily via **GitHub Actions** (see [auto-survey-generation](https://github.com/Canjia-Huang/auto-survey-generation) for more details), which syncs with my personal database. And I will continue to maintain and expand this list regularly.
 
 :clap: If you have any suggestions or would like to contribute, or know of any missing literature or information in this survey, please feel free to open an issue or contact me.
 
