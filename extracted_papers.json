@@ -473,7 +473,7 @@
             "bibtex": "@article{10.1145/3731216,\nauthor = {Capouellez, Ryan and Singh, Rodrigo and Heistermann, Martin and Bommes, David and Zorin, Denis},\ntitle = {Feature-Aligned Parametrization in Penner Coordinates},\nyear = {2025},\nissue_date = {August 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {44},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3731216},\ndoi = {10.1145/3731216},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {110},\nnumpages = {21},\nkeywords = {parameterization, feature alignment, seamless, newton's method, cone metric, intrinsic triangulation, penner coordinates, quadrangulation}\n}",
             "code": "",
             "data": "",
-            "project": "",
+            "project": "https://www.algohex.eu/publications/feature-aligned-parametrization-in-penner-coordinates/",
             "slide": "",
             "supplemental": "",
             "tags": [
@@ -492,6 +492,32 @@
             "month": "July"
         },
         "img_path": ".img/2025 TOG - Feature-Aligned Parametrization in Penner Coordinates_Pasted image 20260201213714.png"
+    },
+    {
+        "filename": "2026 arXiv - Curve resampling based high-quality high-order unstructured quadrilateral mesh generation.md",
+        "properties": {
+            "bibtex": "@misc{weng2026curveresamplingbasedhighquality,\r\n      title={Curve resampling based high-quality high-order unstructured quadrilateral mesh generation}, \r\n      author={Yongjia Weng and Lufeng Liu and Zhonggui Chen and Xuan Zhou and Juan Cao},\r\n      year={2026},\r\n      eprint={2603.22780},\r\n      archivePrefix={arXiv},\r\n      primaryClass={cs.GR},\r\n      url={https://arxiv.org/abs/2603.22780}, \r\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "high_order",
+                "combination"
+            ],
+            "teaser": "Pasted image 20260325222453.png"
+        },
+        "bibtex_parsed": {
+            "title": "Curve resampling based high-quality high-order unstructured quadrilateral mesh generation",
+            "author": "Yongjia Weng and Lufeng Liu and Zhonggui Chen and Xuan Zhou and Juan Cao",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2603.22780",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 arXiv - Curve resampling based high-quality high-order unstructured quadrilateral mesh generation_Pasted image 20260325222453.png"
     },
     {
         "filename": "2015 CG - Automatic domain partitioning for quadrilateral meshing with line constraints.md",
