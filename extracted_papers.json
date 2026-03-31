@@ -999,6 +999,32 @@
         "img_path": ".img/2024 CAD - Similarity-driven topology finding of surface patterns for structural design_Pasted image 20260318212126.png"
     },
     {
+        "filename": "2022 TOG - Which cross fields can be quadrangulated - global parameterization from prescribed holonomy signatures.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3528223.3530187,\nauthor = {Shen, Hanxiao and Zhu, Leyi and Capouellez, Ryan and Panozzo, Daniele and Campen, Marcel and Zorin, Denis},\ntitle = {Which cross fields can be quadrangulated? global parameterization from prescribed holonomy signatures},\nyear = {2022},\nissue_date = {July 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {41},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3528223.3530187},\ndoi = {10.1145/3528223.3530187},\nabstract = {We describe a method for the generation of seamless surface parametrizations with guaranteed local injectivity and full control over holonomy. Previous methods guarantee only one of the two. Local injectivity is required to enable these parametrizations' use in applications such as surface quadrangulation and spline construction. Holonomy control is crucial to enable guidance or prescription of the parametrization's isocurves based on directional information, in particular from cross-fields or feature curves, and more generally to constrain the parametrization topologically. To this end we investigate the relation between cross-field topology and seamless parametrization topology. Leveraging previous results on locally injective parametrization and combining them with insights on this relation in terms of holonomy, we propose an algorithm that meets these requirements. A key component relies on the insight that arbitrary surface cut graphs, as required for global parametrization, can be homeomorphically modified to assume almost any set of turning numbers with respect to a given target cross-field.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {59},\nnumpages = {12},\nkeywords = {conformal map, cross field, holonomy, quad mesh, seamless parametrization, turning number}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "parameterization",
+                "directional",
+                "quadrangulate"
+            ],
+            "teaser": "Pasted image 20260329125159.png"
+        },
+        "bibtex_parsed": {
+            "title": "Which cross fields can be quadrangulated? global parameterization from prescribed holonomy signatures",
+            "author": "Shen, Hanxiao and Zhu, Leyi and Capouellez, Ryan and Panozzo, Daniele and Campen, Marcel and Zorin, Denis",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3528223.3530187",
+            "year": "2022",
+            "month": "July"
+        },
+        "img_path": ".img/2022 TOG - Which cross fields can be quadrangulated - global parameterization from prescribed holonomy signatures_Pasted image 20260329125159.png"
+    },
+    {
         "filename": "2012 IJNME - Blossom-Quad - A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm.md",
         "properties": {
             "bibtex": "@article{https://doi.org/10.1002/nme.3279,\nauthor = {Remacle, J.-F. and Lambrechts, J. and Seny, B. and Marchandise, E. and Johnen, A. and  Geuzainet, C.},\ntitle = {Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm},\njournal = {International Journal for Numerical Methods in Engineering},\nvolume = {89},\nnumber = {9},\npages = {1102-1119},\nkeywords = {quadrilateral meshing, surface remeshing, graph theory, optimization, perfect matching},\ndoi = {https://doi.org/10.1002/nme.3279},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.3279},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.3279},\nabstract = {SUMMARY A new indirect way of producing all-quad meshes is presented. The method takes advantage of a well-known algorithm of the graph theory, namely the Blossom algorithm, that computes the minimum-cost perfect matching in a graph in polynomial time. The new Blossom-Quad algorithm is compared with standard indirect procedures. Meshes produced by the new approach are better both in terms of element shape and in terms of size field efficiency. Copyright © 2012 John Wiley \\& Sons, Ltd.},\nyear = {2012}\n}",
