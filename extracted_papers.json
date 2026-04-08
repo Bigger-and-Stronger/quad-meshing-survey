@@ -1274,6 +1274,33 @@
         "img_path": ".img/2013 - A PDE Based Approach to Multidomain Partitioning and Quadrilateral Meshing_Pasted image 20260318215103.png"
     },
     {
+        "filename": "2026 - Surface Quadrilateral Meshing from Integrable Odeco Fields.md",
+        "properties": {
+            "bibtex": "@misc{couplet2026surfacequadrilateralmeshingintegrable,\n      title={Surface Quadrilateral Meshing from Integrable Odeco Fields}, \n      author={Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien},\n      year={2026},\n      eprint={2604.03889},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2604.03889}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "directional",
+                "integrable",
+                "odeco_tensors"
+            ],
+            "teaser": "Pasted image 20260407123201.png"
+        },
+        "bibtex_parsed": {
+            "title": "Surface Quadrilateral Meshing from Integrable Odeco Fields",
+            "author": "Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2604.03889",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 - Surface Quadrilateral Meshing from Integrable Odeco Fields_Pasted image 20260407123201.png"
+    },
+    {
         "filename": "2010 CGF - Practical quad mesh simplification.md",
         "properties": {
             "bibtex": "@article{https://doi.org/10.1111/j.1467-8659.2009.01610.x,\r\nauthor = {Tarini, Marco and Pietroni, Nico and Cignoni, Paolo and Panozzo, Daniele and Puppo, Enrico},\r\ntitle = {Practical quad mesh simplification},\r\njournal = {Computer Graphics Forum},\r\nvolume = {29},\r\nnumber = {2},\r\npages = {407-418},\r\nkeywords = {I.3.5 Computer Graphics: Computational Geometry and Object Modeling—Surface representations.s, Quad-meshes, Mesh-simplification},\r\ndoi = {https://doi.org/10.1111/j.1467-8659.2009.01610.x},\r\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2009.01610.x},\r\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8659.2009.01610.x},\r\nabstract = {Abstract In this paper we present an innovative approach to incremental quad mesh simplification, i.e. the task of producing a low complexity quad mesh starting from a high complexity one. The process is based on a novel set of strictly local operations which preserve quad structure. We show how good tessellation quality (e.g. in terms of vertex valencies) can be achieved by pursuing uniform length and canonical proportions of edges and diagonals. The decimation process is interleaved with smoothing in tangent space. The latter strongly contributes to identify a suitable sequence of local modification operations. The method is naturally extended to manage preservation of feature lines (e.g. creases) and varying (e.g. adaptive) tessellation densities. We also present an original Triangle-to-Quad conversion algorithm that behaves well in terms of geometrical complexity and tessellation quality, which we use to obtain the initial quad mesh from a given triangle mesh.},\r\nyear = {2010}\r\n}",
