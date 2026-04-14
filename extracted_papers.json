@@ -1,5 +1,30 @@
 [
     {
+        "filename": "2026 - MSQ-meshing - a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces.md",
+        "properties": {
+            "bibtex": "@article{qiu6159589msq,\r\n  title={MSQ-meshing: a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces},\r\n  author={Qiu, JingYing and Qi, Long and Zhu, XinHai and Tang, Ming and Liu, Yang and Xu, Gang},\r\n  journal={Available at SSRN 6159589}\r\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "quad-dominant"
+            ],
+            "teaser": "Pasted image 20260413232151.png"
+        },
+        "bibtex_parsed": {
+            "title": "MSQ-meshing: a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces",
+            "author": "Qiu, JingYing and Qi, Long and Zhu, XinHai and Tang, Ming and Liu, Yang and Xu, Gang",
+            "venue": "Available at SSRN 6159589",
+            "doi_url": "",
+            "year": "-",
+            "month": ""
+        },
+        "img_path": ".img/2026 - MSQ-meshing - a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces_Pasted image 20260413232151.png"
+    },
+    {
         "filename": "2026 arXiv - NeurFrame - Learning Continuous Frame Fields for Structured Mesh Generation.md",
         "properties": {
             "bibtex": "@misc{yu2026neurframelearningcontinuousframe,\n      title={NeurFrame: Learning Continuous Frame Fields for Structured Mesh Generation}, \n      author={Xiaoyang Yu and Canjia Huang and Zhonggui Chen and Juan Cao},\n      year={2026},\n      month=mar,\n      eprint={2603.12820},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2603.12820}, \n}",
@@ -471,6 +496,31 @@
             "month": "July"
         },
         "img_path": ".img/2010 TOG - Feature-aligned T-meshes_Pasted image 20260318220124.png"
+    },
+    {
+        "filename": "2025 - Optimization of Medial Axis-based Quadrilateral Mesh Generation.md",
+        "properties": {
+            "bibtex": "@Article{2025-00374,\r\ntitle = {Optimization of Medial Axis-based Quadrilateral Mesh Generation},\r\njournal = {Journal of Computer-Aided Design & Computer Graphics},\r\nvolume = {},\r\nnumber = {},\r\npages = {},\r\nyear = {2025},\r\nissn = {1003-9775},\r\ndoi = {10.3724/SP.J.1089.2025-00374},\t\r\nurl = {https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2025-00374},\r\nauthor = {Wang Hao and Zheng Xiaopeng and Qi Zhihui and Lei Na and Luo Zhongxuan}\r\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "medial_axis",
+                "quadrangulate"
+            ],
+            "teaser": "Pasted image 20260413231715.png"
+        },
+        "bibtex_parsed": {
+            "title": "Optimization of Medial Axis-based Quadrilateral Mesh Generation",
+            "author": "Wang Hao and Zheng Xiaopeng and Qi Zhihui and Lei Na and Luo Zhongxuan",
+            "venue": "Journal of Computer-Aided Design & Computer Graphics",
+            "doi_url": "https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2025-00374",
+            "year": "2025",
+            "month": ""
+        },
+        "img_path": ".img/2025 - Optimization of Medial Axis-based Quadrilateral Mesh Generation_Pasted image 20260413231715.png"
     },
     {
         "filename": "2008 SPM - An incremental approach to feature aligned quad dominant remeshing.md",
@@ -1342,6 +1392,31 @@
         "img_path": ".img/2024 - High-quality quad-mesh generation for self-intersecting parametric surfaces_Pasted image 20260318212415.png"
     },
     {
+        "filename": "2026 - Learning Conjugate Direction Fields for Planar Quadrilateral Mesh Generation.md",
+        "properties": {
+            "bibtex": "@article{Tao_Yang_Deng_2026, title={Learning Conjugate Direction Fields for Planar Quadrilateral Mesh Generation}, volume={40}, url={https://ojs.aaai.org/index.php/AAAI/article/view/39786}, DOI={10.1609/aaai.v40i30.39786}, abstractNote={Planar quadrilateral (PQ) mesh generation is a key process in computer-aided design, particularly for architectural applications where the goal is to discretize a freeform surface using planar quad faces. The conjugate direction field (CDF) defined on the freeform surface plays a significant role in generating a PQ mesh, as it largely determines the PQ mesh layout. Conventionally, a CDF is obtained by solving a complex non-linear optimization problem that incorporates user preferences, i.e., aligning the CDF with user-specified strokes on the surface. This often requires a large number of iterations that are computationally expensive, preventing the interactive CDF design process for a desirable PQ mesh. To address this challenge, we propose a data-driven approach based on neural networks for controlled CDF generation. Our approach can effectively learn and fuse features from the freeform surface and the user strokes, and efficiently generate quality CDF respecting user guidance. To enable training and testing, we also present a dataset composed of 50000+ freeform surfaces with ground-truth CDFs, as well as a set of metrics for quantitative evaluation. The effectiveness and efficiency of our work are demonstrated by extensive experiments using testing data, architectural surfaces, and general 3D shapes.}, number={30}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Tao, Jiong and Yang, Yong-Liang and Deng, Bailin}, year={2026}, month={Mar.}, pages={25867-25876} }",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "directional"
+            ],
+            "teaser": "Pasted image 20260413231002.png"
+        },
+        "bibtex_parsed": {
+            "title": "Learning Conjugate Direction Fields for Planar Quadrilateral Mesh Generation",
+            "author": "Tao, Jiong and Yang, Yong-Liang and Deng, Bailin",
+            "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+            "doi_url": "https://ojs.aaai.org/index.php/AAAI/article/view/39786",
+            "year": "2026",
+            "month": "Mar."
+        },
+        "img_path": ".img/2026 - Learning Conjugate Direction Fields for Planar Quadrilateral Mesh Generation_Pasted image 20260413231002.png"
+    },
+    {
         "filename": "2022 TOG - Which cross fields can be quadrangulated - global parameterization from prescribed holonomy signatures.md",
         "properties": {
             "bibtex": "@article{10.1145/3528223.3530187,\nauthor = {Shen, Hanxiao and Zhu, Leyi and Capouellez, Ryan and Panozzo, Daniele and Campen, Marcel and Zorin, Denis},\ntitle = {Which cross fields can be quadrangulated? global parameterization from prescribed holonomy signatures},\nyear = {2022},\nissue_date = {July 2022},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {41},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3528223.3530187},\ndoi = {10.1145/3528223.3530187},\nabstract = {We describe a method for the generation of seamless surface parametrizations with guaranteed local injectivity and full control over holonomy. Previous methods guarantee only one of the two. Local injectivity is required to enable these parametrizations' use in applications such as surface quadrangulation and spline construction. Holonomy control is crucial to enable guidance or prescription of the parametrization's isocurves based on directional information, in particular from cross-fields or feature curves, and more generally to constrain the parametrization topologically. To this end we investigate the relation between cross-field topology and seamless parametrization topology. Leveraging previous results on locally injective parametrization and combining them with insights on this relation in terms of holonomy, we propose an algorithm that meets these requirements. A key component relies on the insight that arbitrary surface cut graphs, as required for global parametrization, can be homeomorphically modified to assume almost any set of turning numbers with respect to a given target cross-field.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {59},\nnumpages = {12},\nkeywords = {conformal map, cross field, holonomy, quad mesh, seamless parametrization, turning number}\n}",
@@ -1441,6 +1516,31 @@
             "month": ""
         },
         "img_path": ".img/2014 CGF - Pattern-Based Quadrangulation for N-Sided Patches_Pasted image 20250314173110.png"
+    },
+    {
+        "filename": "2026 - Pattern embedding driven lightweight quadrilateral mesh generation for engineering applications.md",
+        "properties": {
+            "bibtex": "@article{LIU2026102790,\ntitle = {Pattern embedding driven lightweight quadrilateral mesh generation for engineering applications},\njournal = {Journal of Computational Science},\nvolume = {95},\npages = {102790},\nyear = {2026},\nissn = {1877-7503},\ndoi = {https://doi.org/10.1016/j.jocs.2026.102790},\nurl = {https://www.sciencedirect.com/science/article/pii/S1877750326000086},\nauthor = {Junxian Liu and Minglin Li and Wei Ye and Jinxu Liu and Lianfeng Lai},\nkeywords = {Quadrilateral Mesh, Solver-free, Greedy Propagation, Pattern Embedding, Engineering Simulation},\nabstract = {Current mainstream engineering simulation software struggles to generate high-quality quadrilateral meshes during the preprocessing stage, and achieving such meshes typically relies on numerical solvers. To enable efficient and high-quality quadrilateral mesh generation for complex geometries in open-source environments, this paper proposes a lightweight quadrilateral mesh reconstruction method. The method first takes a triangular mesh model as input and parameterizes it onto a 2D plane and performs polygonal layout decomposition using directional constraints. A greedy propagation strategy is then employed to assign uniform subdivision parameters to layout boundaries, replacing global integer programming. Finally, quadrilateral mesh templates are embedded to complete the mesh generation. The entire process avoids reliance on numerical solvers. Experiments on publicly available benchmark models demonstrate that, even without using solvers, the generated meshes achieve quality comparable to or better than mainstream approaches, providing a low-cost, high-accuracy preprocessing solution for engineering simulations.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260413231901.png"
+        },
+        "bibtex_parsed": {
+            "title": "Pattern embedding driven lightweight quadrilateral mesh generation for engineering applications",
+            "author": "Junxian Liu and Minglin Li and Wei Ye and Jinxu Liu and Lianfeng Lai",
+            "venue": "Journal of Computational Science",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S1877750326000086",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 - Pattern embedding driven lightweight quadrilateral mesh generation for engineering applications_Pasted image 20260413231901.png"
     },
     {
         "filename": "2024 TVCG - Adaptive Spline Surface Fitting With Arbitrary Topological Control Mesh.md",
