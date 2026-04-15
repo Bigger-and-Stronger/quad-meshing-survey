@@ -820,6 +820,32 @@
         "img_path": ".img/2006 CGF - A Robust Two-Step Procedure for Quad-Dominant Remeshing_Pasted image 20260318220317.png"
     },
     {
+        "filename": "2026 TOG - Strips as Tokens - Artist Mesh Generation with Native UV Segmentation.md",
+        "properties": {
+            "bibtex": "@misc{xu2026stripstokensartistmesh,\n      title={Strips as Tokens: Artist Mesh Generation with Native UV Segmentation}, \n      author={Rui Xu and Dafei Qin and Kaichun Qiao and Qiujie Dong and Huaijin Pi and Qixuan Zhang and Longwen Zhang and Lan Xu and Jingyi Yu and Wenping Wang and Taku Komura},\n      year={2026},\n      eprint={2604.09132},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2604.09132}, \n}",
+            "code": "https://github.com/Xrvitd/SATO",
+            "data": "",
+            "project": "https://ruixu.me/html/SATO/index.html",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "triangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260414120907.png"
+        },
+        "bibtex_parsed": {
+            "title": "Strips as Tokens: Artist Mesh Generation with Native UV Segmentation",
+            "author": "Rui Xu and Dafei Qin and Kaichun Qiao and Qiujie Dong and Huaijin Pi and Qixuan Zhang and Longwen Zhang and Lan Xu and Jingyi Yu and Wenping Wang and Taku Komura",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2604.09132",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 TOG - Strips as Tokens - Artist Mesh Generation with Native UV Segmentation_Pasted image 20260414120907.png"
+    },
+    {
         "filename": "2026 - Surface Quadrilateral Meshing from Integrable Odeco Fields.md",
         "properties": {
             "bibtex": "@misc{couplet2026surfacequadrilateralmeshingintegrable,\n      title={Surface Quadrilateral Meshing from Integrable Odeco Fields}, \n      author={Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien},\n      year={2026},\n      month=apr,\n      eprint={2604.03889},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2604.03889}, \n}",
