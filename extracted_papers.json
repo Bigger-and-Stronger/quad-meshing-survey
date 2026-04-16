@@ -822,7 +822,7 @@
     {
         "filename": "2026 TOG - Strips as Tokens - Artist Mesh Generation with Native UV Segmentation.md",
         "properties": {
-            "bibtex": "@misc{xu2026stripstokensartistmesh,\n      title={Strips as Tokens: Artist Mesh Generation with Native UV Segmentation}, \n      author={Rui Xu and Dafei Qin and Kaichun Qiao and Qiujie Dong and Huaijin Pi and Qixuan Zhang and Longwen Zhang and Lan Xu and Jingyi Yu and Wenping Wang and Taku Komura},\n      year={2026},\n      eprint={2604.09132},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2604.09132}, \n}",
+            "bibtex": "@misc{xu2026stripstokensartistmesh,\n      title={Strips as Tokens: Artist Mesh Generation with Native UV Segmentation}, \n      author={Rui Xu and Dafei Qin and Kaichun Qiao and Qiujie Dong and Huaijin Pi and Qixuan Zhang and Longwen Zhang and Lan Xu and Jingyi Yu and Wenping Wang and Taku Komura},\n      year={2026},\n      month=apr,\n      eprint={2604.09132},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2604.09132}, \n}",
             "code": "https://github.com/Xrvitd/SATO",
             "data": "",
             "project": "https://ruixu.me/html/SATO/index.html",
@@ -841,7 +841,7 @@
             "venue": "",
             "doi_url": "https://arxiv.org/abs/2604.09132",
             "year": "2026",
-            "month": ""
+            "month": "April"
         },
         "img_path": ".img/2026 TOG - Strips as Tokens - Artist Mesh Generation with Native UV Segmentation_Pasted image 20260414120907.png"
     },
