@@ -2,7 +2,7 @@
     {
         "filename": "2026 - MSQ-meshing - a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces.md",
         "properties": {
-            "bibtex": "@article{qiu6159589msq,\r\n  title={MSQ-meshing: a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces},\r\n  author={Qiu, JingYing and Qi, Long and Zhu, XinHai and Tang, Ming and Liu, Yang and Xu, Gang},\r\n  journal={Available at SSRN 6159589}\r\n}",
+            "bibtex": "@article{qiu6159589msq,\r\n  title={MSQ-meshing: a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces},\r\n  author={Qiu, JingYing and Qi, Long and Zhu, XinHai and Tang, Ming and Liu, Yang and Xu, Gang},\r\n  journal={Available at SSRN 6159589}\n  year=2026\n\r\n}",
             "code": "",
             "data": "",
             "project": "",
@@ -14,14 +14,7 @@
             ],
             "teaser": "Pasted image 20260413232151.png"
         },
-        "bibtex_parsed": {
-            "title": "MSQ-meshing: a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces",
-            "author": "Qiu, JingYing and Qi, Long and Zhu, XinHai and Tang, Ming and Liu, Yang and Xu, Gang",
-            "venue": "Available at SSRN 6159589",
-            "doi_url": "",
-            "year": "-",
-            "month": ""
-        },
+        "bibtex_parsed": {},
         "img_path": ".img/2026 - MSQ-meshing - a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces_Pasted image 20260413232151.png"
     },
     {
