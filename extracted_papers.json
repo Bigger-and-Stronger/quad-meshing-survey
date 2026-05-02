@@ -2057,6 +2057,32 @@
         "img_path": ".img/2021 TOG - Q-zip - singularity editing primitive for quad meshes_Pasted image 20260318223444.png"
     },
     {
+        "filename": "2026 TOG - SQuadGen - Generating Simple Quad Layouts via Chart Distance Fields.md",
+        "properties": {
+            "bibtex": "@article{kong2026squadgen,\n  title     = {SQuadGen: Generating Simple Quad Layouts via Chart Distance Fields},\n  author    = {Kong, Youkang and Liu, Yang and Dong, Yue and Tong, Xin and Shum, Heung-Yeung},\n  journal   = {ACM Trans. Graph. (SIGGRAPH)},\n  volume    = {45},\n  number    = {4},\n  year      = {2026},\n}",
+            "code": "",
+            "data": "",
+            "project": "https://youkang-kong.github.io/squadgen/",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "layouts",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260501143012.png"
+        },
+        "bibtex_parsed": {
+            "title": "SQuadGen: Generating Simple Quad Layouts via Chart Distance Fields",
+            "author": "Kong, Youkang and Liu, Yang and Dong, Yue and Tong, Xin and Shum, Heung-Yeung",
+            "venue": "ACM Trans. Graph. (SIGGRAPH)",
+            "doi_url": "",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 TOG - SQuadGen - Generating Simple Quad Layouts via Chart Distance Fields_Pasted image 20260501143012.png"
+    },
+    {
         "filename": "1998 - Quadrilateral Meshing with Directionality Control through the Packing of Square Cells.md",
         "properties": {
             "bibtex": "@inproceedings{shimada1998quadrilateral,\r\n  title={Quadrilateral Meshing with Directionality Control through the Packing of Square Cells.},\r\n  author={Shimada, Kenji and Liao, Jia-Huei and Itoh, Takayuki and others},\r\n  booktitle={IMR},\r\n  pages={61--75},\r\n  year={1998}\r\n}",
