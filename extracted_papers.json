@@ -2505,6 +2505,32 @@
         "img_path": ".img/2022 CG - Closed-form quadrangulation of n-sided patches_Pasted image 20250323141054.png"
     },
     {
+        "filename": "2026 - QuadLink - Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning.md",
+        "properties": {
+            "bibtex": "@misc{zhang2026quadlinkautoregressivequaddominantmesh,\n      title={QuadLink: Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning}, \n      author={Yiheng Zhang and Zhe Zhu and Tingrui Shen and Zhuojiang Cai and Tianxiao Li and Zixing Zhao and Qiujie Dong and Zhiyang Dou and Jiepeng Wang and Le Wan and Yuwang Wang and Wenping Wang and Yuan Liu and Cheng Lin},\n      year={2026},\n      eprint={2605.16813},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2605.16813}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quad-dominant",
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260519124511.png"
+        },
+        "bibtex_parsed": {
+            "title": "QuadLink: Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning",
+            "author": "Yiheng Zhang and Zhe Zhu and Tingrui Shen and Zhuojiang Cai and Tianxiao Li and Zixing Zhao and Qiujie Dong and Zhiyang Dou and Jiepeng Wang and Le Wan and Yuwang Wang and Wenping Wang and Yuan Liu and Cheng Lin",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2605.16813",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 - QuadLink - Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning_Pasted image 20260519124511.png"
+    },
+    {
         "filename": "2012 - Blossom-Quad - A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm.md",
         "properties": {
             "bibtex": "@article{https://doi.org/10.1002/nme.3279,\r\nauthor = {Remacle, J.-F. and Lambrechts, J. and Seny, B. and Marchandise, E. and Johnen, A. and  Geuzainet, C.},\r\ntitle = {Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm},\r\njournal = {International Journal for Numerical Methods in Engineering},\r\nvolume = {89},\r\nnumber = {9},\r\npages = {1102-1119},\r\nkeywords = {quadrilateral meshing, surface remeshing, graph theory, optimization, perfect matching},\r\ndoi = {https://doi.org/10.1002/nme.3279},\r\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.3279},\r\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.3279},\r\nabstract = {SUMMARY A new indirect way of producing all-quad meshes is presented. The method takes advantage of a well-known algorithm of the graph theory, namely the Blossom algorithm, that computes the minimum-cost perfect matching in a graph in polynomial time. The new Blossom-Quad algorithm is compared with standard indirect procedures. Meshes produced by the new approach are better both in terms of element shape and in terms of size field efficiency. Copyright © 2012 John Wiley \\& Sons, Ltd.},\r\nyear = {2012}\r\n}",
