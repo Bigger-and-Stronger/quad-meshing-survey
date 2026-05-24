@@ -1027,6 +1027,32 @@
         "img_path": ".img/2021 CGF - Quad Layouts via Constrained T-Mesh Quantization_Pasted image 20250324105720.png"
     },
     {
+        "filename": "2016 CGF - Tracing Field-Coherent Quad Layouts.md",
+        "properties": {
+            "bibtex": "@article{https://doi.org/10.1111/cgf.13045,\nauthor = {Pietroni, Nico and Puppo, Enrico and Marcias, Giorgio and Scopigno, Roberto and Cignoni, Paolo},\ntitle = {Tracing Field-Coherent Quad Layouts},\njournal = {Computer Graphics Forum},\nvolume = {35},\nnumber = {7},\npages = {485-496},\nkeywords = {Categories and Subject Descriptors (according to ACM CCS), I.3.3 Computer Graphics: Picture/Image Generation—Line and curve generation},\ndoi = {https://doi.org/10.1111/cgf.13045},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13045},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.13045},\nabstract = {Abstract Given a cross field over a triangulated surface we present a practical and robust method to compute a field aligned coarse quad layout over the surface. The method works directly on a triangle mesh without requiring any parametrization and it is based on a new technique for tracing field-coherent geodesic paths directly on a triangle mesh, and on a new relaxed formulation of a binary LP problem, which allows us to extract both conforming quad layouts and coarser layouts containing t-junctions. Our method is easy to implement, very robust, and, being directly based on the input cross field, it is able to generate better aligned layouts, even with complicated fields containing many singularities. We show results on a number of datasets and comparisons with state-of-the-art methods.},\nyear = {2016}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "layouts",
+                "directional"
+            ],
+            "teaser": "Pasted image 20260523152439.png"
+        },
+        "bibtex_parsed": {
+            "title": "Tracing Field-Coherent Quad Layouts",
+            "author": "Pietroni, Nico and Puppo, Enrico and Marcias, Giorgio and Scopigno, Roberto and Cignoni, Paolo",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13045",
+            "year": "2016",
+            "month": ""
+        },
+        "img_path": ".img/2016 CGF - Tracing Field-Coherent Quad Layouts_Pasted image 20260523152439.png"
+    },
+    {
         "filename": "2010 TOG - Feature-aligned T-meshes.md",
         "properties": {
             "bibtex": "@article{10.1145/1778765.1778854,\r\nauthor = {Myles, Ashish and Pietroni, Nico and Kovacs, Denis and Zorin, Denis},\r\ntitle = {Feature-aligned T-meshes},\r\nyear = {2010},\r\nissue_date = {July 2010},\r\npublisher = {Association for Computing Machinery},\r\naddress = {New York, NY, USA},\r\nvolume = {29},\r\nnumber = {4},\r\nissn = {0730-0301},\r\nurl = {https://doi.org/10.1145/1778765.1778854},\r\ndoi = {10.1145/1778765.1778854},\r\nabstract = {High-order and regularly sampled surface representations are more efficient and compact than general meshes and considerably simplify many geometric modeling and processing algorithms. A number of recent algorithms for conversion of arbitrary meshes to regularly sampled form (typically quadrangulation) aim to align the resulting mesh with feature lines of the geometry. While resulting in a substantial improvement in mesh quality, feature alignment makes it difficult to obtain coarse regular patch partitions of the mesh.In this paper, we propose an approach to constructing patch layouts consisting of small numbers of quadrilateral patches while maintaining good feature alignment. To achieve this, we use quadrilateral T-meshes, for which the intersection of two faces may not be the whole edge or vertex, but a part of an edge. T-meshes offer more flexibility for reduction of the number of patches and vertices in a base domain while maintaining alignment with geometric features. At the same time, T-meshes retain many desirable features of quadrangulations, allowing construction of high-order representations, easy packing of regularly sampled geometric data into textures, as well as supporting different types of discretizations for physical simulation.},\r\njournal = {ACM Trans. Graph.},\r\nmonth = jul,\r\narticleno = {117},\r\nnumpages = {11},\r\nkeywords = {T-splines, parametrization, patch layout, quadrangulation}\r\n}",
