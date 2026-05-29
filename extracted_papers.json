@@ -2364,6 +2364,31 @@
         "img_path": ".img/2015 - A Robust Combinatorial Approach to Reduce Singularities in Quadrilateral Meshes_Pasted image 20260318223554.png"
     },
     {
+        "filename": "2014 CGF - Quad Layout Embedding via Aligned Parameterization.md",
+        "properties": {
+            "bibtex": "@article{https://doi.org/10.1111/cgf.12401,\nauthor = {Campen, M. and Kobbelt, L.},\ntitle = {Quad Layout Embedding via Aligned Parameterization},\njournal = {Computer Graphics Forum},\nvolume = {33},\nnumber = {8},\npages = {69-81},\nkeywords = {Surface Parameterization, Mesh Generation, Geometric Modeling, I.3.5 Computer Graphics: Computational Geometry and Object Modeling},\ndoi = {https://doi.org/10.1111/cgf.12401},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12401},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12401},\nabstract = {Abstract Quad layouting, i.e. the partitioning of a surface into a coarse network of quadrilateral patches, is a fundamental step in application scenarios ranging from animation and simulation to reverse engineering and meshing. This process involves determining the layout's combinatorial structure as well as its geometric embedding in the surface. We present a novel quad layout algorithm that focuses on the embedding optimization, thereby complementing recent methods focusing on the structure optimization aspect. It takes as input a description of the target layout structure and computes a complete embedding in form of a parameterization globally optimized for isometry and, in particular, principal direction alignment. Besides being suited for fully automatic workflows, our method can also incorporate user constraints and support the tedious but common procedure of manual layouting.},\nyear = {2014}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "layouts"
+            ],
+            "teaser": ""
+        },
+        "bibtex_parsed": {
+            "title": "Quad Layout Embedding via Aligned Parameterization",
+            "author": "Campen, M. and Kobbelt, L.",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12401",
+            "year": "2014",
+            "month": ""
+        },
+        "img_path": ""
+    },
+    {
         "filename": "2022 CG - Closed-form quadrangulation of n-sided patches.md",
         "properties": {
             "bibtex": "@article{TARINI202260,\ntitle = {Closed-form quadrangulation of n-sided patches},\njournal = {Computers & Graphics},\nvolume = {107},\npages = {60-65},\nyear = {2022},\nissn = {0097-8493},\ndoi = {https://doi.org/10.1016/j.cag.2022.06.015},\nurl = {https://www.sciencedirect.com/science/article/pii/S0097849322001170},\nauthor = {Marco Tarini},\nkeywords = {Quad-meshing, Coarse layout decomposition, Regular remeshing},\nabstract = {We analyze the problem of tessellating an n-sided patch with an ideal, maximally-regular internal quadrangulation, featuring a single irregular vertex (or none, for n=4). We derive, in closed-form, the necessary and sufficient conditions that the boundary of the patch must meet for it to admit an internal quadrangulation of this kind, and, if so, provide a full description of the resulting tessellation(s), as functions of the number of edges subdividing the sides of the patch. The problem has been addressed in previous literature and from multiple angles: our new derivation, which is self-contained and more succinct, is also more complete. In particular, we show that multiple such tessellations can exist, for n=8 (and larger multiples of 4), and enumerate them. This contradicts the commonly held notion that irregular vertices can never be moved in isolation, in a quadrangulated mesh.}\n}",
