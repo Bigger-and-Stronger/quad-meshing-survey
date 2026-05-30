@@ -1258,6 +1258,32 @@
         "img_path": ".img/2022 - A parallel dual marching cubes approach to quad only surface reconstruction_Pasted image 20260318213950.png"
     },
     {
+        "filename": "2025 - A neural poly-vector based non-orthogonal frame field generation method for quad meshing.md",
+        "properties": {
+            "bibtex": "@article{yu2025neural,\n  title={A neural poly-vector based non-orthogonal frame field generation method for quad meshing},\n  author={Yu, Yanchao and Li, Ni and Gong, Guanghong and Lin, Xin},\n  journal={Scientific Reports},\n  volume={15},\n  number={1},\n  pages={33595},\n  year={2025},\n  publisher={Nature Publishing Group UK London}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "directional",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260530093227.png"
+        },
+        "bibtex_parsed": {
+            "title": "A neural poly-vector based non-orthogonal frame field generation method for quad meshing",
+            "author": "Yu, Yanchao and Li, Ni and Gong, Guanghong and Lin, Xin",
+            "venue": "Scientific Reports",
+            "doi_url": "",
+            "year": "2025",
+            "month": ""
+        },
+        "img_path": ".img/2025 - A neural poly-vector based non-orthogonal frame field generation method for quad meshing_Pasted image 20260530093227.png"
+    },
+    {
         "filename": "2024 arXiv - An Intrinsic Vector Heat Network.md",
         "properties": {
             "bibtex": "@misc{gao2024intrinsicvectorheatnetwork,\n      title={An Intrinsic Vector Heat Network}, \n      author={Alexander Gao and Maurice Chu and Mubbasir Kapadia and Ming C. Lin and Hsueh-Ti Derek Liu},\n      year={2024},\n      eprint={2406.09648},\n      archivePrefix={arXiv},\n      primaryClass={cs.LG},\n      url={https://arxiv.org/abs/2406.09648}, \n}",
@@ -1635,6 +1661,31 @@
             "month": "December"
         },
         "img_path": ".img/2024 - Champs de repères 2,5D pour la génération de maillages hexaédriques_Pasted image 20260318212936.png"
+    },
+    {
+        "filename": "2026 CVPR - Mesh-Pro - Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation.md",
+        "properties": {
+            "bibtex": "@misc{zhou2026meshproasynchronousadvantageguidedranking,\n      title={Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation}, \n      author={Zhen Zhou and Jian Liu and Biwen Lei and Jing Xu and Haohan Weng and Yiling Zhu and Zhuo Chen and Junfeng Fan and Yunkai Ma and Dazhao Du and Song Guo and Fengshui Jing and Chunchao Guo},\n      year={2026},\n      eprint={2603.00526},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2603.00526}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260530093114.png"
+        },
+        "bibtex_parsed": {
+            "title": "Mesh-Pro: Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation",
+            "author": "Zhen Zhou and Jian Liu and Biwen Lei and Jing Xu and Haohan Weng and Yiling Zhu and Zhuo Chen and Junfeng Fan and Yunkai Ma and Dazhao Du and Song Guo and Fengshui Jing and Chunchao Guo",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2603.00526",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 CVPR - Mesh-Pro - Asynchronous Advantage-guided Ranking Preference Optimization for Artist-style Quadrilateral Mesh Generation_Pasted image 20260530093114.png"
     },
     {
         "filename": "2026 CAD - Size-controlled quadrilateral meshing using integrable odeco fields.md",
@@ -2186,6 +2237,31 @@
         "img_path": ".img/2006 CGF - A Robust Two-Step Procedure for Quad-Dominant Remeshing_Pasted image 20260318220317.png"
     },
     {
+        "filename": "2025 - DRL-MeshGen - automated block-structured mesh generation framework via deep reinforcement learning and optimal conformal mapping.md",
+        "properties": {
+            "bibtex": "@article{qi2025drl,\n  title={DRL-MeshGen: automated block-structured mesh generation framework via deep reinforcement learning and optimal conformal mapping},\n  author={Qi, Long and Wu, Qiang and Xu, Gang and Mu, Rushuang and Liu, Yang and Qiu, Jingying and Xu, Jiamin and Gu, Renshu and Pang, Yufei},\n  journal={Engineering with Computers},\n  volume={41},\n  number={6},\n  pages={4293--4315},\n  year={2025},\n  publisher={Springer}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260530093532.png"
+        },
+        "bibtex_parsed": {
+            "title": "DRL-MeshGen: automated block-structured mesh generation framework via deep reinforcement learning and optimal conformal mapping",
+            "author": "Qi, Long and Wu, Qiang and Xu, Gang and Mu, Rushuang and Liu, Yang and Qiu, Jingying and Xu, Jiamin and Gu, Renshu and Pang, Yufei",
+            "venue": "Engineering with Computers",
+            "doi_url": "",
+            "year": "2025",
+            "month": ""
+        },
+        "img_path": ".img/2025 - DRL-MeshGen - automated block-structured mesh generation framework via deep reinforcement learning and optimal conformal mapping_Pasted image 20260530093532.png"
+    },
+    {
         "filename": "2012 - Blossom-Quad - A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm.md",
         "properties": {
             "bibtex": "@article{https://doi.org/10.1002/nme.3279,\r\nauthor = {Remacle, J.-F. and Lambrechts, J. and Seny, B. and Marchandise, E. and Johnen, A. and  Geuzainet, C.},\r\ntitle = {Blossom-Quad: A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm},\r\njournal = {International Journal for Numerical Methods in Engineering},\r\nvolume = {89},\r\nnumber = {9},\r\npages = {1102-1119},\r\nkeywords = {quadrilateral meshing, surface remeshing, graph theory, optimization, perfect matching},\r\ndoi = {https://doi.org/10.1002/nme.3279},\r\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.3279},\r\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.3279},\r\nabstract = {SUMMARY A new indirect way of producing all-quad meshes is presented. The method takes advantage of a well-known algorithm of the graph theory, namely the Blossom algorithm, that computes the minimum-cost perfect matching in a graph in polynomial time. The new Blossom-Quad algorithm is compared with standard indirect procedures. Meshes produced by the new approach are better both in terms of element shape and in terms of size field efficiency. Copyright © 2012 John Wiley \\& Sons, Ltd.},\r\nyear = {2012}\r\n}",
@@ -2537,6 +2613,31 @@
             "month": ""
         },
         "img_path": ".img/2014 CGF - Pattern-Based Quadrangulation for N-Sided Patches_Pasted image 20250314173110.png"
+    },
+    {
+        "filename": "2026 ICLR - QuadGPT - Native Quadrilateral Mesh Generation with Autoregressive Models.md",
+        "properties": {
+            "bibtex": "@inproceedings{liu2026quadgpt,\n  title     = {Quad{GPT}: Native Quadrilateral Mesh Generation with Autoregressive Models},\n  author    = {Jian Liu and Chunshi Wang and Song Guo and Haohan Weng and\n               Zhen Zhou and Zhiqi Li and Jiaao Yu and Yiling Zhu and\n               Jing Xu and Biwen Lei and Zhuo Chen and Chunchao Guo},\n  booktitle = {The Fourteenth International Conference on Learning Representations},\n  year      = {2026},\n  url       = {https://openreview.net/forum?id=oRmo4p1KEE},\n}",
+            "code": "",
+            "data": "",
+            "project": "https://hitcslj.github.io/QuadGPT/",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260530092950.png"
+        },
+        "bibtex_parsed": {
+            "title": "QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models",
+            "author": "Jian Liu and Chunshi Wang and Song Guo and Haohan Weng and Zhen Zhou and Zhiqi Li and Jiaao Yu and Yiling Zhu and Jing Xu and Biwen Lei and Zhuo Chen and Chunchao Guo",
+            "venue": "The Fourteenth International Conference on Learning Representations",
+            "doi_url": "https://openreview.net/forum?id=oRmo4p1KEE",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 ICLR - QuadGPT - Native Quadrilateral Mesh Generation with Autoregressive Models_Pasted image 20260530092950.png"
     },
     {
         "filename": "2014 GM - An effective quad-dominant meshing method for unorganized point clouds.md",
