@@ -1488,6 +1488,32 @@
         "img_path": ".img/2024 - High-quality quad-mesh generation for self-intersecting parametric surfaces_Pasted image 20260318212415.png"
     },
     {
+        "filename": "2023 - Reinforcement Learning for Block Decomposition of CAD Models.md",
+        "properties": {
+            "bibtex": "@misc{diprete2023reinforcementlearningblockdecomposition,\n      title={Reinforcement Learning for Block Decomposition of CAD Models}, \n      author={Benjamin C. DiPrete and Rao V. Garimella and Cristina Garcia Cardona and Navamita Ray},\n      year={2023},\n      eprint={2302.11066},\n      archivePrefix={arXiv},\n      primaryClass={cs.LG},\n      url={https://arxiv.org/abs/2302.11066}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "hex_meshing",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260530094257.png"
+        },
+        "bibtex_parsed": {
+            "title": "Reinforcement Learning for Block Decomposition of CAD Models",
+            "author": "Benjamin C. DiPrete and Rao V. Garimella and Cristina Garcia Cardona and Navamita Ray",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2302.11066",
+            "year": "2023",
+            "month": ""
+        },
+        "img_path": ".img/2023 - Reinforcement Learning for Block Decomposition of CAD Models_Pasted image 20260530094257.png"
+    },
+    {
         "filename": "2026 - Surface Quadrilateral Meshing from Integrable Odeco Fields.md",
         "properties": {
             "bibtex": "@misc{couplet2026surfacequadrilateralmeshingintegrable,\n      title={Surface Quadrilateral Meshing from Integrable Odeco Fields}, \n      author={Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien},\n      year={2026},\n      month=apr,\n      eprint={2604.03889},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2604.03889}, \n}",
