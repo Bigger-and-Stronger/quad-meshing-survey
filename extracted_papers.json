@@ -996,6 +996,32 @@
         "img_path": ".img/2010 CGF - Designing Quad-dominant Meshes with Planar Faces_Pasted image 20260318220044.png"
     },
     {
+        "filename": "2026 IMR - Block-structured quadrilateral meshing using colored medial axis.md",
+        "properties": {
+            "bibtex": "@inbook{doi:10.1137/1.9781611979138.23,\nauthor = {Tristan Cheny and Étienne Corman and Franck Ledoux and Nicolas Ray and Dmitry Sokolov},\ntitle = {Block-structured quadrilateral meshing using colored medial axis},\nbooktitle = {Proceedings of the 2026 SIAM International Meshing Roundtable},\nchapter = {},\npages = {298-310},\ndoi = {10.1137/1.9781611979138.23},\nURL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611979138.23},\neprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611979138.23},\n    abstract = { Abstract Block-structured meshes are widely used in high-performance computing due to their efficiency in numerical simulations, memory access, and domain partitioning for parallel processing. Medial-axis-based algorithms have been considered as a promising approach for automatically decomposing a domain into quadrilateral blocks while ensuring a minimal number of singular vertices. TopMaker [14] is a notable example, providing a robust decomposition strategy. However, it suffers from limitations such as the capture of curved block boundaries, poor geometric quality, and the presence of non-quadrilateral blocks. In this paper, we propose an improved block decomposition method that enhances TopMaker by integrating integer optimization for subdivision selection and incorporating additional singular nodes to better approximate the domain geometry. Our approach assigns a mesh template to each point of the medial axis, greatly improving the block quality while ensuring a valid conforming quadrilateral decomposition. We evaluate our approach on a large range of 2D domains and demonstrate its ability to generate high-quality block-structured meshes. The results highlight the robustness, efficiency, and practicality of our method for automated quadrilateral block decomposition. Our method also extends to multi-material models with intricate internal constraints but at the cost of loss of some guarantees of the output mesh. }\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "medial_axis",
+                "layouts"
+            ],
+            "teaser": "Pasted image 20260610225510.png"
+        },
+        "bibtex_parsed": {
+            "title": "Block-structured quadrilateral meshing using colored medial axis",
+            "author": "Tristan Cheny and Étienne Corman and Franck Ledoux and Nicolas Ray and Dmitry Sokolov",
+            "venue": "Proceedings of the 2026 SIAM International Meshing Roundtable",
+            "doi_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611979138.23",
+            "year": "-",
+            "month": ""
+        },
+        "img_path": ".img/2026 IMR - Block-structured quadrilateral meshing using colored medial axis_Pasted image 20260610225510.png"
+    },
+    {
         "filename": "2026 - MSQ-meshing - a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces.md",
         "properties": {
             "bibtex": "@article{qiu6159589msq,\r\n  title={MSQ-meshing: a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces},\r\n  author={Qiu, JingYing and Qi, Long and Zhu, XinHai and Tang, Ming and Liu, Yang and Xu, Gang},\r\n  journal={Available at SSRN 6159589}\n  year=2026\n\r\n}",
@@ -1526,7 +1552,8 @@
                 "quadrangulate",
                 "directional",
                 "integrable",
-                "odeco_tensors"
+                "odeco_tensors",
+                "adaptive"
             ],
             "teaser": "Pasted image 20260407123201.png"
         },
@@ -1564,6 +1591,31 @@
             "month": ""
         },
         "img_path": ".img/2025 - Optimization of Medial Axis-based Quadrilateral Mesh Generation_Pasted image 20260413231715.png"
+    },
+    {
+        "filename": "2026 - Intelligent quadrilateral mesh generation for ship structures based on hybrid deep reinforcement learning.md",
+        "properties": {
+            "bibtex": "@article{XIE2026125711,\ntitle = {Intelligent quadrilateral mesh generation for ship structures based on hybrid deep reinforcement learning},\njournal = {Ocean Engineering},\nvolume = {358},\npages = {125711},\nyear = {2026},\nissn = {0029-8018},\ndoi = {https://doi.org/10.1016/j.oceaneng.2026.125711},\nurl = {https://www.sciencedirect.com/science/article/pii/S0029801826015453},\nauthor = {Bin Xie and Yanyun Yu and MengYao Zou and Hongshuo Zhang and Zelin Song},\nkeywords = {Ship structures, Finite element analysis, Quadrilateral mesh, Intelligent mesh generation, Behavioral cloning, Reinforcement learning},\nabstract = {The Finite Element Method (FEM) is an essential numerical tool for ship structural analysis, where mesh quality directly dictates computational accuracy and efficiency. For thin-shell structures, generating quadrilateral meshes under complex geometric conditions, such as multiply-connected openings and narrow intersections, still relies on manual post-processing despite superior convergence. To address this, this paper proposes S2R-AFM, a hybrid deep reinforcement learning (DRL)-based quadrilateral mesh generation method for ship structures. Using the Advancing Front Method (AFM) as the backbone, the meshing process is formulated as a Markov Decision Process (MDP). A hybrid Behavioral Cloning and Reinforcement Learning (BC + RL) training pipeline is constructed. Expert demonstrations provide supervised pre-training for rapid policy initialization, improving policy initialization in high-dimensional decision spaces. Subsequent RL fine-tuning, driven by mesh quality rewards and engineering constraints, enhances policy generalization. Dynamic action masking and low-entropy constraints suppress invalid exploration, while an enhanced front-interactive action space enables autonomous topological operations such as front merging and splitting, achieving automatic quadrilateral mesh generation without human intervention. Benchmark experiments show that S2R-AFM matches or surpasses industrial software (HyperMesh) in key geometric metrics. Application validations on transverse web frames and bulk carrier cargo holds confirm its efficiency and reliability for automated CAD/CAE modeling.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260610230207.png"
+        },
+        "bibtex_parsed": {
+            "title": "Intelligent quadrilateral mesh generation for ship structures based on hybrid deep reinforcement learning",
+            "author": "Bin Xie and Yanyun Yu and MengYao Zou and Hongshuo Zhang and Zelin Song",
+            "venue": "Ocean Engineering",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0029801826015453",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 - Intelligent quadrilateral mesh generation for ship structures based on hybrid deep reinforcement learning_Pasted image 20260610230207.png"
     },
     {
         "filename": "2019 - Towards fully regular quad mesh generation.md",
@@ -1726,7 +1778,8 @@
                 "quadrangulate",
                 "integrable",
                 "odeco_tensors",
-                "directional"
+                "directional",
+                "adaptive"
             ],
             "teaser": "Pasted image 20260218191633.png"
         },
@@ -1916,6 +1969,32 @@
         "img_path": ".img/2021 TOG - Q-zip - singularity editing primitive for quad meshes_Pasted image 20260318223444.png"
     },
     {
+        "filename": "2026 - An efficient and stable diffusion generated method for quadrilateral mesh generation in general domains.md",
+        "properties": {
+            "bibtex": "@misc{dai2026efficientstablediffusiongenerated,\n      title={An efficient and stable diffusion generated method for quadrilateral mesh generation in general domains}, \n      author={Jingwen Dai and Zhonghua Qiao and Dong Wang},\n      year={2026},\n      eprint={2605.27854},\n      archivePrefix={arXiv},\n      primaryClass={math.NA},\n      url={https://arxiv.org/abs/2605.27854}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "directional",
+                "meshless"
+            ],
+            "teaser": "Pasted image 20260610224707.png"
+        },
+        "bibtex_parsed": {
+            "title": "An efficient and stable diffusion generated method for quadrilateral mesh generation in general domains",
+            "author": "Jingwen Dai and Zhonghua Qiao and Dong Wang",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2605.27854",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 - An efficient and stable diffusion generated method for quadrilateral mesh generation in general domains_Pasted image 20260610224707.png"
+    },
+    {
         "filename": "2025 TOG - Feature-Aligned Parametrization in Penner Coordinates.md",
         "properties": {
             "bibtex": "@article{10.1145/3731216,\nauthor = {Capouellez, Ryan and Singh, Rodrigo and Heistermann, Martin and Bommes, David and Zorin, Denis},\ntitle = {Feature-Aligned Parametrization in Penner Coordinates},\nyear = {2025},\nissue_date = {August 2025},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {44},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3731216},\ndoi = {10.1145/3731216},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {110},\nnumpages = {21},\nkeywords = {parameterization, feature alignment, seamless, newton's method, cone metric, intrinsic triangulation, penner coordinates, quadrangulation}\n}",
@@ -2038,6 +2117,31 @@
             "month": ""
         },
         "img_path": ".img/2009 CGF - Filling N-Sided Regions by Quad Meshes for Subdivision Surfaces_Pasted image 20250315200426.png"
+    },
+    {
+        "filename": "2026 IJNME - A Novel Approach for Quad-Dominant Mesh Generation Using Conformal Mapping Compressed Gradient Field.md",
+        "properties": {
+            "bibtex": "@article{https://doi.org/10.1002/nme.70303,\nauthor = {Mu, Rushuang and Qi, Long and Qiu, Jingying and Han, Fang and Xiong, Yongping and Pang, Yufei and Liu, Yang},\ntitle = {A Novel Approach for Quad-Dominant Mesh Generation Using Conformal Mapping Compressed Gradient Field},\njournal = {International Journal for Numerical Methods in Engineering},\nvolume = {127},\nnumber = {6},\npages = {e70303},\nkeywords = {conformal mapping, gradient field, mesh generation, quad-dominant},\ndoi = {https://doi.org/10.1002/nme.70303},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.70303},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/nme.70303},\nabstract = {ABSTRACT The regular topological structure endows quadrilateral meshes with advantages such as high computational accuracy, reduced element requirements, and enhanced computational efficiency, granting them irreplaceable application value in high-end engineering simulation domains. However, significant bottlenecks persist in the fully automatic generation technology of quadrilateral meshes for complex geometric models. Existing methods often encounter key issues such as high mesh distortion rates and insufficient algorithm stability when handling high-curvature boundaries and multiscale feature regions, limiting their widespread application in engineering simulations. This article proposes a quad-dominant mesh generation method based on gradient fields. Firstly, the three-dimensional triangular mesh is transformed into a two-dimensional parametric domain through conformal mapping. Subsequently, based on the compression ratio measured from three-dimensional to two-dimensional, the direction and size of the advancing front are calculated to draw contour lines in the parametric domain. A threshold is set to automatically generate high-quality grids. Based on the extracted contour lines, high-quality quadrilateral grids are generated pairwise along the gradient field directions. For regions that do not meet the threshold requirements, triangular mesh filling is employed to generate a two-dimensional quad-dominant grid. Due to the bijective nature of the mapping, the quad-dominant surface mesh is obtained through the inverse transformation from the 2D parametric domain back to the 3D space.},\nyear = {2026}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "quad-dominant"
+            ],
+            "teaser": "Pasted image 20260610224459.png"
+        },
+        "bibtex_parsed": {
+            "title": "A Novel Approach for Quad-Dominant Mesh Generation Using Conformal Mapping Compressed Gradient Field",
+            "author": "Mu, Rushuang and Qi, Long and Qiu, Jingying and Han, Fang and Xiong, Yongping and Pang, Yufei and Liu, Yang",
+            "venue": "International Journal for Numerical Methods in Engineering",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/nme.70303",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 IJNME - A Novel Approach for Quad-Dominant Mesh Generation Using Conformal Mapping Compressed Gradient Field_Pasted image 20260610224459.png"
     },
     {
         "filename": "2018 TOG - Quadrangulation through morse-parameterization hybridization.md",
@@ -2389,6 +2493,31 @@
             "month": ""
         },
         "img_path": ".img/2026 - Pattern embedding driven lightweight quadrilateral mesh generation for engineering applications_Pasted image 20260413231901.png"
+    },
+    {
+        "filename": "2026 IMR - QuadOpt-RL - Reinforcement Learning Agent for Quad Mesh Optimization.md",
+        "properties": {
+            "bibtex": "@inbook{doi:10.1137/1.9781611979138.2,\nauthor = {Arzhela Roperch and Franck Ledoux and Jean-Christophe Janodet},\ntitle = {QuadOpt-RL: Reinforcement Learning Agent for Quad Mesh Optimization},\nbooktitle = {Proceedings of the 2026 SIAM International Meshing Roundtable},\nchapter = {},\npages = {22-34},\ndoi = {10.1137/1.9781611979138.2},\nURL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611979138.2},\neprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611979138.2},\n    abstract = { Abstract Mesh generation is a crucial stage in numerical simulations that can be very time-consuming for engineers. Although 2D quad meshing is considered a solved problem, we explore using Reinforcement Learning (RL) as an alternative approach. In this context, we teach an agent to interact with a mesh through a set of editing actions to improve the mesh quality. In this work we explore different modeling aspects to extend [11]. More specifically, we focus on optimizing TQuad meshes — that is, quad meshes obtained by splitting each triangle of a triangular mesh into three quads. We conduct several analyses focusing particularly on the mesh observation process and the RL algorithm employed. The result is an RL agent that can autonomously perform a series of operations that significantly improve quadrilateral meshes. }\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260610225359.png"
+        },
+        "bibtex_parsed": {
+            "title": "QuadOpt-RL: Reinforcement Learning Agent for Quad Mesh Optimization",
+            "author": "Arzhela Roperch and Franck Ledoux and Jean-Christophe Janodet",
+            "venue": "Proceedings of the 2026 SIAM International Meshing Roundtable",
+            "doi_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611979138.2",
+            "year": "-",
+            "month": ""
+        },
+        "img_path": ".img/2026 IMR - QuadOpt-RL - Reinforcement Learning Agent for Quad Mesh Optimization_Pasted image 20260610225359.png"
     },
     {
         "filename": "2010 TOG - Lp Centroidal Voronoi Tessellation and its applications.md",
@@ -2985,6 +3114,31 @@
             "month": ""
         },
         "img_path": ".img/2025 EC - Enhanced block-structured quadrilateral mesh generation - integrating cross-field and distance field for optimal domain decomposition_Pasted image 20260318211940.png"
+    },
+    {
+        "filename": "2026 IMR - Surface Quadrilateral Mesh Generation Based on Weierstrass & Function.md",
+        "properties": {
+            "bibtex": "@inbook{doi:10.1137/1.9781611979138.18,\nauthor = {Yiming Zhu and Qiankun Nie and Siquan Sun and Siyu Fang and Na Lei and Zhongxuan Luo and Hang Si and Xianfeng Gu},\ntitle = {Surface Quadrilateral Mesh Generation Based on Weierstrass \\&amp; Function},\nbooktitle = {Proceedings of the 2026 SIAM International Meshing Roundtable},\nchapter = {},\npages = {231-244},\ndoi = {10.1137/1.9781611979138.18},\nURL = {https://epubs.siam.org/doi/abs/10.1137/1.9781611979138.18},\neprint = {https://epubs.siam.org/doi/pdf/10.1137/1.9781611979138.18},\n    abstract = { Abstract The generation of structured surface quadrilateral meshes is pivotal in solid and physical modeling, as well as in numerous other engineering disciplines. In this work, we present a novel approach for quadrilateral mesh generation on genus one surfaces based on the Weierstrass \\& functions. Recent advancements have established the connection between meromorphic quartic differentials and quadrilateral meshes and have unveiled the governing equations—the Abel-Jacobi condition—for their singularities. The Weierstrass \\& function provides a doubly periodic meromorphic function on the complex plane, which, when composed with a conformal mapping from the surface to the plane, directly induces a meromorphic function on the genus one Riemann surface. This function can be further transformed into a meromorphic quartic differential in accordance with the Abel-Jacobi condition, which naturally induces a quadrilateral mesh. Also, we can go step further from Weierstrass \\& function to get σ-function, which can also be used to construct meromorphic functions on genus one Riemann surfaces. Our method is grounded in a rigorous theoretical framework and leverages the Weierstrass \\& function and σ-function to achieve conformal surface parameterization, leading to quadrilateral meshes with high orthogonality and uniform local size transition. Furthermore, the algorithm allows users to prescribe the positions and indices of singularities of the quad-mesh. To demonstrate the simplicity, efficiency and versatility of our approach, we provide numerical experiments that confirm its theoretical validity and illustrate its practical advantages. }\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "adaptive"
+            ],
+            "teaser": "Pasted image 20260610225137.png"
+        },
+        "bibtex_parsed": {
+            "title": "Surface Quadrilateral Mesh Generation Based on Weierstrass \\&amp; Function",
+            "author": "Yiming Zhu and Qiankun Nie and Siquan Sun and Siyu Fang and Na Lei and Zhongxuan Luo and Hang Si and Xianfeng Gu",
+            "venue": "Proceedings of the 2026 SIAM International Meshing Roundtable",
+            "doi_url": "https://epubs.siam.org/doi/abs/10.1137/1.9781611979138.18",
+            "year": "-",
+            "month": ""
+        },
+        "img_path": ".img/2026 IMR - Surface Quadrilateral Mesh Generation Based on Weierstrass & Function_Pasted image 20260610225137.png"
     },
     {
         "filename": "2026 TOG - Strips as Tokens - Artist Mesh Generation with Native UV Segmentation.md",
