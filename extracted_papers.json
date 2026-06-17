@@ -1664,7 +1664,7 @@
         "filename": "2026 CAD - Size-controlled quadrilateral meshing using integrable odeco fields.md",
         "properties": {
             "bibtex": "@article{COUPLET2026103974,\ntitle = {Size-controlled quadrilateral meshing using integrable odeco fields},\njournal = {Computer-Aided Design},\nvolume = {190},\npages = {103974},\nyear = {2026},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2025.103974},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448525001356},\nauthor = {Mattéo Couplet and Alexandre Chemin and Jean-François Remacle},\nkeywords = {Mesh generation, Anisotropic meshing, Parametrization, Frame field design}\n}",
-            "code": "",
+            "code": "https://git.immc.ucl.ac.be/quad_meshing/qmp",
             "data": "",
             "project": "",
             "slide": "",
