@@ -1487,6 +1487,33 @@
         "img_path": ".img/2006 CMAME - Adaptive and quality quadrilateral-hexahedral meshing from volumetric data_Pasted image 20260318220431.png"
     },
     {
+        "filename": "2024 TOG - Seamless Parametrization in Penner Coordinates.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3658202,\nauthor = {Capouellez, Ryan and Zorin, Denis},\ntitle = {Seamless Parametrization in Penner Coordinates},\nyear = {2024},\nissue_date = {July 2024},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {43},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3658202},\ndoi = {10.1145/3658202},\nabstract = {We introduce a conceptually simple and efficient algorithm for seamless parametrization, a key element in constructing quad layouts and texture charts on surfaces. More specifically, we consider the construction of parametrizations with prescribed holonomy signatures i.e., a set of angles at singularities, and rotations along homology loops, preserving which is essential for constructing parametrizations following an input field, as well as for user control of the parametrization structure. Our algorithm performs exceptionally well on a large dataset based on Thingi10k [Zhou and Jacobson 2016], (16156 meshes) as well as on a challenging smaller dataset of [Myles et al. 2014], converging, on average, in 9 iterations. Although the algorithm lacks a formal mathematical guarantee, presented empirical evidence and the connections between convex optimization and closely related algorithms, suggest that a similar formulation can be found for this algorithm in the future.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {61},\nnumpages = {13},\nkeywords = {parametrization, seamless, discrete metrics, cone metrics, conformal, intrinsic triangulation, penner coordinates}\n}",
+            "code": "https://github.com/rjc8237/seamless-parametrization-penner",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "parameterization",
+                "quadrangulate",
+                "penner",
+                "seamless"
+            ],
+            "teaser": "Pasted image 20260623122322.png"
+        },
+        "bibtex_parsed": {
+            "title": "Seamless Parametrization in Penner Coordinates",
+            "author": "Capouellez, Ryan and Zorin, Denis",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3658202",
+            "year": "2024",
+            "month": "July"
+        },
+        "img_path": ".img/2024 TOG - Seamless Parametrization in Penner Coordinates_Pasted image 20260623122322.png"
+    },
+    {
         "filename": "2026 - QuadLink - Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning.md",
         "properties": {
             "bibtex": "@misc{zhang2026quadlinkautoregressivequaddominantmesh,\n      title={QuadLink: Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning}, \n      author={Yiheng Zhang and Zhe Zhu and Tingrui Shen and Zhuojiang Cai and Tianxiao Li and Zixing Zhao and Qiujie Dong and Zhiyang Dou and Jiepeng Wang and Le Wan and Yuwang Wang and Wenping Wang and Yuan Liu and Cheng Lin},\n      year={2026},\n      eprint={2605.16813},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2605.16813}, \n}",
@@ -2709,6 +2736,32 @@
             "month": ""
         },
         "img_path": ".img/2026 IMR - Block-structured quadrilateral meshing using colored medial axis_Pasted image 20260610225510.png"
+    },
+    {
+        "filename": "2023 TOG - Metric Optimization in Penner Coordinates.md",
+        "properties": {
+            "bibtex": "@article{10.1145/3618394,\nauthor = {Capouellez, Ryan and Zorin, Denis},\ntitle = {Metric Optimization in Penner Coordinates},\nyear = {2023},\nissue_date = {December 2023},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {42},\nnumber = {6},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/3618394},\ndoi = {10.1145/3618394},\njournal = {ACM Trans. Graph.},\nmonth = dec,\narticleno = {234},\nnumpages = {19},\nkeywords = {cone metrics, conformal mapping, discrete metrics, intrinsic triangulation, parametrization, penner coordinates}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "parameterization",
+                "penner",
+                "quadrangulate"
+            ],
+            "teaser": "Pasted image 20260201213846.png"
+        },
+        "bibtex_parsed": {
+            "title": "Metric Optimization in Penner Coordinates",
+            "author": "Capouellez, Ryan and Zorin, Denis",
+            "venue": "ACM Trans. Graph.",
+            "doi_url": "https://doi.org/10.1145/3618394",
+            "year": "2023",
+            "month": "December"
+        },
+        "img_path": ".img/2023 TOG - Metric Optimization in Penner Coordinates_Pasted image 20260201213846.png"
     },
     {
         "filename": "2025 - DRL-MeshGen - automated block-structured mesh generation framework via deep reinforcement learning and optimal conformal mapping.md",
