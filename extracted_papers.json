@@ -2585,34 +2585,6 @@
         "img_path": ".img/2016 CGF - Tracing Field-Coherent Quad Layouts_Pasted image 20260523152439.png"
     },
     {
-        "filename": "2026 - Surface Quadrilateral Meshing from Integrable Odeco Fields.md",
-        "properties": {
-            "bibtex": "@misc{couplet2026surfacequadrilateralmeshingintegrable,\n      title={Surface Quadrilateral Meshing from Integrable Odeco Fields}, \n      author={Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien},\n      year={2026},\n      month=apr,\n      eprint={2604.03889},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2604.03889}, \n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "quadrangulate",
-                "directional",
-                "integrable",
-                "odeco_tensors",
-                "adaptive"
-            ],
-            "teaser": "Pasted image 20260407123201.png"
-        },
-        "bibtex_parsed": {
-            "title": "Surface Quadrilateral Meshing from Integrable Odeco Fields",
-            "author": "Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien",
-            "venue": "",
-            "doi_url": "https://arxiv.org/abs/2604.03889",
-            "year": "2026",
-            "month": "April"
-        },
-        "img_path": ".img/2026 - Surface Quadrilateral Meshing from Integrable Odeco Fields_Pasted image 20260407123201.png"
-    },
-    {
         "filename": "2012 TOG - Design-driven quadrangulation of closed 3D curves.md",
         "properties": {
             "bibtex": "@article{bessmeltsev2012design,\r\n  title={Design-driven quadrangulation of closed 3D curves.},\r\n  author={Bessmeltsev, Mikhail and Wang, Caoyu and Sheffer, Alla and Singh, Karan},\r\n  journal={ACM Trans. Graph.},\r\n  volume={31},\r\n  number={6},\r\n  pages={178--1},\r\n  year={2012}\r\n}",
@@ -3016,6 +2988,34 @@
             "month": ""
         },
         "img_path": ".img/2012 - Blossom-Quad - A non-uniform quadrilateral mesh generator using a minimum-cost perfect-matching algorithm_Pasted image 20260318222206.png"
+    },
+    {
+        "filename": "2026 SGP - Surface Quadrilateral Meshing from Integrable Odeco Fields.md",
+        "properties": {
+            "bibtex": "@misc{couplet2026surfacequadrilateralmeshingintegrable,\n      title={Surface Quadrilateral Meshing from Integrable Odeco Fields}, \n      author={Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien},\n      year={2026},\n      month=apr,\n      eprint={2604.03889},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2604.03889}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "directional",
+                "integrable",
+                "odeco_tensors",
+                "adaptive"
+            ],
+            "teaser": "Pasted image 20260407123201.png"
+        },
+        "bibtex_parsed": {
+            "title": "Surface Quadrilateral Meshing from Integrable Odeco Fields",
+            "author": "Mattéo Couplet and Alexandre Chemin and David Bommes and Edward Chien",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2604.03889",
+            "year": "2026",
+            "month": "April"
+        },
+        "img_path": ".img/2026 SGP - Surface Quadrilateral Meshing from Integrable Odeco Fields_Pasted image 20260407123201.png"
     },
     {
         "filename": "2008 SPM - An incremental approach to feature aligned quad dominant remeshing.md",
