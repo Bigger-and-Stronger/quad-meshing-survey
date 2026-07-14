@@ -328,6 +328,31 @@
         "img_path": ".img/1994 - A new scheme for the generation of a graded quadrilateral mesh_Pasted image 20260318223207.png"
     },
     {
+        "filename": "2026 arXiv - Dmsh - A Multi-Agent Reinforcement Learning Framework for All-Quad Mesh Generation.md",
+        "properties": {
+            "bibtex": "@misc{kalyan2026dmshmultiagentreinforcementlearning,\n      title={Dmsh: A Multi-Agent Reinforcement Learning Framework for All-Quad Mesh Generation}, \n      author={Anirudh Kalyan and Cosmin Anitescu and Xiaoying Zhuang and Timon Rabczuk and Somdatta Goswami and Sundararajan Natarajan},\n      year={2026},\n      eprint={2606.10601},\n      archivePrefix={arXiv},\n      primaryClass={math.NA},\n      url={https://arxiv.org/abs/2606.10601}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20260713153802.png"
+        },
+        "bibtex_parsed": {
+            "title": "Dmsh: A Multi-Agent Reinforcement Learning Framework for All-Quad Mesh Generation",
+            "author": "Anirudh Kalyan and Cosmin Anitescu and Xiaoying Zhuang and Timon Rabczuk and Somdatta Goswami and Sundararajan Natarajan",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2606.10601",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 arXiv - Dmsh - A Multi-Agent Reinforcement Learning Framework for All-Quad Mesh Generation_Pasted image 20260713153802.png"
+    },
+    {
         "filename": "2025 - Optimization of Medial Axis-based Quadrilateral Mesh Generation.md",
         "properties": {
             "bibtex": "@Article{2025-00374,\r\ntitle = {Optimization of Medial Axis-based Quadrilateral Mesh Generation},\r\njournal = {Journal of Computer-Aided Design & Computer Graphics},\r\nvolume = {},\r\nnumber = {},\r\npages = {},\r\nyear = {2025},\r\nissn = {1003-9775},\r\ndoi = {10.3724/SP.J.1089.2025-00374},\t\r\nurl = {https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089.2025-00374},\r\nauthor = {Wang Hao and Zheng Xiaopeng and Qi Zhihui and Lei Na and Luo Zhongxuan}\r\n}",
@@ -1396,7 +1421,7 @@
     {
         "filename": "2026 - MSQ-meshing - a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces.md",
         "properties": {
-            "bibtex": "@article{qiu6159589msq,\r\n  title={MSQ-meshing: a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces},\r\n  author={Qiu, JingYing and Qi, Long and Zhu, XinHai and Tang, Ming and Liu, Yang and Xu, Gang},\r\n  journal={Available at SSRN 6159589}\n  year=2026\n\r\n}",
+            "bibtex": "@article{QIU2026108257,\ntitle = {MSQ-meshing: a multi-constraint size-adaptive quad-dominant mesh generation method for complex surfaces},\njournal = {Computers & Structures},\nvolume = {327},\npages = {108257},\nyear = {2026},\nissn = {0045-7949},\ndoi = {https://doi.org/10.1016/j.compstruc.2026.108257},\nurl = {https://www.sciencedirect.com/science/article/pii/S0045794926001616},\nauthor = {Jingying Qiu and Long Qi and Xinhai Zhu and Ming Tang and Yang Liu and Gang Xu and Yufei Pang},\nkeywords = {Size-adaptive, Size field, Frame field, Quad-dominant, Finite elements},\nabstract = {For complex geometric models in finite element simulation engineering, this paper integrates the complementary advantages of quadrilateral and triangular meshes, and proposes a multi-constraint size-adaptive quad-dominant mesh automatic generation method (MSQ-meshing) guided by frame field and size field. The core innovations of the method include: (1) a multi-constraint global size field solving framework integrating curvature adaptation, global size limits and specified regional constraints, realizing smooth size transition distribution; (2) a size field-driven partition cleaning strategy to eliminate redundant fragmented features and optimize feature point distribution; (3) a dual-field coupled mesh advancing scheme combined with a bipartite graph marking strategy, which transforms the global mesh generation problem into a local topology optimization problem for efficient high-quality mesh construction. Experimental results demonstrate that the proposed method generates quad-dominant meshes for complex geometries with a quadrilateral ratio exceeding 90%, and the mesh quality outperforms mainstream commercial software.}\n}",
             "code": "",
             "data": "",
             "project": "",
@@ -1408,7 +1433,14 @@
             ],
             "teaser": "Pasted image 20260413232151.png"
         },
-        "bibtex_parsed": {},
+        "bibtex_parsed": {
+            "title": "MSQ-meshing: a multi-constraint size-adaptive quad-dominant mesh generation method for complex surfaces",
+            "author": "Jingying Qiu and Long Qi and Xinhai Zhu and Ming Tang and Yang Liu and Gang Xu and Yufei Pang",
+            "venue": "Computers & Structures",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0045794926001616",
+            "year": "2026",
+            "month": ""
+        },
         "img_path": ".img/2026 - MSQ-meshing - a Multi-Constraint Size-Adaptive Quad-Dominant Mesh Generation Method for Complex Surfaces_Pasted image 20260413232151.png"
     },
     {
