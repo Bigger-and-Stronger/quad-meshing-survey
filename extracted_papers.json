@@ -1948,7 +1948,7 @@
     {
         "filename": "2026 - Embedding Optimization of Layouts via Distortion Minimization.md",
         "properties": {
-            "bibtex": "@article{heuschling2026layoutOpt,\n  title={Embedding Optimization of Layouts via Distortion Minimization},\n  author={Heuschling, Alexandra and Lim, Isaak and Kobbelt, Leif},\n  year={2026},\n  journal={Computer Graphics Forum},\n  volume={45},\n  number={2},\n}",
+            "bibtex": "@article{https://doi.org/10.1111/cgf.70421,\nauthor = {Heuschling, A. and Lim, I. and Kobbelt, L.},\ntitle = {Embedding Optimization of Layouts via Distortion Minimization},\njournal = {Computer Graphics Forum},\nvolume = {n/a},\nnumber = {n/a},\npages = {e70421},\nkeywords = {CCS Concepts, • Computing methodologies → >Mesh models, Mesh geometry models, Shape modeling},\ndoi = {https://doi.org/10.1111/cgf.70421},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70421},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.70421},\nabstract = {Abstract Given an embedding of a layout in the surface of a target mesh, we consider the problem of optimizing the embedding geometrically. Layout embeddings partition the surface into multiple disk-like patches, making them particularly useful for parametrization and remeshing tasks, such as quad-remeshing, since these problems can then be solved on simpler subdomains. Existing methods can either not guarantee to maintain patch connectivity, limiting downstream applications, or are specialized for quad layout optimization, relying on principal curvature information. We propose a framework that balances per-patch distortion minimization with strict connectivity control through an explicit representation. By inserting additional nodes along layout arcs, they can be embedded as piecewise geodesic curves on the surface. This sampling of arcs provides additional flexibility where required, enabling joint optimization of both node positions and arc embeddings. Our representation naturally supports a multi-resolution workflow: optimization on coarse meshes can be prolongated to high-resolution inputs. We demonstrate its effectiveness in applications requiring connectivity-preserving, low-distortion surface layouts. Code will be available at https://github.com/7-AlexH/layout-embedding-optimization.}\n}",
             "code": "https://github.com/7-AlexH/layout-embedding-optimization",
             "data": "",
             "project": "",
@@ -1962,10 +1962,10 @@
         },
         "bibtex_parsed": {
             "title": "Embedding Optimization of Layouts via Distortion Minimization",
-            "author": "Heuschling, Alexandra and Lim, Isaak and Kobbelt, Leif",
+            "author": "Heuschling, A. and Lim, I. and Kobbelt, L.",
             "venue": "Computer Graphics Forum",
-            "doi_url": "",
-            "year": "2026",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70421",
+            "year": "-",
             "month": ""
         },
         "img_path": ".img/2026 - Embedding Optimization of Layouts via Distortion Minimization_Pasted image 20260408121550.png"
