@@ -2956,6 +2956,30 @@
         "img_path": ".img/2017 CMAME - Quadrilateral and hexahedral mesh generation based on surface foliation theory_Pasted image 20260318214900.png"
     },
     {
+        "filename": "2025 - On Quad Mesh Extraction From Messy Grid Preserving Maps.md",
+        "properties": {
+            "bibtex": "@misc{ray2025quadmeshextractionmessy,\n      title={On Quad Mesh Extraction From Messy Grid Preserving Maps}, \n      author={Nicolas Ray},\n      year={2025},\n      eprint={2507.15404},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2507.15404}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate"
+            ],
+            "teaser": "Pasted image 20260801161723.png"
+        },
+        "bibtex_parsed": {
+            "title": "On Quad Mesh Extraction From Messy Grid Preserving Maps",
+            "author": "Nicolas Ray",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2507.15404",
+            "year": "2025",
+            "month": ""
+        },
+        "img_path": ".img/2025 - On Quad Mesh Extraction From Messy Grid Preserving Maps_Pasted image 20260801161723.png"
+    },
+    {
         "filename": "2024 CGF - Quad Mesh Quantization Without a T-Mesh.md",
         "properties": {
             "bibtex": "@article{https://doi.org/10.1111/cgf.14928,\nauthor = {Coudert-Osmont, Yoann and Desobry, David and Heistermann, Martin and Bommes, David and Ray, Nicolas and Sokolov, Dmitry},\ntitle = {Quad Mesh Quantization Without a T-Mesh},\njournal = {Computer Graphics Forum},\nvolume = {43},\nnumber = {1},\npages = {e14928},\nkeywords = {modelling, mesh generation, surface parameterization},\ndoi = {https://doi.org/10.1111/cgf.14928},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14928},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14928},\nabstract = {Abstract Grid preserving maps of triangulated surfaces were introduced for quad meshing because the 2D unit grid in such maps corresponds to a sub-division of the surface into quad-shaped charts. These maps can be obtained by solving a mixed integer optimization problem: Real variables define the geometry of the charts and integer variables define the combinatorial structure of the decomposition. To make this optimization problem tractable, a common strategy is to ignore integer constraints at first, then to enforce them in a so-called quantization step. Actual quantization algorithms exploit the geometric interpretation of integer variables to solve an equivalent problem: They consider that the final quad mesh is a sub-division of a T-mesh embedded in the surface, and optimize the number of sub-divisions for each edge of this T-mesh. We propose to operate on a decimated version of the original surface instead of the T-mesh. It is easier to implement and to adapt to constraints such as free boundaries, complex feature curves network etc.},\nyear = {2024}\n}",
