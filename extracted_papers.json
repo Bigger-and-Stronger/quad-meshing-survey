@@ -1177,6 +1177,32 @@
         "img_path": ".img/2013 - Robust and Controllable Quadrangulation of Triangular and Rectangular Regions_Pasted image 20250315165854.png"
     },
     {
+        "filename": "2026 SIGGRAPH - Global Discrete Optimization for Quad-Dominant Mesh Reduction.md",
+        "properties": {
+            "bibtex": "@inproceedings{10.1145/3799902.3811043,\nauthor = {Luo, Yuzhe and Gao, Jingchen and Pan, Zherong and Wu, Kui and Ji, Xuebo and Jin, Xiaogang and Gao, Xifeng},\ntitle = {Global Discrete Optimization for Quad-Dominant Mesh Reduction},\nyear = {2026},\nisbn = {9798400725548},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nurl = {https://doi.org/10.1145/3799902.3811043},\ndoi = {10.1145/3799902.3811043},\nabstract = {We present a global, discrete optimization framework for quad-dominant mesh reduction that formulates simplification as an edge selection problem under coupled topological and geometric constraints. Unlike greedy edge-collapse heuristics, which make irreversible local decisions, and rigid poly-chord removal schemes, which over-constrain global structure, our method casts quad-dominant reduction as an Integer Linear Programming (ILP) problem that jointly optimizes edge flow continuity and geometric fidelity in a single global optimization. To make this formulation both tractable and adaptive, we segment poly-chords at geometrically meaningful breakpoints to relax otherwise rigid topological constraints, and introduce geometry-aware soft constraints that steer the optimization toward preserving high-curvature and deformation-critical regions. Extensive experiments demonstrate that our approach consistently outperforms state-of-the-art methods in preserving quad structure and edge flow, while achieving competitive geometric accuracy and significantly benefiting downstream editing applications.},\nbooktitle = {Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers},\narticleno = {156},\nnumpages = {11},\nlocation = {\n},\nseries = {SIGGRAPH Conference Papers '26}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quad-dominant",
+                "quadrangulate",
+                "reduction"
+            ],
+            "teaser": "Pasted image 20260811113717.png"
+        },
+        "bibtex_parsed": {
+            "title": "Global Discrete Optimization for Quad-Dominant Mesh Reduction",
+            "author": "Luo, Yuzhe and Gao, Jingchen and Pan, Zherong and Wu, Kui and Ji, Xuebo and Jin, Xiaogang and Gao, Xifeng",
+            "venue": "Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers",
+            "doi_url": "https://doi.org/10.1145/3799902.3811043",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 SIGGRAPH - Global Discrete Optimization for Quad-Dominant Mesh Reduction_Pasted image 20260811113717.png"
+    },
+    {
         "filename": "2019 TOG - Parametrization quantization with free boundaries for trimmed quad meshing.md",
         "properties": {
             "bibtex": "@article{10.1145/3306346.3323019,\r\nauthor = {Lyon, Max and Campen, Marcel and Bommes, David and Kobbelt, Leif},\r\ntitle = {Parametrization quantization with free boundaries for trimmed quad meshing},\r\nyear = {2019},\r\nissue_date = {August 2019},\r\npublisher = {Association for Computing Machinery},\r\naddress = {New York, NY, USA},\r\nvolume = {38},\r\nnumber = {4},\r\nissn = {0730-0301},\r\nurl = {https://doi.org/10.1145/3306346.3323019},\r\ndoi = {10.1145/3306346.3323019},\r\nabstract = {The generation of quad meshes based on surface parametrization techniques has proven to be a versatile approach. These techniques quantize an initial seamless parametrization so as to obtain an integer grid map implying a pure quad mesh. State-of-the-art methods following this approach have to assume that the surface to be meshed either has no boundary, or has a boundary which the resulting mesh is supposed to be aligned to. In a variety of applications this is not desirable and non-boundary-aligned meshes or grid-parametrizations are preferred. We thus present a technique to robustly generate integer grid maps which are either boundary-aligned, non-boundary-aligned, or partially boundary-aligned, just as required by different applications. We thereby generalize previous work to this broader setting. This enables the reliable generation of trimmed quad meshes with partial elements along the boundary, preferable in various scenarios, from tiled texturing over design and modeling to fabrication and architecture, due to fewer constraints and hence higher overall mesh quality and other benefits in terms of aesthetics and flexibility.},\r\njournal = {ACM Trans. Graph.},\r\nmonth = jul,\r\narticleno = {51},\r\nnumpages = {14},\r\nkeywords = {trimmed NURBS, seamless texturing, seamless parametrization, motorcycle graph}\r\n}",
