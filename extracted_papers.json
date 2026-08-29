@@ -1631,7 +1631,7 @@
         "filename": "2026 TOG - SQuadGen - Generating Simple Quad Layouts via Chart Distance Fields.md",
         "properties": {
             "bibtex": "@article{kong2026squadgen,\n  title     = {SQuadGen: Generating Simple Quad Layouts via Chart Distance Fields},\n  author    = {Kong, Youkang and Liu, Yang and Dong, Yue and Tong, Xin and Shum, Heung-Yeung},\n  journal   = {ACM Trans. Graph. (SIGGRAPH)},\n  volume    = {45},\n  number    = {4},\n  year      = {2026},\n}",
-            "code": "",
+            "code": "https://github.com/microsoft/SQuadGen",
             "data": "",
             "project": "https://youkang-kong.github.io/squadgen/",
             "slide": "",
