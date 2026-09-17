@@ -1824,31 +1824,6 @@
         "img_path": ".img/2021 CGF - Quad Layouts via Constrained T-Mesh Quantization_Pasted image 20250324105720.png"
     },
     {
-        "filename": "2012 TOG - Dual loops meshing - quality quad layouts on manifolds.md",
-        "properties": {
-            "bibtex": "@article{10.1145/2185520.2185606,\nauthor = {Campen, Marcel and Bommes, David and Kobbelt, Leif},\ntitle = {Dual loops meshing: quality quad layouts on manifolds},\nyear = {2012},\nissue_date = {July 2012},\npublisher = {Association for Computing Machinery},\naddress = {New York, NY, USA},\nvolume = {31},\nnumber = {4},\nissn = {0730-0301},\nurl = {https://doi.org/10.1145/2185520.2185606},\ndoi = {10.1145/2185520.2185606},\nabstract = {We present a theoretical framework and practical method for the automatic construction of simple, all-quadrilateral patch layouts on manifold surfaces. The resulting layouts are coarse, surface-embedded cell complexes well adapted to the geometric structure, hence they are ideally suited as domains and base complexes for surface parameterization, spline fitting, or subdivision surfaces and can be used to generate quad meshes with a high-level patch structure that are advantageous in many application scenarios. Our approach is based on the careful construction of the layout graph's combinatorial dual. In contrast to the primal this dual perspective provides direct control over the globally interdependent structural constraints inherent to quad layouts. The dual layout is built from curvature-guided, crossing loops on the surface. A novel method to construct these efficiently in a geometry- and structure-aware manner constitutes the core of our approach.},\njournal = {ACM Trans. Graph.},\nmonth = jul,\narticleno = {110},\nnumpages = {11},\nkeywords = {base complex, edge flow, parameterization, quad mesh, segmentation, simplification}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "quadrangulate",
-                "layouts"
-            ],
-            "teaser": "Pasted image 20250317195452.png"
-        },
-        "bibtex_parsed": {
-            "title": "Dual loops meshing: quality quad layouts on manifolds",
-            "author": "Campen, Marcel and Bommes, David and Kobbelt, Leif",
-            "venue": "ACM Trans. Graph.",
-            "doi_url": "https://doi.org/10.1145/2185520.2185606",
-            "year": "2012",
-            "month": "July"
-        },
-        "img_path": ".img/2012 TOG - Dual loops meshing - quality quad layouts on manifolds_Pasted image 20250317195452.png"
-    },
-    {
         "filename": "2025 ICCV - NeuFrameQ - Neural Frame Fields for Scalable and Generalizable Anisotropic Quadrangulation.md",
         "properties": {
             "bibtex": "@InProceedings{Liu_2025_ICCV, author = {Liu, Ying-Tian and Li, Jiajun and Liu, Yu-Tao and Yu, Xin and Guo, Yuan-Chen and Cao, Yan-Pei and Liang, Ding and Shamir, Ariel and Zhang, Song-Hai}, title = {NeuFrameQ: Neural Frame Fields for Scalable and Generalizable Anisotropic Quadrangulation}, booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}, month = {October}, year = {2025}, pages = {28000-28009} }",
