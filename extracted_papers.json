@@ -2644,6 +2644,32 @@
         "img_path": ".img/2014 TOG - Level-of-detail quad meshing_Pasted image 20250318204931.png"
     },
     {
+        "filename": "2026 JCP - Optimal quasi-structured quad-dominant adapted meshes for high-order discontinuous Galerkin fluid flow simulations.md",
+        "properties": {
+            "bibtex": "@article{KAIN2026115461,\ntitle = {Optimal quasi-structured quad-dominant adapted meshes for high-order discontinuous Galerkin fluid flow simulations},\njournal = {Journal of Computational Physics},\npages = {115461},\nyear = {2026},\nissn = {0021-9991},\ndoi = {https://doi.org/10.1016/j.jcp.2026.115461},\nurl = {https://www.sciencedirect.com/science/article/pii/S0021999126008090},\nauthor = {Dipendrasingh Kain and Priyansu Tank and Ajay Rangarajan and Aravind Balan},\nkeywords = {Mesh Adaptation, Metric field, Discontinuous Galerkin, Compressible Flows, Computational Fluid Dynamics, Optimization},\nabstract = {Metric-based mesh generation offers a flexible framework for automatically generating adapted unstructured triangular/tetrahedral meshes for fluid flow simulations. Flows around aerospace vehicles exhibit strong anisotropic features, including boundary layers and shocks. Misalignment of element interfaces with these features may degrade solver stability and accuracy. To address this, the present work extends the metric field framework to generate quasi-structured quad-dominant meshes, particularly suitable for high-order finite element methods (FEM). An optimal metric field that minimizes the high-order interpolation error estimate in the chosen solution variable is employed, making it suitable for high-order Discontinuous Galerkin (DG) FEM. A metric-based mesh generator is developed that leverages the local eigen-structure of the metric field to produce metric-conforming quasi-structured triangular mesh, which is optimally combined to yield adapted quasi-structured quad-dominant meshes. A robust metric gradation algorithm is also introduced to smooth irregular variations in the metric field, which is essential for generating high-quality quad meshes. The framework is integrated with a DG solver and validated through multiple test cases. For a 2D scalar advection-diffusion problem, numerical results confirm element-wise error equidistribution, thereby demonstrating mesh optimality. Optimal error convergence rates were obtained for varying solution approximation polynomial degrees. For compressible flow problems, such as inviscid supersonic flow over a diamond airfoil, subsonic flow over a NACA0012 airfoil, turbulent flow over a flat plate, and inviscid supersonic flow over a NACA0012 airfoil the adaptation framework yields high-quality quad-dominant meshes aligned with the flow features, resulting in improved drag convergence in terms of degrees of freedom (DoF). Especially for the turbulent test case, the quasi-structured meshes yield accurate drag values on much coarser meshes compared to the results from NASA’s Turbulence Modeling Resource, which uses finite-volume solvers on expert-generated meshes. The quasi-structured meshes resulted in better drag convergence and a smoother variation of the skin friction coefficient compared to the oscillating nature observed in unstructured adapted meshes. The mesh generation framework generates high-quality meshes while maintaining the robustness and geometric flexibility of unstructured adaptation algorithms.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quad-dominant",
+                "quadrangulate",
+                "adaptive"
+            ],
+            "teaser": "Pasted image 20261006145508.png"
+        },
+        "bibtex_parsed": {
+            "title": "Optimal quasi-structured quad-dominant adapted meshes for high-order discontinuous Galerkin fluid flow simulations",
+            "author": "Dipendrasingh Kain and Priyansu Tank and Ajay Rangarajan and Aravind Balan",
+            "venue": "Journal of Computational Physics",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0021999126008090",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 JCP - Optimal quasi-structured quad-dominant adapted meshes for high-order discontinuous Galerkin fluid flow simulations_Pasted image 20261006145508.png"
+    },
+    {
         "filename": "2015 TOG - Data-driven interactive quadrangulation.md",
         "properties": {
             "bibtex": "@article{10.1145/2766964,\r\nauthor = {Marcias, Giorgio and Takayama, Kenshi and Pietroni, Nico and Panozzo, Daniele and Sorkine-Hornung, Olga and Puppo, Enrico and Cignoni, Paolo},\r\ntitle = {Data-driven interactive quadrangulation},\r\nyear = {2015},\r\nissue_date = {August 2015},\r\npublisher = {Association for Computing Machinery},\r\naddress = {New York, NY, USA},\r\nvolume = {34},\r\nnumber = {4},\r\nissn = {0730-0301},\r\nurl = {https://doi.org/10.1145/2766964},\r\ndoi = {10.1145/2766964},\r\nabstract = {We propose an interactive quadrangulation method based on a large collection of patterns that are learned from models manually designed by artists. The patterns are distilled into compact quadrangulation rules and stored in a database. At run-time, the user draws strokes to define patches and desired edge flows, and the system queries the database to extract fitting patterns to tessellate the sketches' interiors. The quadrangulation patterns are general and can be applied to tessellate large regions while controlling the positions of the singularities and the edge flow. We demonstrate the effectiveness of our algorithm through a series of live retopology sessions and an informal user study with three professional artists.},\r\njournal = {ACM Trans. Graph.},\r\nmonth = jul,\r\narticleno = {65},\r\nnumpages = {10},\r\nkeywords = {polygon quadrangulation, quad meshing, retopology}\r\n}",
