@@ -1428,7 +1428,7 @@
             "bibtex": "@misc{zhang2026quadlinkautoregressivequaddominantmesh,\n      title={QuadLink: Autoregressive Quad-Dominant Mesh Generation via Point-Relation Learning}, \n      author={Yiheng Zhang and Zhe Zhu and Tingrui Shen and Zhuojiang Cai and Tianxiao Li and Zixing Zhao and Qiujie Dong and Zhiyang Dou and Jiepeng Wang and Le Wan and Yuwang Wang and Wenping Wang and Yuan Liu and Cheng Lin},\n      year={2026},\n      eprint={2605.16813},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2605.16813}, \n}",
             "code": "",
             "data": "",
-            "project": "",
+            "project": "https://graphic-kiliani.github.io/QuadLink-homepage/",
             "slide": "",
             "supplemental": "",
             "tags": [
