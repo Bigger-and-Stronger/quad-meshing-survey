@@ -3307,6 +3307,31 @@
         "img_path": ".img/2022 CG - Closed-form quadrangulation of n-sided patches_Pasted image 20250323141054.png"
     },
     {
+        "filename": "2027 CAD - Anisotropic NURBS-compatible manifold spline reconstruction for arbitrary topological quadrilateral meshes.md",
+        "properties": {
+            "bibtex": "@article{CHEN2027104178,\ntitle = {Anisotropic NURBS-compatible manifold spline reconstruction for arbitrary topological quadrilateral meshes},\njournal = {Computer-Aided Design},\nvolume = {202},\npages = {104178},\nyear = {2027},\nissn = {0010-4485},\ndoi = {https://doi.org/10.1016/j.cad.2026.104178},\nurl = {https://www.sciencedirect.com/science/article/pii/S0010448526001491},\nauthor = {Fuwei Chen and Ruiyuan Yang and Junkang Li and Na Lei and Zhongxuan Luo},\nkeywords = {Manifold splines, Arbitrary topology, Polar form, NURBS compatibility},\nabstract = {Traditional manifold splines offer significant theoretical advantages for representing surfaces of arbitrary topology. However, existing reconstruction methods typically rely on uniform parametric configurations, leading to severe control point redundancy in flat regions and insufficient geometric representation in high-curvature areas. Furthermore, their non-standard mathematical formulations severely hinder their integration with mainstream Computer-Aided Design systems. To overcome these bottlenecks, this paper proposes an anisotropic NURBS-compatible manifold spline reconstruction method for arbitrary topological quadrilateral meshes. Taking a quad mesh as input, the method first establishes local chart mappings to support smooth connectivity around extraordinary points, and derives a NURBS-equivalent representation of the manifold spline surfaces, bridging the gap between advanced geometric theory and industrial standards. Building upon this, to achieve a balance between the degrees of freedom of the control mesh and geometric fidelity, a curvature-driven adaptive reconstruction mechanism is introduced. This mechanism dynamically guides the spatial distribution of control points based on local geometric features with significant anisotropic characteristics. Experimental results demonstrate that the proposed framework efficiently converts complex topological meshes into standard NURBS models and resolves data incompatibility issues.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "high_order"
+            ],
+            "teaser": "Pasted image 20261010210627.png"
+        },
+        "bibtex_parsed": {
+            "title": "Anisotropic NURBS-compatible manifold spline reconstruction for arbitrary topological quadrilateral meshes",
+            "author": "Fuwei Chen and Ruiyuan Yang and Junkang Li and Na Lei and Zhongxuan Luo",
+            "venue": "Computer-Aided Design",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0010448526001491",
+            "year": "2027",
+            "month": ""
+        },
+        "img_path": ".img/2027 CAD - Anisotropic NURBS-compatible manifold spline reconstruction for arbitrary topological quadrilateral meshes_Pasted image 20261010210627.png"
+    },
+    {
         "filename": "2024 TOG - Capacitive Touch Sensing on General 3D Surfaces.md",
         "properties": {
             "bibtex": "@article{10.1145/3658185,\r\nauthor = {Palma, Gianpaolo and Pourjafarian, Narges and Steimle, J\\\"{u}rgen and Cignoni, Paolo},\r\ntitle = {Capacitive Touch Sensing on General 3D Surfaces},\r\nyear = {2024},\r\nissue_date = {July 2024},\r\npublisher = {Association for Computing Machinery},\r\naddress = {New York, NY, USA},\r\nvolume = {43},\r\nnumber = {4},\r\nissn = {0730-0301},\r\nurl = {https://doi.org/10.1145/3658185},\r\ndoi = {10.1145/3658185},\r\nabstract = {Mutual-capacitive sensing is the most common technology for detecting multi-touch, especially on flat and simple curvature surfaces. Its extension to a more complex shape is still challenging, as a uniform distribution of sensing electrodes is required for consistent touch sensitivity across the surface. To overcome this problem, we propose a method to adapt the sensor layout of common capacitive multi-touch sensors to more complex 3D surfaces, ensuring high-resolution, robust multi-touch detection. The method automatically computes a grid of transmitter and receiver electrodes with as regular distribution as possible over a general 3D shape. It starts with the computation of a proxy geometry by quad meshing used to place the electrodes through the dual-edge graph. It then arranges electrodes on the surface to minimize the number of touch controllers required for capacitive sensing and the number of input/output pins to connect the electrodes with the controllers. We reach these objectives using a new simplification and clustering algorithm for a regular quad-patch layout. The reduced patch layout is used to optimize the routing of all the structures (surface grooves and internal pipes) needed to host all electrodes on the surface and inside the object's volume, considering the geometric constraints of the 3D shape. Finally, we print the 3D object prototype ready to be equipped with the electrodes. We analyze the performance of the proposed quad layout simplification and clustering algorithm using different quad meshing and characterize the signal quality and accuracy of the capacitive touch sensor for different non-planar geometries. The tested prototypes show precise and robust multi-touch detection with good Signal-to-Noise Ratio and spatial accuracy of about 1mm.},\r\njournal = {ACM Trans. Graph.},\r\nmonth = jul,\r\narticleno = {103},\r\nnumpages = {20},\r\nkeywords = {capacitive touch sensing, geometry processing, interactive surface}\r\n}",
