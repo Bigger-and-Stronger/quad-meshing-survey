@@ -3152,6 +3152,31 @@
         "img_path": ".img/1999 - Q‐Morph - an indirect approach to advancing front quad meshing_Pasted image 20260318223016.png"
     },
     {
+        "filename": "2026 - Q-MAGIC - Quad-only Mesh Autoregressive Generation via Singularity-Aware Circular Relative Offset Tokenization.md",
+        "properties": {
+            "bibtex": "@misc{zhao2026qmagicquadonlymeshautoregressive,\n      title={Q-MAGIC: Quad-only Mesh Autoregressive Generation via Singularity-Aware Circular Relative Offset Tokenization}, \n      author={Yuming Zhao and Zezeng Li and Weimin Wang and Xiang Wu and Na Lei},\n      year={2026},\n      eprint={2610.19777},\n      archivePrefix={arXiv},\n      primaryClass={cs.CV},\n      url={https://arxiv.org/abs/2610.19777}, \n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "neural"
+            ],
+            "teaser": "Pasted image 20261015130612.png"
+        },
+        "bibtex_parsed": {
+            "title": "Q-MAGIC: Quad-only Mesh Autoregressive Generation via Singularity-Aware Circular Relative Offset Tokenization",
+            "author": "Yuming Zhao and Zezeng Li and Weimin Wang and Xiang Wu and Na Lei",
+            "venue": "",
+            "doi_url": "https://arxiv.org/abs/2610.19777",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 - Q-MAGIC - Quad-only Mesh Autoregressive Generation via Singularity-Aware Circular Relative Offset Tokenization_Pasted image 20261015130612.png"
+    },
+    {
         "filename": "2025 - On Quad Mesh Extraction From Messy Grid Preserving Maps.md",
         "properties": {
             "bibtex": "@misc{ray2025quadmeshextractionmessy,\n      title={On Quad Mesh Extraction From Messy Grid Preserving Maps}, \n      author={Nicolas Ray},\n      year={2025},\n      eprint={2507.15404},\n      archivePrefix={arXiv},\n      primaryClass={cs.CG},\n      url={https://arxiv.org/abs/2507.15404}, \n}",
