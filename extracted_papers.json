@@ -347,6 +347,33 @@
         "img_path": ".img/2024 TOG - Quad mesh mechanisms_Pasted image 20260318210945.png"
     },
     {
+        "filename": "2016 CGF - Polycube Simplification for Coarse Layouts of Surfaces and Volumes.md",
+        "properties": {
+            "bibtex": "@article{https://doi.org/10.1111/cgf.12959,\nauthor = {Cherchi, Gianmarco and Livesu, Marco and Scateni, Riccardo},\ntitle = {Polycube Simplification for Coarse Layouts of Surfaces and Volumes},\njournal = {Computer Graphics Forum},\nvolume = {35},\nnumber = {5},\npages = {11-20},\nkeywords = {Categories and Subject Descriptors (according to ACM CCS), I.3.5 Computer Graphics: Computational Geometry and Object Modeling—Geometric algorithms, languages, and systems},\ndoi = {https://doi.org/10.1111/cgf.12959},\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12959},\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.12959},\nabstract = {Abstract Representing digital objects with structured meshes that embed a coarse block decomposition is a relevant problem in applications like computer animation, physically-based simulation and Computer Aided Design (CAD). One of the key ingredients to produce coarse block structures is to achieve a good alignment between the mesh singularities (i.e., the corners of each block). In this paper we improve on the polycube-based meshing pipeline to produce both surface and volumetric coarse block-structured meshes of general shapes. To this aim we add a new step in the pipeline. Our goal is to optimize the positions of the polycube corners to produce as coarse as possible base complexes. We rely on re-mapping the positions of the corners on an integer grid and then using integer numerical programming to reach the optimal. To the best of our knowledge this is the first attempt to solve the singularity misalignment problem directly in polycube space. Previous methods for polycube generation did not specifically address this issue. Our corner optimization strategy is efficient and requires a negligible extra running time for the meshing pipeline. In the paper we show that our optimized polycubes produce coarser block structured surface and volumetric meshes if compared with previous approaches. They also induce higher quality hexahedral meshes and are better suited for spline fitting because they reduce the number of splines necessary to cover the domain, thus improving both the efficiency and the overall level of smoothness throughout the volume.},\nyear = {2016}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "hex_meshing",
+                "quadrangulate",
+                "polycube",
+                "layouts"
+            ],
+            "teaser": "Pasted image 20261015231054.png"
+        },
+        "bibtex_parsed": {
+            "title": "Polycube Simplification for Coarse Layouts of Surfaces and Volumes",
+            "author": "Cherchi, Gianmarco and Livesu, Marco and Scateni, Riccardo",
+            "venue": "Computer Graphics Forum",
+            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.12959",
+            "year": "2016",
+            "month": ""
+        },
+        "img_path": ".img/2016 CGF - Polycube Simplification for Coarse Layouts of Surfaces and Volumes_Pasted image 20261015231054.png"
+    },
+    {
         "filename": "2011 CGF - Global Structure Optimization of Quadrilateral Meshes.md",
         "properties": {
             "bibtex": "@article{https://doi.org/10.1111/j.1467-8659.2011.01868.x,\r\nauthor = {Bommes, David and Lempfer, Timm and Kobbelt, Leif},\r\ntitle = {Global Structure Optimization of Quadrilateral Meshes},\r\njournal = {Computer Graphics Forum},\r\nvolume = {30},\r\nnumber = {2},\r\npages = {375-384},\r\nkeywords = {I.3.5 Computer Graphics: Computational Geometry and Object Modeling, Hierarchy and geometric transformations, Curve, surface, solid, and object representations},\r\ndoi = {https://doi.org/10.1111/j.1467-8659.2011.01868.x},\r\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8659.2011.01868.x},\r\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1467-8659.2011.01868.x},\r\nabstract = {Abstract We introduce a fully automatic algorithm which optimizes the high-level structure of a given quadrilateral mesh to achieve a coarser quadrangular base complex. Such a topological optimization is highly desirable, since state-of-the-art quadrangulation techniques lead to meshes which have an appropriate singularity distribution and an anisotropic element alignment, but usually they are still far away from the high-level structure which is typical for carefully designed meshes manually created by specialists and used e.g. in animation or simulation. In this paper we show that the quality of the high-level structure is negatively affected by helical configurations within the quadrilateral mesh. Consequently we present an algorithm which detects helices and is able to remove most of them by applying a novel grid preserving simplification operator (GP-operator) which is guaranteed to maintain an all-quadrilateral mesh. Additionally it preserves the given singularity distribution and in particular does not introduce new singularities. For each helix we construct a directed graph in which cycles through the start vertex encode operations to remove the corresponding helix. Therefore a simple graph search algorithm can be performed iteratively to remove as many helices as possible and thus improve the high-level structure in a greedy fashion. We demonstrate the usefulness of our automatic structure optimization technique by showing several examples with varying complexity.},\r\nyear = {2011}\r\n}",
@@ -1350,7 +1377,7 @@
             "bibtex": "@inproceedings{10.1145/2024156.2024176,\r\nauthor = {Tarini, Marco and Puppo, Enrico and Panozzo, Daniele and Pietroni, Nico and Cignoni, Paolo},\r\ntitle = {Simple quad domains for field aligned mesh parametrization},\r\nyear = {2011},\r\nisbn = {9781450308076},\r\npublisher = {Association for Computing Machinery},\r\naddress = {New York, NY, USA},\r\nurl = {https://doi.org/10.1145/2024156.2024176},\r\ndoi = {10.1145/2024156.2024176},\r\nabstract = {We present a method for the global parametrization of meshes that preserves alignment to a cross field in input while obtaining a parametric domain made of few coarse axis-aligned rectangular patches, which form an abstract base complex without T-junctions. The method is based on the topological simplification of the cross field in input, followed by global smoothing.},\r\nbooktitle = {Proceedings of the 2011 SIGGRAPH Asia Conference},\r\narticleno = {142},\r\nnumpages = {12},\r\nkeywords = {quad mesh, mesh parametrization},\r\nlocation = {Hong Kong, China},\r\nseries = {SA '11}\r\n}",
             "code": "",
             "data": "",
-            "project": "",
+            "project": "https://vcg.isti.cnr.it/publication/2011/TPPPC11/",
             "slide": "",
             "supplemental": "",
             "tags": [
@@ -1619,30 +1646,6 @@
             "month": ""
         },
         "img_path": ".img/2024 - Quadrilateral surface mesh generation with improved quality by combination of triangles_Pasted image 20260318221623.png"
-    },
-    {
-        "filename": "2019 TOG - Parametrization quantization with free boundaries for trimmed quad meshing.md",
-        "properties": {
-            "bibtex": "@article{10.1145/3306346.3323019,\r\nauthor = {Lyon, Max and Campen, Marcel and Bommes, David and Kobbelt, Leif},\r\ntitle = {Parametrization quantization with free boundaries for trimmed quad meshing},\r\nyear = {2019},\r\nissue_date = {August 2019},\r\npublisher = {Association for Computing Machinery},\r\naddress = {New York, NY, USA},\r\nvolume = {38},\r\nnumber = {4},\r\nissn = {0730-0301},\r\nurl = {https://doi.org/10.1145/3306346.3323019},\r\ndoi = {10.1145/3306346.3323019},\r\nabstract = {The generation of quad meshes based on surface parametrization techniques has proven to be a versatile approach. These techniques quantize an initial seamless parametrization so as to obtain an integer grid map implying a pure quad mesh. State-of-the-art methods following this approach have to assume that the surface to be meshed either has no boundary, or has a boundary which the resulting mesh is supposed to be aligned to. In a variety of applications this is not desirable and non-boundary-aligned meshes or grid-parametrizations are preferred. We thus present a technique to robustly generate integer grid maps which are either boundary-aligned, non-boundary-aligned, or partially boundary-aligned, just as required by different applications. We thereby generalize previous work to this broader setting. This enables the reliable generation of trimmed quad meshes with partial elements along the boundary, preferable in various scenarios, from tiled texturing over design and modeling to fabrication and architecture, due to fewer constraints and hence higher overall mesh quality and other benefits in terms of aesthetics and flexibility.},\r\njournal = {ACM Trans. Graph.},\r\nmonth = jul,\r\narticleno = {51},\r\nnumpages = {14},\r\nkeywords = {trimmed NURBS, seamless texturing, seamless parametrization, motorcycle graph}\r\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "quadrangulate"
-            ],
-            "teaser": "Pasted image 20260318214530.png"
-        },
-        "bibtex_parsed": {
-            "title": "Parametrization quantization with free boundaries for trimmed quad meshing",
-            "author": "Lyon, Max and Campen, Marcel and Bommes, David and Kobbelt, Leif",
-            "venue": "ACM Trans. Graph.",
-            "doi_url": "https://doi.org/10.1145/3306346.3323019",
-            "year": "2019",
-            "month": "July"
-        },
-        "img_path": ".img/2019 TOG - Parametrization quantization with free boundaries for trimmed quad meshing_Pasted image 20260318214530.png"
     },
     {
         "filename": "2022 SIGGRAPH - Face Extrusion Quad Meshes.md",
@@ -2318,31 +2321,6 @@
             "month": "November"
         },
         "img_path": ".img/2015 TOG - Quantized global parametrization_Pasted image 20250324214527.png"
-    },
-    {
-        "filename": "2021 CGF - Simpler Quad Layouts using Relaxed Singularities.md",
-        "properties": {
-            "bibtex": "@article{https://doi.org/10.1111/cgf.14365,\r\nauthor = {Lyon, M. and Campen, M. and Kobbelt, L.},\r\ntitle = {Simpler Quad Layouts using Relaxed Singularities},\r\njournal = {Computer Graphics Forum},\r\nvolume = {40},\r\nnumber = {5},\r\npages = {169-180},\r\nkeywords = {CCS Concepts, • Computing methodologies → Computer graphics; Mesh models, Mesh geometry models, Shape modeling},\r\ndoi = {https://doi.org/10.1111/cgf.14365},\r\nurl = {https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14365},\r\neprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14365},\r\nabstract = {Abstract A common approach to automatic quad layout generation on surfaces is to, in a first stage, decide on the positioning of irregular layout vertices, followed by finding sensible layout edges connecting these vertices and partitioning the surface into quadrilateral patches in a second stage. While this two-step approach reduces the problem's complexity, this separation also limits the result quality. In the worst case, the set of layout vertices fixed in the first stage without consideration of the second may not even permit a valid quad layout. We propose an algorithm for the creation of quad layouts in which the initial layout vertices can be adjusted in the second stage. Whenever beneficial for layout quality or even validity, these vertices may be moved within a prescribed radius or even be removed. Our algorithm is based on a robust quantization strategy, turning a continuous T-mesh structure into a discrete layout. We show the effectiveness of our algorithm on a variety of inputs.},\r\nyear = {2021}\r\n}",
-            "code": "",
-            "data": "",
-            "project": "https://www.graphics.rwth-aachen.de/publication/03336/",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "quadrangulate",
-                "layouts"
-            ],
-            "teaser": "Pasted image 20260318213750.png"
-        },
-        "bibtex_parsed": {
-            "title": "Simpler Quad Layouts using Relaxed Singularities",
-            "author": "Lyon, M. and Campen, M. and Kobbelt, L.",
-            "venue": "Computer Graphics Forum",
-            "doi_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14365",
-            "year": "2021",
-            "month": ""
-        },
-        "img_path": ".img/2021 CGF - Simpler Quad Layouts using Relaxed Singularities_Pasted image 20260318213750.png"
     },
     {
         "filename": "2024 CAGD - Feature-preserving quadrilateral mesh Boolean operation with cross-field guided layout blending.md",
