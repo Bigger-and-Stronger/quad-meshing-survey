@@ -49,32 +49,6 @@
         "img_path": ".img/2014 GM - An effective quad-dominant meshing method for unorganized point clouds_Pasted image 20260318215518.png"
     },
     {
-        "filename": "2026 arXiv - Curve resampling based high-quality high-order unstructured quadrilateral mesh generation.md",
-        "properties": {
-            "bibtex": "@article{WENG2026119191,\ntitle = {Curve resampling based high-quality high-order unstructured quadrilateral mesh generation},\njournal = {Computer Methods in Applied Mechanics and Engineering},\nvolume = {461},\npages = {119191},\nyear = {2026},\nissn = {0045-7825},\ndoi = {https://doi.org/10.1016/j.cma.2026.119191},\nurl = {https://www.sciencedirect.com/science/article/pii/S0045782526004640},\nauthor = {Yongjia Weng and Lufeng Liu and Zhonggui Chen and Xuan Zhou and Juan Cao},\nkeywords = {High-order quadrilateral mesh, Curve reconstruction, High-quality mesh, Geometric error-bounded},\nabstract = {High-order quadrilateral meshes offer superior accuracy and computational efficiency in numerical simulations. However, existing methods struggle to simultaneously preserve boundary/interface features, ensure high quality, and achieve efficient generation, particularly for complex geometries where degenerate and inverted elements frequently occur. To address this issue, this paper proposes a high-quality high-order unstructured quadrilateral mesh generation method based on geometric error-bounded curve reconstruction, which employs an indirect approach to enforce interface consistency. By optimization-based curve reconstruction strategies, our method improves mesh quality while maintaining the validity of high-order elements. Compared to direct high-order mesh optimization techniques, our approach reduces the optimization problem to curve reconstruction problem, significantly lowering computational complexity and enhancing efficiency. Experimental results demonstrate that the proposed method efficiently generates high-quality high-order quadrilateral meshes while preserving boundary/interface geometric features, offering improved adaptability and numerical stability in complex geometries.}\n}",
-            "code": "",
-            "data": "",
-            "project": "",
-            "slide": "",
-            "supplemental": "",
-            "tags": [
-                "quadrangulate",
-                "high_order",
-                "combination"
-            ],
-            "teaser": "Pasted image 20260325222453.png"
-        },
-        "bibtex_parsed": {
-            "title": "Curve resampling based high-quality high-order unstructured quadrilateral mesh generation",
-            "author": "Yongjia Weng and Lufeng Liu and Zhonggui Chen and Xuan Zhou and Juan Cao",
-            "venue": "Computer Methods in Applied Mechanics and Engineering",
-            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0045782526004640",
-            "year": "2026",
-            "month": ""
-        },
-        "img_path": ".img/2026 arXiv - Curve resampling based high-quality high-order unstructured quadrilateral mesh generation_Pasted image 20260325222453.png"
-    },
-    {
         "filename": "2026 - An efficient and stable diffusion generated method for quadrilateral mesh generation in general domains.md",
         "properties": {
             "bibtex": "@misc{dai2026efficientstablediffusiongenerated,\n      title={An efficient and stable diffusion generated method for quadrilateral mesh generation in general domains}, \n      author={Jingwen Dai and Zhonghua Qiao and Dong Wang},\n      year={2026},\n      eprint={2605.27854},\n      archivePrefix={arXiv},\n      primaryClass={math.NA},\n      url={https://arxiv.org/abs/2605.27854}, \n}",
@@ -2223,6 +2197,32 @@
             "month": "November"
         },
         "img_path": ".img/2019 TOG - QuadMixer - layout preserving blending of quadrilateral meshes_Pasted image 20260318214353.png"
+    },
+    {
+        "filename": "2026 CMAME - Curve resampling based high-quality high-order unstructured quadrilateral mesh generation.md",
+        "properties": {
+            "bibtex": "@article{WENG2026119191,\ntitle = {Curve resampling based high-quality high-order unstructured quadrilateral mesh generation},\njournal = {Computer Methods in Applied Mechanics and Engineering},\nvolume = {461},\npages = {119191},\nyear = {2026},\nissn = {0045-7825},\ndoi = {https://doi.org/10.1016/j.cma.2026.119191},\nurl = {https://www.sciencedirect.com/science/article/pii/S0045782526004640},\nauthor = {Yongjia Weng and Lufeng Liu and Zhonggui Chen and Xuan Zhou and Juan Cao},\nkeywords = {High-order quadrilateral mesh, Curve reconstruction, High-quality mesh, Geometric error-bounded},\nabstract = {High-order quadrilateral meshes offer superior accuracy and computational efficiency in numerical simulations. However, existing methods struggle to simultaneously preserve boundary/interface features, ensure high quality, and achieve efficient generation, particularly for complex geometries where degenerate and inverted elements frequently occur. To address this issue, this paper proposes a high-quality high-order unstructured quadrilateral mesh generation method based on geometric error-bounded curve reconstruction, which employs an indirect approach to enforce interface consistency. By optimization-based curve reconstruction strategies, our method improves mesh quality while maintaining the validity of high-order elements. Compared to direct high-order mesh optimization techniques, our approach reduces the optimization problem to curve reconstruction problem, significantly lowering computational complexity and enhancing efficiency. Experimental results demonstrate that the proposed method efficiently generates high-quality high-order quadrilateral meshes while preserving boundary/interface geometric features, offering improved adaptability and numerical stability in complex geometries.}\n}",
+            "code": "",
+            "data": "",
+            "project": "",
+            "slide": "",
+            "supplemental": "",
+            "tags": [
+                "quadrangulate",
+                "high_order",
+                "combination"
+            ],
+            "teaser": "Pasted image 20260325222453.png"
+        },
+        "bibtex_parsed": {
+            "title": "Curve resampling based high-quality high-order unstructured quadrilateral mesh generation",
+            "author": "Yongjia Weng and Lufeng Liu and Zhonggui Chen and Xuan Zhou and Juan Cao",
+            "venue": "Computer Methods in Applied Mechanics and Engineering",
+            "doi_url": "https://www.sciencedirect.com/science/article/pii/S0045782526004640",
+            "year": "2026",
+            "month": ""
+        },
+        "img_path": ".img/2026 CMAME - Curve resampling based high-quality high-order unstructured quadrilateral mesh generation_Pasted image 20260325222453.png"
     },
     {
         "filename": "2025 EC - RFF-meshing - a parallel and anisotropic quad-dominant mesh generation framework based on Riemann frame field.md",
