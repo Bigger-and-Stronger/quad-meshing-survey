@@ -627,7 +627,7 @@
         "filename": "2026 - Look Both Ways Before You Cross - Lifting Cross Fields From 2D Visual Priors.md",
         "properties": {
             "bibtex": "@misc{decatur2026lookwayscrosslifting,\n      title={Look Both Ways Before You Cross: Lifting Cross Fields From 2D Visual Priors}, \n      author={Dale Decatur and Jacob Serfaty and Oded Stein and Amir Vaxman and Rana Hanocka},\n      year={2026},\n      eprint={2605.26062},\n      archivePrefix={arXiv},\n      primaryClass={cs.GR},\n      url={https://arxiv.org/abs/2605.26062}, \n}",
-            "code": "",
+            "code": "https://github.com/threedle/crosslift",
             "data": "",
             "project": "https://crosslift.github.io",
             "slide": "",
